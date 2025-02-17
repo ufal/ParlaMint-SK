@@ -2,7 +2,7 @@
 
 ZENODO-ID := 10884138
 
-SourceTermDir := Source-TSV
+SourceTermDir := Sources-TSV
 
 download-terms-tsv:
 	for t in `seq 1 8`;\
