@@ -1,12 +1,17 @@
 MAKEFLAGS += --no-print-directory
-
+SAMPLE = 
 
 ZENODO-ID := 10884138
 
+PREFIX := $(shell test -n "$(SAMPLE)" && echo -n "Sample")
+
 Terms := *
 SourceTermDir := Sources-TSV
-DataDir := Data
+Source := $(PREFIX)$(SourceTermDir)
+DataDir := $(PREFIX)Data
 DataTeiTextDir := $(DataDir)/TeiText
+
+SampleFilter := $(shell test -n "$(SAMPLE)" && cat $(Source)/date_filter.txt | tr "\n" "|" )
 
 download-terms-tsv:
 	for t in `seq 1 8`;\
@@ -15,7 +20,15 @@ download-terms-tsv:
 
 svk2tei-text:
 	mkdir -p $(DataTeiTextDir)
-	perl  -I Scripts Scripts/svk2tei-text.pl --out-dir $(DataTeiTextDir) --in-files $(SourceTermDir)/SK_term_$(Terms).tsv
+	perl  -I Scripts Scripts/svk2tei-text.pl --out-dir $(DataTeiTextDir) --in-files $(Source)/SK_term_$(Terms).tsv
+
+
+create-sample-source-data:
+	test -n "$(PREFIX)"
+	for f in `ls $(SourceTermDir)/SK_term*.tsv`;\
+	  do head -n1 $$f > $(PREFIX)$$f;\
+	  awk -F"\t" '$$4 ~ /^$(SampleFilter)$$/' $$f >> $(PREFIX)$$f;\
+	done
 
 skv-data:
 	@tail -n +2 -q $(SourceTermDir)/SK_term*.tsv
