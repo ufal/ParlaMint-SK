@@ -341,7 +341,7 @@
             <u xml:id="ParlaMint-SK_2002-10-15-t3m1.u99" who="#IgorPresperín.1950" ana="#chair">
                <seg xml:id="ParlaMint-SK_2002-10-15-t3m1.u99.p1">Diana Dubovská.</seg>
             </u>
-            <u xml:id="ParlaMint-SK_2002-10-15-t3m1.u100" who="#NANA.NA" ana="#regular">
+            <u xml:id="ParlaMint-SK_2002-10-15-t3m1.u100" who="Dubovská, D." ana="#regular">
                <seg xml:id="ParlaMint-SK_2002-10-15-t3m1.u100.p1">Sľubujem.</seg>
             </u>
             <u xml:id="ParlaMint-SK_2002-10-15-t3m1.u101" who="#IgorPresperín.1950" ana="#chair">
@@ -425,7 +425,7 @@
             <u xml:id="ParlaMint-SK_2002-10-15-t3m1.u127" who="#IgorPresperín.1950" ana="#chair">
                <seg xml:id="ParlaMint-SK_2002-10-15-t3m1.u127.p1">Zuzana Plháková.</seg>
             </u>
-            <u xml:id="ParlaMint-SK_2002-10-15-t3m1.u128" who="#NANA.NA" ana="#regular">
+            <u xml:id="ParlaMint-SK_2002-10-15-t3m1.u128" who="Plháková, Z." ana="#regular">
                <seg xml:id="ParlaMint-SK_2002-10-15-t3m1.u128.p1">Sľubujem.</seg>
             </u>
             <u xml:id="ParlaMint-SK_2002-10-15-t3m1.u129" who="#IgorPresperín.1950" ana="#chair">

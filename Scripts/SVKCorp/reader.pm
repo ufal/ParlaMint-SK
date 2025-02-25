@@ -25,6 +25,17 @@ sub new {
         sep_char=> "\t",
         quote_char => undef,
         escape_char => '"',
+        empty_is_undef => 1,
+        blank_is_undef => 1,
+        callbacks => {
+          after_parse => sub {
+            my ($csv, $row) = @_;
+            for my $i (0..@$row) {
+              $row->[$i] = undef if $row->[$i] && $row->[$i] eq 'NA';
+              $row->[$i] = undef if $row->[$i] && $row->[$i] eq 'NA, NA.';
+            }
+          }
+        }
       })
   };
   bless $obj, $classname;
@@ -76,7 +87,7 @@ sub next_row {
   }  
 
   my $date = join('-', unpack "A4A2A2", $row->{date});
-  my $tei_id = "ParlaMint-SK_$date-t".$row->{term}."m".$row->{meeting};
+  my $tei_id = "ParlaMint-SK_$date-t".$row->{term}."m".($row->{meeting}//'--');
   
   my $first_speech = not(defined $self->{tei_id}) || $self->{tei_id} ne $tei_id;
   $self->{speeches} = 0 if $first_speech;

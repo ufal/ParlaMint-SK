@@ -60,7 +60,7 @@ sub add_speech {
   my $utterance = $day->{div}->addNewChild(undef,'u');
   $utterance->setAttributeNS('http://www.w3.org/XML/1998/namespace','id',$speech->{parlamint}->{u_id});
   my $who = $speech->{parlamint}->{speaker_id} ? '#'.$speech->{parlamint}->{speaker_id} : $speech->{raw}->{fullname};
-  $utterance->setAttribute('who',$who);
+  $utterance->setAttribute('who',$who) if $who;
   $utterance->setAttribute('ana',($speech->{raw}->{moderator} ? '#chair' : '#regular'));
   my $seg = $utterance->addNewChild(undef,'seg');
   $seg->setAttributeNS('http://www.w3.org/XML/1998/namespace','id',$speech->{parlamint}->{u_id}.'.p1');
