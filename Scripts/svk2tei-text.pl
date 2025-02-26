@@ -19,10 +19,6 @@ use Data::Dumper;
 use SVKCorp::reader;
 
 
-my $re_note = qr/(?:\[[\S].*?[\S]\]|\([\S].*?[\S]\)|\/[\S].*?[\S]\/)/;
-my $re_text = qr/(?:.+?)/;
-my $re_speaker = qr/(?:(?:\b[\p{Lu}][\pLl]*,? ){2}p[\pLl]* NR SR)/;
-
 my $out_dir;
 my @in_files;
 
@@ -67,7 +63,7 @@ sub add_speech {
 
 
   ## print STDERR "TODO: move this to reader!!!\n";
-  my @content = split_content($speech->{raw}->{speech});
+  my @content = @{$speech->{parlamint}->{content}//[]};
   # print notes and skip whitespaces before utterance
   while(@content && (not($content[0]->{is_text}) || $content[0]->{content} =~ /^\s+$/)) {
     my $note = note_element(shift @content);
@@ -91,31 +87,6 @@ sub add_speech {
 }
 
 
-# split text content into leading/trailing spaces, notes, speech content
-sub split_content {
-  my $text = shift;
-  my $orig = $text;
-  my @content;
-  while($text){
-    if ($text =~ s/^(${re_text})(\s*)(${re_note})//) {
-      push @content, {is_text => 1, content => $1};
-      push @content, {is_text => 1, content => $2};
-      push @content, process_note($3);
-    } elsif ($text =~ s/^(${re_note})//) {
-      push @content, process_note($1);
-    } else {
-      push @content, {is_text => 1, content => $text};
-      $text = '';
-    }
-  }
-  return @content
-}
-sub process_note {
-  my $s = shift;
-  $s = substr $s, 1, -1;
-  ## TODO: annotate note
-  return {is_text => 0, content => $s};
-}
 
 # create a note-like element
 sub note_element {

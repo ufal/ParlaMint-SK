@@ -106,6 +106,7 @@ sub next_row {
       u_id => "$tei_id.u".$self->{speeches},
       speaker_id => get_speaker_id($row),
       date => $date,
+      content => [split_content($row->{speech})],
       doc_url => $row->{transcript_link} =~ /documentId/ ? $row->{transcript_link} : undef,
       u_url => $row->{transcript_link} =~ /transcript/ ? $row->{transcript_link} : undef,
       }
@@ -130,6 +131,34 @@ sub split_speech {
     return ($1,$2,$3);
   }
   return ($text,undef,undef);
+}
+
+# split text content into leading/trailing spaces, notes, speech content
+sub split_content {
+  my $text = shift;
+  my $orig = $text;
+  my $re_note = qr/(?:\[[\S].*?[\S]\]|\([\S].*?[\S]\)|\/[\S].*?[\S]\/)/;
+  my $re_text = qr/(?:.+?)/;
+  my @content;
+  while($text){
+    if ($text =~ s/^(${re_text})(\s*)(${re_note})//) {
+      push @content, {is_text => 1, content => $1};
+      push @content, {is_text => 1, content => $2};
+      push @content, process_note($3);
+    } elsif ($text =~ s/^(${re_note})//) {
+      push @content, process_note($1);
+    } else {
+      push @content, {is_text => 1, content => $text};
+      $text = '';
+    }
+  }
+  return @content
+}
+
+sub process_note {
+  my $s = shift;
+  $s = substr $s, 1, -1;
+  return {is_text => 0, content => $s};
 }
 
 sub open_next_file {
