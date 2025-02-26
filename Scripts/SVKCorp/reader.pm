@@ -137,7 +137,13 @@ sub split_speech {
 sub split_content {
   my $text = shift;
   my $orig = $text;
-  my $re_note = qr/(?:\[[\S].*?[\S]\]|\([\S].*?[\S]\)|\/[\S].*?[\S]\/)/;
+=textsamples
+  ktorý znie: „Zákon č. 333/2011 Z. z. o orgánoch
+  Slovenskej republiky. (2) Monitorovací výbor
+  dopĺňať zákon č. 25/ 2006 z. z.
+=cut
+  my $re_slash = qr/(?<!\d\s?)\/(?!\s?\d)/;
+  my $re_note = qr/(?:\[[\S].*?[\S]\]|\([\S].*?[\S]\)|${re_slash}[\S].*?[\S]${re_slash})/;
   my $re_text = qr/(?:.+?)/;
   my @content;
   while($text){
