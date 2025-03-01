@@ -17,6 +17,7 @@ use File::Spec;
 use Data::Dumper;
 
 use SVKCorp::reader;
+use SVKCorp::classifier;
 
 
 my $out_dir;
@@ -92,8 +93,16 @@ sub add_speech {
 sub note_element {
   my $content = shift;
   return if $content->{is_text};
-  my $note = XML::LibXML::Element->new('note');
-  $note->appendTextChild( 'desc' , $content->{content} );
+  my $note_type = SVKCorp::classifier::note($content->{content});
+  my $note = XML::LibXML::Element->new($note_type->{element});
+  $note->setAttribute($note_type->{attribute}->{name}, $note_type->{attribute}->{value}) if $note_type->{attribute};
+  my $ptr_element = $note;
+  while($note_type->{child}){
+    $note_type = $note_type->{child};
+    $ptr_element = $ptr_element->addNewChild(undef,$note_type->{element});
+    $ptr_element->setAttribute($note_type->{attribute}->{name}, $note_type->{attribute}->{value}) if $note_type->{attribute};
+  }
+  $ptr_element->appendText($content->{content} );
   return $note;
 }
 
