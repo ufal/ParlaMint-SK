@@ -1,19 +1,37 @@
 package SVKCorp::classifier;
 use warnings;
 use strict;
+use open qw(:std :utf8);
+use utf8;
 
 
 
 my @note_classifier = (
+  [qr/hlasovanie/i, 'note', 'narrative'],
   [qr/smiech/i, 'vocal', 'laughter'],
   [qr/zasmiatie/i, 'vocal', 'laughter'],
   [qr/potlesk/i, 'kinesic', 'applause'],
-  [qr/Výkriky/i, 'vocal', 'shouting'],
+  [qr/výkrik/i, 'vocal', 'shouting'],
   [qr/prestávka/i, 'incident', 'pause'],
   [qr/pauza/i, 'incident', 'pause'],
   [qr/prerušenie/i, 'incident', 'break'],
   [qr/gong/i, 'kinesic', 'ringing'],
-
+  [qr/časomier/i, 'kinesic', 'ringing'],
+  [qr/hlas.?/i, 'vocal', 'noise'],
+  [qr/šum/i, 'kinesic', 'noise'],
+  [qr/ruch/i, 'kinesic', 'noise'],
+  [qr/reakci[ea]/i, 'vocal', 'speaking'],
+  [qr/odpoved/i, 'vocal', 'speaking'],
+  [qr/rokovanie o/i, 'note', 'narrative'],
+  [qr/tlač (?:č\S* )?\d+/i, 'note', 'comment'],
+  [qr/nezrozumiteľ/i, 'gap', 'inaudible'],
+  [qr/\b(?:nebolo|nie)\b.*(?:počuť|rozumieť)/i, 'gap', 'inaudible'],
+  [qr/nepočuť/i, 'gap', 'inaudible'], 
+  [qr/(?:reakcia|odpoveď|poznámk|námietka) .*z pléna/i, 'vocal', 'speaking'],
+  [qr/po prestávke/i, 'note', 'comment'],
+  [qr/pozn\. red\./i, 'note', 'comment'],
+  [qr/pokracovanie/i, 'note', 'comment'],
+  [qr/(?:hovoren|povedan|vysloven)\S* súbežne/i, 'note', 'comment'],
 );
 
 
@@ -21,7 +39,7 @@ sub note {
   my $text = shift;
   for my $c (@note_classifier){
     my ($re,$t,$cl) = @$c;
-    return annotate_note($t, $cl) if $text =~ m/${re}/;
+    return annotate_note($t, $cl) if $text =~ /$re/;
   }
   return {
     element => 'note'
@@ -36,6 +54,17 @@ sub annotate_note {
       element => $type,
       attribute => {
         name => 'type',
+        value => $subtype
+      },
+      child => {
+          element => 'desc'
+      }
+    }
+  } elsif ($type eq 'gap' ) {
+    return {
+      element => $type,
+      attribute => {
+        name => 'reason',
         value => $subtype
       },
       child => {
