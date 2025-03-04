@@ -3,6 +3,7 @@ use warnings;
 use strict;
 use Text::CSV qw/csv/;
 use Data::Dumper;
+use HTML::Entities;
 
 sub new {
   my($classname, @arguments) = @_;
@@ -33,6 +34,12 @@ sub new {
             for my $i (0..@$row) {
               $row->[$i] = undef if $row->[$i] && $row->[$i] eq 'NA';
               $row->[$i] = undef if $row->[$i] && $row->[$i] eq 'NA, NA.';
+              if($row->[$i]){
+                $row->[$i] = decode_entities($row->[$i]);
+                $row->[$i] =~ s|<br[ \/]*?>| |g;
+                $row->[$i] =~ s|<.+?>||g;
+                $row->[$i] =~ s|  *| |g;
+              }
             }
           }
         }
