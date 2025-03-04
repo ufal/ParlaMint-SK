@@ -151,7 +151,7 @@ sub split_content {
   dopĺňať zákon č. 25/ 2006 z. z.
 =cut
   my $re_slash = qr/(?<!\d\s?)\/(?!\s?\d)/;
-  my $re_note = qr/(?:\[[\S].*?[\S]\]|\((?!\S\)).*?(?<! [a-z0-9])\)|${re_slash}[\S].*?[\S]${re_slash})/;
+  my $re_note = qr/(?:\[[\S].*?[\S]\]|\((?!\S\.?\)).*?(?<!\([0-9]{,5}\.| [a-z0-9])\)|${re_slash}[\S].*?[\S]${re_slash})/;
   my $re_text = qr/(?:.+?)/;
   my @content;
   while($text){
