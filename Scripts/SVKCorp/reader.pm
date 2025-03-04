@@ -155,7 +155,9 @@ sub split_content {
   my $re_text = qr/(?:.+?)/;
   my @content;
   while($text){
-    if ($text =~ s/^(${re_text})(\s*)(${re_note})//) {
+    if ($text =~ s/^(\s+)//) {
+      push @content, {is_text => 1, content => $1};
+    } elsif ($text =~ s/^(${re_text})(\s*)(${re_note})//) {
       push @content, {is_text => 1, content => $1};
       push @content, {is_text => 1, content => $2};
       push @content, process_note($3);

@@ -41,8 +41,11 @@
       <body>
          <div>
             <u xml:id="ParlaMint-SK_2012-02-29-t5m29.u1" who="#PavolHrušovský.1952" ana="#chair">
-               <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u1.p1">Vážené panie poslankyne, páni poslanci, vítam vás v rokovacej sále Národnej rady Slovenskej republiky. Chcem vás informovať, že som zvolal poradu predsedov poslaneckých klubov, na ktorej prerokovávame priebeh rokovania 29. schôdze Národnej rady Slovenskej republiky. Predsedovia poslaneckých klubov požiadali ešte pred otvorením 29. schôdze Národnej rady Slovenskej republiky, aby sa mohli poradiť so svojimi poslaneckými klubmi, prestávku na rokovanie klubov do 10.30 hodiny. Preto chcem vám oznámiť, že rokovať začneme nie o 10.00 hodine, ako bol pôvodne stanovený termín začiatku rokovania, ale o 10.30 hodine a chcem vás aj informovať, že ma poprosili predsedovia vašich poslaneckých klubov, teda všetkých parlamentných politických strán, aby ste sa do tohto času zúčastnili rokovania na poslaneckých kluboch, kde vám budú oznámené závery z rokovania porady predsedov. Ďakujem pekne. <incident type="pause"><desc>Prestávka.</desc></incident> </seg>
+               <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u1.p1">Vážené panie poslankyne, páni poslanci, vítam vás v rokovacej sále Národnej rady Slovenskej republiky. Chcem vás informovať, že som zvolal poradu predsedov poslaneckých klubov, na ktorej prerokovávame priebeh rokovania 29. schôdze Národnej rady Slovenskej republiky. Predsedovia poslaneckých klubov požiadali ešte pred otvorením 29. schôdze Národnej rady Slovenskej republiky, aby sa mohli poradiť so svojimi poslaneckými klubmi, prestávku na rokovanie klubov do 10.30 hodiny. Preto chcem vám oznámiť, že rokovať začneme nie o 10.00 hodine, ako bol pôvodne stanovený termín začiatku rokovania, ale o 10.30 hodine a chcem vás aj informovať, že ma poprosili predsedovia vašich poslaneckých klubov, teda všetkých parlamentných politických strán, aby ste sa do tohto času zúčastnili rokovania na poslaneckých kluboch, kde vám budú oznámené závery z rokovania porady predsedov. Ďakujem pekne.</seg>
             </u>
+            <incident type="pause">
+               <desc>Prestávka.</desc>
+            </incident>
             <note type="comment">Po prestávke.</note>
             <u xml:id="ParlaMint-SK_2012-02-29-t5m29.u2" who="#PavolHrušovský.1952" ana="#chair">
                <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u2.p1">Panie poslankyne, páni poslanci, poprosím, aby ste sa dostavili a zaujali svoje miesta v rokovacej sále, aby som mohol otvoriť rokovanie 29. schôdze Národnej rady Slovenskej republiky. Otváram rokovanie 29. schôdze Národnej rady. Poprosím vás, aby sme sa pred začatím rokovania prezentovali a overili, či je Národná rada uznášaniaschopná. <note type="narrative">Hlasovanie.</note> 115 poslancov prítomných. Konštatujem, že môžeme rokovať a prijímať rozhodnutia. Chcem informovať, že overovateľmi na 29. schôdzi Národnej rady budú poslankyňa Kiššová a pán poslanec Krajkovič, ich náhradníkmi poslanec Horváth a pani poslankyňa Vitteková. Ďalej chcem informovať, že o ospravedlnenie neúčasti na dnešnom rokovaní požiadali poslanci Chaban z poslaneckého klubu SDKÚ - DS a pán poslanec Raši z poslaneckého klubu strany SMER - sociálna demokracia. Návrh programu vám bol rozdaný. Pristúpime teraz k schvaľovaniu programu schôdze. Pýtam sa, či má niekto do programu návrhy, alebo iné zmeny oproti navrhovanému programu? Pán predseda poslaneckého klubu SMER Paška, nech sa páči.</seg>
@@ -274,16 +277,25 @@
                <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u71.p1">Ústavnoprávny výbor o 11.30 hodine, ďakujem.</seg>
             </u>
             <u xml:id="ParlaMint-SK_2012-02-29-t5m29.u72" who="#PavolHrušovský.1952" ana="#chair">
-               <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u72.p1">(Hlasy v sále.) Prerušujem rokovanie. <incident type="pause"><desc>Prestávka.</desc></incident> </seg>
+               <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u72.p1">(Hlasy v sále.) Prerušujem rokovanie.</seg>
             </u>
+            <incident type="pause">
+               <desc>Prestávka.</desc>
+            </incident>
             <note type="comment">Po prestávke.</note>
             <u xml:id="ParlaMint-SK_2012-02-29-t5m29.u73" who="#PavolHrušovský.1952" ana="#chair">
-               <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u73.p1">Panie poslankyne, páni poslanci, chcem vám oznámiť, že na základe požiadania predsedu gestorského finančného výboru nemôžeme začať rokovať, tak ako sme si dohodli, o štrnástej, ale výbor potrebuje ešte dorokovať a prijať spoločnú správu k zákonom, ku ktorým bol určený ako gestorský výbor. Pán predseda ma uistil, že do 14.30 hodiny výbor môže skončiť rokovanie, preto odkladám začiatok, resp. pokračovanie rokovania 29. schôdze na 14.30 hodinu. <incident type="pause"><desc>Prestávka.</desc></incident> </seg>
+               <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u73.p1">Panie poslankyne, páni poslanci, chcem vám oznámiť, že na základe požiadania predsedu gestorského finančného výboru nemôžeme začať rokovať, tak ako sme si dohodli, o štrnástej, ale výbor potrebuje ešte dorokovať a prijať spoločnú správu k zákonom, ku ktorým bol určený ako gestorský výbor. Pán predseda ma uistil, že do 14.30 hodiny výbor môže skončiť rokovanie, preto odkladám začiatok, resp. pokračovanie rokovania 29. schôdze na 14.30 hodinu.</seg>
             </u>
+            <incident type="pause">
+               <desc>Prestávka.</desc>
+            </incident>
             <note type="comment">Po prestávke.</note>
             <u xml:id="ParlaMint-SK_2012-02-29-t5m29.u74" who="#PavolHrušovský.1952" ana="#chair">
-               <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u74.p1">Panie poslankyne, páni poslanci, ešte pred začatím rokovania chcem poprosiť predsedov poslaneckých klubov, aby sa dostavili na krátku poradu do rokovacej miestnosti poslaneckého grémia. Poprosím predsedov poslaneckých klubov, ešte finančný výbor rokuje, ale potrebujem dohodnúť ďalší procesný postup pri prerokovávaní zostávajúcich troch bodov programu 29. schôdze. <incident type="pause"><desc>Prestávka.</desc></incident> </seg>
+               <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u74.p1">Panie poslankyne, páni poslanci, ešte pred začatím rokovania chcem poprosiť predsedov poslaneckých klubov, aby sa dostavili na krátku poradu do rokovacej miestnosti poslaneckého grémia. Poprosím predsedov poslaneckých klubov, ešte finančný výbor rokuje, ale potrebujem dohodnúť ďalší procesný postup pri prerokovávaní zostávajúcich troch bodov programu 29. schôdze.</seg>
             </u>
+            <incident type="pause">
+               <desc>Prestávka.</desc>
+            </incident>
             <note type="comment">Po prestávke.</note>
             <u xml:id="ParlaMint-SK_2012-02-29-t5m29.u75" who="#PavolHrušovský.1952" ana="#chair">
                <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u75.p1">Panie poslankyne, páni poslanci, prosím, aby ste zaujali svoje miesta v rokovacej sále, prerušili diskusie v skupinách. Budeme pokračovať v rokovaní. Páni poslanci, pán predseda Čaplovič, pán poslanec Janiš, Mikuš. Páni poslanci, prosím, zaujmite svoje miesta. Pán poslanec Marcinčin. Budeme pokračovať v prerušenom rokovaní o vládnom návrhu zákona, ktorým sa mení a dopĺňa zákon 528/2008 Z. z. o pomoci a podpore poskytovanej z fondov Európskeho spoločenstva... <incident type="break"><desc>Ruch v sále. Prerušenie vystúpenia.</desc></incident> Pán poslanec! Pán poslanec Kubovič. ... o ktorom rokujeme v skrátenom legislatívnom konaní, ktorý máte ako parlamentnú tlač 617. Bol vám doručený aj návrh výborov, ktorý máte rozdaný ako tlač 617a. Poprosím teraz, pardon, pán poslanec Paška.</seg>
@@ -377,8 +389,11 @@
                <desc>Prerušenie vystúpenia pokrikmi z balkóna.</desc>
             </incident>
             <u xml:id="ParlaMint-SK_2012-02-29-t5m29.u101" who="#PavolHrušovský.1952" ana="#chair">
-               <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u101.p1">Panie poslankyne, páni poslanci, prerušujem rokovanie, prerušujem rokovanie schôdze na 10 minút. Panie poslankyne, páni poslanci, pán poslanec Galko, poprosil by som vás, keby ste išli svojich hostí upokojiť ma balkón. Prerušujem rokovanie, páni poslanci, prosím. <vocal type="shouting"><desc>Neutíchajúci hluk a výkriky na balkóne.</desc></vocal> Pán poslanec Galko, poprosil by som vás, keby ste išli upokojiť svojich hostí na balkón. <incident type="pause"><desc>Prestávka.</desc></incident> </seg>
+               <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u101.p1">Panie poslankyne, páni poslanci, prerušujem rokovanie, prerušujem rokovanie schôdze na 10 minút. Panie poslankyne, páni poslanci, pán poslanec Galko, poprosil by som vás, keby ste išli svojich hostí upokojiť ma balkón. Prerušujem rokovanie, páni poslanci, prosím. <vocal type="shouting"><desc>Neutíchajúci hluk a výkriky na balkóne.</desc></vocal> Pán poslanec Galko, poprosil by som vás, keby ste išli upokojiť svojich hostí na balkón.</seg>
             </u>
+            <incident type="pause">
+               <desc>Prestávka.</desc>
+            </incident>
             <note type="comment">Po prestávke.</note>
             <u xml:id="ParlaMint-SK_2012-02-29-t5m29.u102" who="#PavolHrušovský.1952" ana="#chair">
                <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u102.p1">Panie poslankyne, páni poslanci, budeme pokračovať v prerušenom rokovaní 29. schôdze vystúpením pána poslanca Počiatka, ktorého vystúpenie nevhodným spôsobom prerušili účastníci rokovania na balkóne Národnej rady. Nech sa páči, pán poslanec Počiatek, máte slovo.</seg>
@@ -501,8 +516,11 @@
                <desc>Potlesk.</desc>
             </kinesic>
             <u xml:id="ParlaMint-SK_2012-02-29-t5m29.u136" who="#PavolHrušovský.1952" ana="#chair">
-               <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u136.p1">Pán predseda. Vyhlasujem 10-minútovú prestávku. <incident type="pause"><desc>Prestávka.</desc></incident> </seg>
+               <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u136.p1">Pán predseda. Vyhlasujem 10-minútovú prestávku.</seg>
             </u>
+            <incident type="pause">
+               <desc>Prestávka.</desc>
+            </incident>
             <note type="comment">Po prestávke.</note>
             <u xml:id="ParlaMint-SK_2012-02-29-t5m29.u137" who="#PavolHrušovský.1952" ana="#chair">
                <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u137.p1">Panie poslankyne, páni poslanci, pristúpime k hlasovaniu. Poprosím teraz, aby sme sa sústredili na hlasovanie. Poprosím spoločného spravodajcu, aby zopakoval návrh, o ktorom žiada hlasovať ako o prvom.</seg>
@@ -553,12 +571,18 @@
                <desc>Krátka pauza.</desc>
             </incident>
             <u xml:id="ParlaMint-SK_2012-02-29-t5m29.u152" who="#PavolHrušovský.1952" ana="#chair">
-               <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u152.p1">Panie poslankyne, páni poslanci prerušujem rokovanie a zvolávam poslanecké grémium. <incident type="pause"><desc>Prestávka.</desc></incident> </seg>
+               <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u152.p1">Panie poslankyne, páni poslanci prerušujem rokovanie a zvolávam poslanecké grémium.</seg>
             </u>
+            <incident type="pause">
+               <desc>Prestávka.</desc>
+            </incident>
             <note type="comment">Po prestávke.</note>
             <u xml:id="ParlaMint-SK_2012-02-29-t5m29.u153" who="#PavolHrušovský.1952" ana="#chair">
-               <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u153.p1">Panie poslankyne, páni poslanci, chcem vás informovať o výsledku rokovania poslaneckého grémia. <kinesic type="applause"><desc>Potlesk.</desc></kinesic> Môžem poprosiť o pozornosť? Po konzultácii aj s legislatívnym odborom, ale aj zosúladení zákona s rokovacím poriadkom a Ústavou Slovenskej republiky som dospel k záveru, že aby sme o zákone ako celku mohli hlasovať, je treba urobiť zásadnú opravu v doteraz schválených pozmeňovacích návrhoch a nevieme to urobiť inak, ako vrátiť zákon do druhého čítania, ktoré vrátenie si bude vyžadovať pripraviť v normatívnej podobe zmenu, podpísať potrebným počtom 30 poslancov a vrátiť na rokovanie Národnej rade Slovenskej republiky. Preto prerušujem rokovanie na pol hodinu, stanovili sme si pre seba vzájomné povinnosti, ktoré je treba urobiť preto, aby sme dodržali aj legislatívny postup, ale aj legislatívnu čistotu a neschválili zákon, za ktorý by sa Národná rada a my všetci hanbili. Takže poprosím o porozumenie. Vyhlasujem polhodinovú prestávku. <incident type="pause"><desc>Prestávka.</desc></incident> </seg>
+               <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u153.p1">Panie poslankyne, páni poslanci, chcem vás informovať o výsledku rokovania poslaneckého grémia. <kinesic type="applause"><desc>Potlesk.</desc></kinesic> Môžem poprosiť o pozornosť? Po konzultácii aj s legislatívnym odborom, ale aj zosúladení zákona s rokovacím poriadkom a Ústavou Slovenskej republiky som dospel k záveru, že aby sme o zákone ako celku mohli hlasovať, je treba urobiť zásadnú opravu v doteraz schválených pozmeňovacích návrhoch a nevieme to urobiť inak, ako vrátiť zákon do druhého čítania, ktoré vrátenie si bude vyžadovať pripraviť v normatívnej podobe zmenu, podpísať potrebným počtom 30 poslancov a vrátiť na rokovanie Národnej rade Slovenskej republiky. Preto prerušujem rokovanie na pol hodinu, stanovili sme si pre seba vzájomné povinnosti, ktoré je treba urobiť preto, aby sme dodržali aj legislatívny postup, ale aj legislatívnu čistotu a neschválili zákon, za ktorý by sa Národná rada a my všetci hanbili. Takže poprosím o porozumenie. Vyhlasujem polhodinovú prestávku.</seg>
             </u>
+            <incident type="pause">
+               <desc>Prestávka.</desc>
+            </incident>
             <note type="comment">Po prestávke.</note>
             <u xml:id="ParlaMint-SK_2012-02-29-t5m29.u154" who="#PavolHrušovský.1952" ana="#chair">
                <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u154.p1">Panie poslankyne, páni poslanci, poprosím všetkých, ktorí nie sú v rokovacej sále, ale sú v budove Národnej rady Slovenskej republiky, aby sa dostavili. Po ťažkých a zložitých rokovaniach sme, zdá sa, dospeli k zhode na riešení, ktoré by mohlo byť kompromisom pre prijatie zákona. Aspoň technickým a legislatívnym, nie politickým, pán poslanec, som zabudol povedať. Preto odporúčam, aby sme, pokiaľ je to možné, sa dostavili do rokovacej sály a pokračovali v prerušenom rokovaní o vládnom návrhu zákona, ktorým sa a mení a dopĺňa zákon o verejnom obstarávaní, ktorý prerokovávame v skrátenom legislatívnom konaní. Pán poslanec Matej? Nech sa páči.</seg>
