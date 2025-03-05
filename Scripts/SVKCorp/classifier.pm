@@ -11,7 +11,7 @@ my @note_classifier = (
   [qr/smiech/i, 'vocal', 'laughter'],
   [qr/zasmiatie/i, 'vocal', 'laughter'],
   [qr/potlesk/i, 'kinesic', 'applause'],
-  [qr/výkrik/i, 'vocal', 'shouting'],
+  [qr/krik/i, 'vocal', 'shouting'],
   [qr/prestávka/i, 'incident', 'pause'],
   [qr/pauza/i, 'incident', 'pause'],
   [qr/prerušenie/i, 'incident', 'break'],
@@ -19,7 +19,8 @@ my @note_classifier = (
   [qr/časomier/i, 'kinesic', 'ringing'],
   [qr/hlas.?/i, 'vocal', 'noise'],
   [qr/šum/i, 'kinesic', 'noise'],
-  [qr/ruch/i, 'kinesic', 'noise'],
+  [qr/ruch/i, 'vocal', 'noise'],
+  [qr/hluk/i, 'vocal', 'noise'],
   [qr/reakci[ea]/i, 'vocal', 'speaking'],
   [qr/odpoved/i, 'vocal', 'speaking'],
   [qr/rokovanie o/i, 'note', 'narrative'],
@@ -32,6 +33,9 @@ my @note_classifier = (
   [qr/pozn\. red\./i, 'note', 'comment'],
   [qr/pokracovanie/i, 'note', 'comment'],
   [qr/(?:hovoren|povedan|vysloven)\S* súbežne/i, 'note', 'comment'],
+  [qr/pobaven/i, 'vocal', 'laughter'],
+  [qr/úsmevo/i, 'vocal', 'laughter'],
+  [qr/zákon/i, 'note', 'comment'],
 );
 
 

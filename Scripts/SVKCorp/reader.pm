@@ -151,17 +151,24 @@ sub split_content {
   dopĺňať zákon č. 25/ 2006 z. z.
 =cut
   my $re_slash = qr/(?<!\d\s?)\/(?!\s?\d)/;
+  my $re_law = qr/(?:\(§ \d+(?: ods. 5(?: bod 3)?)?\))/;
   my $re_note = qr/(?:\[[\S].*?[\S]\]|\((?!\S\.?\)).*?(?:(?<!\([0-9]{,5}\.| [a-z0-9])|ods. \d+|písm. [a-z]|bod [a-z0-9])\)|${re_slash}[\S].*?[\S]${re_slash})/;
   my $re_text = qr/(?:.+?)/;
   my @content;
   while($text){
     if ($text =~ s/^(\s+)//) {
       push @content, {is_text => 1, content => $1};
+    } elsif ($text =~ s/^(${re_text})(\s*)(${re_law})//) {
+      push @content, {is_text => 1, content => $1};
+      push @content, {is_text => 1, content => $2};
+      push @content, process_note($3);
     } elsif ($text =~ s/^(${re_text})(\s*)(${re_note})//) {
       push @content, {is_text => 1, content => $1};
       push @content, {is_text => 1, content => $2};
       push @content, process_note($3);
-    } elsif ($text =~ s/^(${re_note})//) {
+    } elsif ($text =~ s/^(${re_law})//) {
+      push @content, process_note($1);
+    }  elsif ($text =~ s/^(${re_note})//) {
       push @content, process_note($1);
     } else {
       push @content, {is_text => 1, content => $text};
