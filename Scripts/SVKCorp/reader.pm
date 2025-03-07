@@ -135,7 +135,7 @@ sub split_speech {
   my $text = shift;
   return (undef, undef, undef) unless $text;
   my $re_speaker = qr/(?:(?:\b[\p{Lu}\p{Lt}][\p{Lu}\p{Lt}\p{Ll}]*,?\s){2}(?:doteraj[\p{Ll}]*\s)?p[\p{Ll}]* NR SR)/;
-  if($text =~ m/^\s*(.*?)\s*(${re_speaker})(?:\s*\d+\.)\s*(.*?)\s*$/) {
+  if($text =~ m/^\s*(.*?)\s*(?:\s*\d+\.)?(${re_speaker})(?:\s*\d+\.)?\s*(.*?)\s*$/) {
     return ($1,$2,$3);
   }
   return ($text,undef,undef);
