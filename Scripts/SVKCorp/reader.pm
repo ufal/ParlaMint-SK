@@ -186,8 +186,8 @@ sub process_note {
 
 sub process_text {
   my $s = shift;
-  $s =~ s/==*/ /g;
-  $s =~ s/\*\**/ /g;
+  $s =~ s/===*/ /g;
+  $s =~ s/\*\*\**/ /g;
   $s =~ s/  */ /g;
   return {is_text => 1, content => $s};
 }

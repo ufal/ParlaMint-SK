@@ -40,14 +40,14 @@
    <text>
       <body>
          <div>
-            <u xml:id="ParlaMint-SK_2023-09-20-t8m104.u1" who="#PeterPčolinský.1982" ana="#chair">
+            <u xml:id="ParlaMint-SK_2023-09-20-t8m104.u1" who="#PeterPčolinský.1982" ana="#chair" source="http://tv.nrsr.sk/transcript?id=296803">
                <seg xml:id="ParlaMint-SK_2023-09-20-t8m104.u1.p1">Kolegovia, prosím, zaujmite svoje miesta. Vážené pani poslankyne, vážení páni poslanci, včera bol odložený začiatok 104. schôdze Národnej rady Slovenskej republiky na dnešný deň z dôvodu, že na schôdzi nebola prítomná nadpolovičná väčšina všetkých poslancov. Teraz pristúpime k 104. schôdzi Národnej rady. <note type="comment">Bod programu: Návrh skupiny poslancov Národnej rady Slovenskej republiky na prijatie uznesenia Národnej rady Slovenskej republiky k dočasnému obnoveniu kontroly hraníc Slovenskej republiky s Maďarskom, tlač 1775.</note> Prosím, aby ste sa prezentovali a zistili sme, či sme schopní sa uznášať. Prezentujte sa. <note>Prezentácia.</note> Konštatujem, že sa prezentovalo 57 poslancov, a teda Národná rada nie je uznášaniaschopná. Vzhľadom na legislatívne pravidlá a zákon ďalší pokus bude o hodinu. Nevieme to urobiť skôr, musí byť o hodinu, čiže 10.05 h.</seg>
             </u>
             <incident type="break">
                <desc>Prerušenie rokovania o 9.04 hodine.</desc>
             </incident>
             <note>Pokračovanie rokovania o 10.05 hodine.</note>
-            <u xml:id="ParlaMint-SK_2023-09-20-t8m104.u2" who="#JurajBlanár.1966" ana="#regular">
+            <u xml:id="ParlaMint-SK_2023-09-20-t8m104.u2" who="#JurajBlanár.1966" ana="#regular" source="http://tv.nrsr.sk/transcript?id=296805">
                <seg xml:id="ParlaMint-SK_2023-09-20-t8m104.u2.p1">Poprosím, panie poslankyne, páni poslanci, aby ste zaujali miesta v rokovacej sále, aby sme mohli pristúpiť k zisťovaniu uznášaniaschopnosti 104. schôdze Národnej rady Slovenskej republiky. <incident type="pause"><desc>Krátka pauza.</desc></incident> Vážené panie poslankyne, páni poslanci, máme desiatu hodinu piatu minútu, takže môžeme pristúpiť k opätovnému zisťovaniu uznášaniaschopnosti 104.schôdze Národnej rady Slovenskej republiky. Nech sa páči, prezentujte sa, kto je prítomný dnes na rokovaní schôdze. <note>Prezentácia.</note> Zisťujem, že sa prezentovalo 58 poslancov.Konštatujem teda, že Národná rada nie je schopná sa uznášať, a preto končím 104. schôdzu Národnej rady Slovenskej republiky. Ďakujem a dovidenia.</seg>
             </u>
             <note>Rokovanie 104. schôdze NR SR sa skončilo o 10.06 hodine.</note>

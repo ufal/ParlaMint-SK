@@ -59,6 +59,7 @@ sub add_speech {
   my $who = $speech->{parlamint}->{speaker_id} ? '#'.$speech->{parlamint}->{speaker_id} : $speech->{raw}->{fullname};
   $utterance->setAttribute('who',$who) if $who;
   $utterance->setAttribute('ana',($speech->{raw}->{moderator} ? '#chair' : '#regular'));
+  $utterance->setAttribute('source',$speech->{parlamint}->{u_url}) if $speech->{parlamint}->{u_url};
   my $seg = $utterance->addNewChild(undef,'seg');
   $seg->setAttributeNS('http://www.w3.org/XML/1998/namespace','id',$speech->{parlamint}->{u_id}.'.p1');
 
