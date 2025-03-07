@@ -159,19 +159,19 @@ sub split_content {
     if ($text =~ s/^(\s+)//) {
       push @content, {is_text => 1, content => $1};
     } elsif ($text =~ s/^(${re_text})(\s*)(${re_law})//) {
-      push @content, {is_text => 1, content => $1};
-      push @content, {is_text => 1, content => $2};
+      push @content, process_text($1);
+      push @content, process_text($2);
       push @content, process_note($3);
     } elsif ($text =~ s/^(${re_text})(\s*)(${re_note})//) {
-      push @content, {is_text => 1, content => $1};
-      push @content, {is_text => 1, content => $2};
+      push @content, process_text($1);
+      push @content, process_text($2);
       push @content, process_note($3);
     } elsif ($text =~ s/^(${re_law})//) {
       push @content, process_note($1);
     }  elsif ($text =~ s/^(${re_note})//) {
       push @content, process_note($1);
     } else {
-      push @content, {is_text => 1, content => $text};
+      push @content, process_text($text);
       $text = '';
     }
   }
@@ -182,6 +182,14 @@ sub process_note {
   my $s = shift;
   $s = substr $s, 1, -1;
   return {is_text => 0, content => $s};
+}
+
+sub process_text {
+  my $s = shift;
+  $s =~ s/==*/ /g;
+  $s =~ s/\*\**/ /g;
+  $s =~ s/  */ /g;
+  return {is_text => 1, content => $s};
 }
 
 sub open_next_file {
