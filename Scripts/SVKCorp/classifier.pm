@@ -7,6 +7,8 @@ use utf8;
 
 
 my @note_classifier = (
+  [qr/deň rokovania.*hodine/i, 'note', 'time'],
+  [qr/deň rokovania/i, 'note', 'date'],
   [qr/hlasovanie/i, 'note', 'narrative'],
   [qr/striedanie predsedajúcich/i, 'note', 'narrative'],
   [qr/smiech/i, 'vocal', 'laughter'],

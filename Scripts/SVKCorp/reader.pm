@@ -4,6 +4,8 @@ use strict;
 use Text::CSV qw/csv/;
 use Data::Dumper;
 use HTML::Entities;
+use open qw(:std :utf8);
+use utf8;
 
 sub new {
   my($classname, @arguments) = @_;
@@ -71,6 +73,7 @@ sub next_row {
       $row = $self->{tsv}->getline_hr ($self->{fh});
     }
     return unless $row;
+    patch_text($row);
     $self->{tsv_record} += 1;
   }
 
@@ -118,6 +121,12 @@ sub next_row {
       u_url => $row->{transcript_link} =~ /transcript/ ? $row->{transcript_link} : undef,
       }
     };
+}
+
+sub patch_text {
+  my $row = shift;
+  $row->{speech} =~ s/([\p{Lu}\p{Lt}][\p{Lu}\p{Lt}\p{Ll}]* deň rokovania.*?schôdze Národnej rady Slovenskej republiky.*?\d\d\d\d(?: o .*? hodine)?)(?: 1\.)?/($1)/;
+  $row->{speech} =~ s/__+//g;
 }
 
 sub get_speaker_id {
