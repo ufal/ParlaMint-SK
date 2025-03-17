@@ -181,6 +181,7 @@ sub split_content {
 sub process_note {
   my $s = shift;
   $s = substr $s, 1, -1;
+  $s =~ s/^ *| *$//g;
   return {is_text => 0, content => $s};
 }
 
