@@ -43,8 +43,9 @@
             <u xml:id="ParlaMint-SK_2016-03-23-t7m1.u1" who="#PeterPellegrini.1975" ana="#chair" source="http://tv.nrsr.sk/transcript?id=157623">
                <seg xml:id="ParlaMint-SK_2016-03-23-t7m1.u1.p1"/>
             </u>
+            <note>Povedané pred začiatkom schôdze.</note>
             <u xml:id="ParlaMint-SK_2016-03-23-t7m1.u2" who="Pellegrini, Peter, doterajší predseda NR SR" ana="#chair" source="http://tv.nrsr.sk/transcript?id=157623">
-               <seg xml:id="ParlaMint-SK_2016-03-23-t7m1.u2.p1">(Povedané pred začiatkom schôdze.) Vážené panie poslankyne, vážení páni poslanci, poprosím, aby tí, ktorí si ešte nevyzdvihli hlasovaciu kartu, aby tak urobili a postupne zaujali miesta v rokovacej sále tak, ako sú im pridelené. O malú chvíľku budeme začínať.</seg>
+               <seg xml:id="ParlaMint-SK_2016-03-23-t7m1.u2.p1">Vážené panie poslankyne, vážení páni poslanci, poprosím, aby tí, ktorí si ešte nevyzdvihli hlasovaciu kartu, aby tak urobili a postupne zaujali miesta v rokovacej sále tak, ako sú im pridelené. O malú chvíľku budeme začínať.</seg>
             </u>
             <incident type="pause">
                <desc>Pauza do začiatku schôdze.</desc>
@@ -1779,8 +1780,9 @@
             <incident type="break">
                <desc>Prerušenie vystúpenia predsedajúcim.</desc>
             </incident>
+            <note type="comment">Hovorené súbežne s poslanom Viskupičom.</note>
             <u xml:id="ParlaMint-SK_2016-03-23-t7m1.u394" who="Danko, Andrej, predseda NR SR" ana="#chair" source="http://tv.nrsr.sk/transcript?id=157664">
-               <seg xml:id="ParlaMint-SK_2016-03-23-t7m1.u394.p1">(Hovorené súbežne s poslanom Viskupičom.) Čo som povedal? Jóžef, tak už budem...</seg>
+               <seg xml:id="ParlaMint-SK_2016-03-23-t7m1.u394.p1">Čo som povedal? Jóžef, tak už budem...</seg>
             </u>
             <gap reason="inaudible">
                <desc>nezrozumiteľne vyslovené</desc>

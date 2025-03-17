@@ -1387,8 +1387,14 @@
                <desc>Potlesk.</desc>
             </kinesic>
             <u xml:id="ParlaMint-SK_2006-07-04-t4m1.u299" who="#BélaBugár.1958" ana="#regular">
-               <seg xml:id="ParlaMint-SK_2006-07-04-t4m1.u299.p1">Vážené panie poslankyne, páni poslanci, chcem sa vás opýtať, či všetci prítomní poslanci zložili ústavou predpísaný sľub. Áno. Konštatujem, že všetci prítomní poslanci Národnej rady Slovenskej republiky zložili ústavou predpísaný sľub. Vážená Národná rada, pán prezident Slovenskej republiky odchádza z ustanovujúcej schôdze. Vyhlasujem päťminútovú prestávku, potom budeme pokračovať v rokovaní. <kinesic type="applause"><desc>Odchod prezidenta Slovenskej republiky z rokovacej sály. Potlesk.</desc></kinesic> (Päťminútová prestávka.)</seg>
+               <seg xml:id="ParlaMint-SK_2006-07-04-t4m1.u299.p1">Vážené panie poslankyne, páni poslanci, chcem sa vás opýtať, či všetci prítomní poslanci zložili ústavou predpísaný sľub. Áno. Konštatujem, že všetci prítomní poslanci Národnej rady Slovenskej republiky zložili ústavou predpísaný sľub. Vážená Národná rada, pán prezident Slovenskej republiky odchádza z ustanovujúcej schôdze. Vyhlasujem päťminútovú prestávku, potom budeme pokračovať v rokovaní.</seg>
             </u>
+            <kinesic type="applause">
+               <desc>Odchod prezidenta Slovenskej republiky z rokovacej sály. Potlesk.</desc>
+            </kinesic>
+            <incident type="pause">
+               <desc>Päťminútová prestávka.</desc>
+            </incident>
             <note type="comment">Po prestávke.</note>
             <u xml:id="ParlaMint-SK_2006-07-04-t4m1.u300" who="#ViliamVeteška.1953" ana="#chair">
                <seg xml:id="ParlaMint-SK_2006-07-04-t4m1.u300.p1">Ústavou predpísaný sľub poslanca znie: „Sľubujem na svoju česť a svedomie vernosť Slovenskej republike. Svoje povinnosti budem plniť v záujme jej občanov. Budem dodržiavať ústavu a ostatné zákony a pracovať tak, aby sa uvádzali do života.“ Ján Golian.</seg>

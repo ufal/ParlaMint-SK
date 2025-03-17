@@ -276,8 +276,11 @@
             <u xml:id="ParlaMint-SK_2012-02-29-t5m29.u71" who="#RadoslavProcházka.1972" ana="#regular" source="http://tv.nrsr.sk/transcript?id=78277">
                <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u71.p1">Ústavnoprávny výbor o 11.30 hodine, ďakujem.</seg>
             </u>
+            <vocal type="noise">
+               <desc>Hlasy v sále.</desc>
+            </vocal>
             <u xml:id="ParlaMint-SK_2012-02-29-t5m29.u72" who="#PavolHrušovský.1952" ana="#chair" source="http://tv.nrsr.sk/transcript?id=78278">
-               <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u72.p1">(Hlasy v sále.) Prerušujem rokovanie.</seg>
+               <seg xml:id="ParlaMint-SK_2012-02-29-t5m29.u72.p1">Prerušujem rokovanie.</seg>
             </u>
             <incident type="pause">
                <desc>Prestávka.</desc>

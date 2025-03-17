@@ -158,6 +158,10 @@ sub split_content {
   while($text){
     if ($text =~ s/^(\s+)//) {
       push @content, {is_text => 1, content => $1};
+    } elsif ($text =~ s/^(${re_law})//) {
+      push @content, process_note($1);
+    }  elsif ($text =~ s/^(${re_note})//) {
+      push @content, process_note($1);
     } elsif ($text =~ s/^(${re_text})(\s*)(${re_law})//) {
       push @content, process_text($1);
       push @content, process_text($2);
@@ -166,10 +170,6 @@ sub split_content {
       push @content, process_text($1);
       push @content, process_text($2);
       push @content, process_note($3);
-    } elsif ($text =~ s/^(${re_law})//) {
-      push @content, process_note($1);
-    }  elsif ($text =~ s/^(${re_note})//) {
-      push @content, process_note($1);
     } else {
       push @content, process_text($text);
       $text = '';

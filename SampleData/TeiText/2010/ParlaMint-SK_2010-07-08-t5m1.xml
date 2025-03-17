@@ -1409,8 +1409,12 @@
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u306.p1"/>
             </u>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u307" who="Paška, Pavol, predseda NR SR" ana="#chair" source="http://tv.nrsr.sk/transcript?id=13462">
-               <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u307.p1">Vážené kolegyne, kolegovia, ešte raz blahoželám všetkým novým poslankyniam a poslancom v V. volebnom období a teraz vás poprosím o kratučkú prestávku, pán prezident a členovia vlády odídu z rokovacej sály. <note>Odchod prezidenta SR Ivana Gašparoviča z rokovacej sály v sprievode predsedu NR SR Pavla Pašku.</note> (Potlesk.)</seg>
+               <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u307.p1">Vážené kolegyne, kolegovia, ešte raz blahoželám všetkým novým poslankyniam a poslancom v V. volebnom období a teraz vás poprosím o kratučkú prestávku, pán prezident a členovia vlády odídu z rokovacej sály.</seg>
             </u>
+            <note>Odchod prezidenta SR Ivana Gašparoviča z rokovacej sály v sprievode predsedu NR SR Pavla Pašku.</note>
+            <kinesic type="applause">
+               <desc>Potlesk.</desc>
+            </kinesic>
             <incident type="pause">
                <desc>Krátka prestávka.</desc>
             </incident>
@@ -1685,8 +1689,14 @@
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u371.p1"/>
             </u>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u372" who="Sulík, Richard, predseda NR SR" ana="#chair" source="http://tv.nrsr.sk/transcript?id=5097">
-               <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u372.p1">Som tu nejak zostal sám. Vážené panie poslankyne, vážení páni poslanci, ďakujem pánu Pavlovi Paškovi za prianie. Ja vám taktiež želám veľa úspechov a teším sa na spoluprácu. Dovoľte mi, aby som vás v tejto chvíli ešte požiadal o vedenie schôdze, pán Paška, chcem sa prihovoriť Národnej rade Slovenskej republiky a občanom. <incident type="pause"><desc>Krátka pauza.</desc></incident> Oukej. Vážené poslan... <vocal type="laughter"><desc>Smiech v sále.</desc></vocal> Čakal som, že až sfotia. Vážené poslankyne, vážení poslanci, dovoľte, aby som sa vám poďakoval na úvod za prejavenú dôveru. Veľmi si to cením. Cením si aj ten 80. hlas, takže veľmi pekne ďakujem. Chcem vás uistiť, že funkciu predsedu parlamentu budem vykonávať zodpovedne, so všetkou vážnosťou a v súlade so všetkými pravidlami, najmä s Ústavou Slovenskej republiky. Rád by som poďakoval aj doterajšiemu predsedovi Národnej rady pánovi Pavlovi Paškovi. Nemusím súhlasiť so všetkými jeho rozhodnutiami, ale veľmi oceňujem konštruktívny prístup v rokovaniach, ktoré predchádzali dnešnej schôdzi. Uplynulé štyri roky na našej politickej scéne boli náročné a rovnako máme za sebou emotívnu kampaň. V tejto chvíli je však čas odložiť, zabudnúť na túto kampaň a prejsť ku konštruktívnej spolupráci a zodpovedne sa postaviť k úlohám, ktoré máme pred sebou. Politická agenda, ktorú chce presadzovať stredopravá koalícia, je iná ako tá agenda, ktorú presadzovala doterajšia vláda. To je úplne pochopiteľné. Napriek tomu verím, že každý jeden z nás bude mať záujem najmä o konštruktívne riešenia a veľmi si želám, aby politické súperenie ostalo v rámci slušnosti a neprekročilo do osobnej nevraživosti. Každý parlament si postupom času získa nejaký prívlastok a dúfam, že bude to aj tentokrát. Bol by som veľmi rád, keby sa o Národnej rade pod mojím vedením hovorilo ako o zodpovednej Národnej rade, ktorá zažije menej šarvátok a len tie, ktoré budú nutné a budem sa najmä ja o to snažiť, a, naopak, zažije konštruktívnu politickú debatu a politické súperenie. Vyžaduje to mnoho odriekania a mnoho vysvetľovania byť zodpovedný a konštruktívny, ale som presvedčený, že sa to podarí. Toto všetko máme pred sebou, ak chceme najbližšie štyri roky urobiť, zanechať za nami výsledky, o ktorých občania povedia, že im priniesli lepší život na Slovensku. Rád by som sa prihovoril aj kolegom z opozície. S niektorými sa už poznám, s väčšinou nie. Pokiaľ viem, všetky konflikty minulosti boli vo vecnej rovine a rád by som vás ubezpečil, že budem sa snažiť o to, aby aj vo vecnej rovine ostali. Chápem, že vo väčšine vecí súhlasiť nebudeme, ale myslím si, že kultivovaný prístup by sme si mohli zachovať. Dámy a páni, osud Slovenska je najmä vo vašich rukách. Na vás záleží, či budeme krajinou, v ktorej platia jasné pravidlá a netoleruje sa zneužívanie moci, alebo či zoberieme ľuďom dôveru v inštitúcie tohto štátu, najmä dôveru v Národnú radu Slovenskej republiky. Dúfam, že sa nám podarí zabezpečiť pre naše deti lepšiu budúcnosť. Veľmi pekne vám ďakujem a dúfam, že budeme dobre spolupracovať. Ďakujem pekne. <kinesic type="applause"><desc>Potlesk.</desc></kinesic> Poprosím ako môj prvý úkon o krátke prerušenie tejto schôdze na niekoľko minút. Pán Paška mi odovzdá kanceláriu, a keď sa vrátim, budeme pokračovať. Zatiaľ vám ďakujem. <kinesic type="applause"><desc>Potlesk.</desc></kinesic> (Prestávka.)</seg>
+               <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u372.p1">Som tu nejak zostal sám. Vážené panie poslankyne, vážení páni poslanci, ďakujem pánu Pavlovi Paškovi za prianie. Ja vám taktiež želám veľa úspechov a teším sa na spoluprácu. Dovoľte mi, aby som vás v tejto chvíli ešte požiadal o vedenie schôdze, pán Paška, chcem sa prihovoriť Národnej rade Slovenskej republiky a občanom. <incident type="pause"><desc>Krátka pauza.</desc></incident> Oukej. Vážené poslan... <vocal type="laughter"><desc>Smiech v sále.</desc></vocal> Čakal som, že až sfotia. Vážené poslankyne, vážení poslanci, dovoľte, aby som sa vám poďakoval na úvod za prejavenú dôveru. Veľmi si to cením. Cením si aj ten 80. hlas, takže veľmi pekne ďakujem. Chcem vás uistiť, že funkciu predsedu parlamentu budem vykonávať zodpovedne, so všetkou vážnosťou a v súlade so všetkými pravidlami, najmä s Ústavou Slovenskej republiky. Rád by som poďakoval aj doterajšiemu predsedovi Národnej rady pánovi Pavlovi Paškovi. Nemusím súhlasiť so všetkými jeho rozhodnutiami, ale veľmi oceňujem konštruktívny prístup v rokovaniach, ktoré predchádzali dnešnej schôdzi. Uplynulé štyri roky na našej politickej scéne boli náročné a rovnako máme za sebou emotívnu kampaň. V tejto chvíli je však čas odložiť, zabudnúť na túto kampaň a prejsť ku konštruktívnej spolupráci a zodpovedne sa postaviť k úlohám, ktoré máme pred sebou. Politická agenda, ktorú chce presadzovať stredopravá koalícia, je iná ako tá agenda, ktorú presadzovala doterajšia vláda. To je úplne pochopiteľné. Napriek tomu verím, že každý jeden z nás bude mať záujem najmä o konštruktívne riešenia a veľmi si želám, aby politické súperenie ostalo v rámci slušnosti a neprekročilo do osobnej nevraživosti. Každý parlament si postupom času získa nejaký prívlastok a dúfam, že bude to aj tentokrát. Bol by som veľmi rád, keby sa o Národnej rade pod mojím vedením hovorilo ako o zodpovednej Národnej rade, ktorá zažije menej šarvátok a len tie, ktoré budú nutné a budem sa najmä ja o to snažiť, a, naopak, zažije konštruktívnu politickú debatu a politické súperenie. Vyžaduje to mnoho odriekania a mnoho vysvetľovania byť zodpovedný a konštruktívny, ale som presvedčený, že sa to podarí. Toto všetko máme pred sebou, ak chceme najbližšie štyri roky urobiť, zanechať za nami výsledky, o ktorých občania povedia, že im priniesli lepší život na Slovensku. Rád by som sa prihovoril aj kolegom z opozície. S niektorými sa už poznám, s väčšinou nie. Pokiaľ viem, všetky konflikty minulosti boli vo vecnej rovine a rád by som vás ubezpečil, že budem sa snažiť o to, aby aj vo vecnej rovine ostali. Chápem, že vo väčšine vecí súhlasiť nebudeme, ale myslím si, že kultivovaný prístup by sme si mohli zachovať. Dámy a páni, osud Slovenska je najmä vo vašich rukách. Na vás záleží, či budeme krajinou, v ktorej platia jasné pravidlá a netoleruje sa zneužívanie moci, alebo či zoberieme ľuďom dôveru v inštitúcie tohto štátu, najmä dôveru v Národnú radu Slovenskej republiky. Dúfam, že sa nám podarí zabezpečiť pre naše deti lepšiu budúcnosť. Veľmi pekne vám ďakujem a dúfam, že budeme dobre spolupracovať. Ďakujem pekne. <kinesic type="applause"><desc>Potlesk.</desc></kinesic> Poprosím ako môj prvý úkon o krátke prerušenie tejto schôdze na niekoľko minút. Pán Paška mi odovzdá kanceláriu, a keď sa vrátim, budeme pokračovať. Zatiaľ vám ďakujem.</seg>
             </u>
+            <kinesic type="applause">
+               <desc>Potlesk.</desc>
+            </kinesic>
+            <incident type="pause">
+               <desc>Prestávka.</desc>
+            </incident>
             <note type="comment">Po prestávke.</note>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u373" who="#RichardSulík.1968" ana="#chair" source="http://tv.nrsr.sk/transcript?id=15060">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u373.p1"/>
@@ -1701,8 +1711,14 @@
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u375.p1"/>
             </u>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u376" who="Sulík, Richard, predseda NR SR" ana="#chair" source="http://tv.nrsr.sk/transcript?id=15079">
-               <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u376.p1">Pýtam sa, vážené poslankyne a vážení poslanci, či každý využil svoje právo hlasovať. Zrejme áno. Vyhlasujem tajné hlasovanie za skončené. Prosím overovateľov, aby spočítali hlasy a vyhotovili zápisnicu o výsledku tajného hlasovania. Vyhlasujem prestávku do 16.00 hodiny. <vocal type="noise"><desc>Spracúvanie výsledkov tajného hlasovania.</desc></vocal> (Prestávka.)</seg>
+               <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u376.p1">Pýtam sa, vážené poslankyne a vážení poslanci, či každý využil svoje právo hlasovať. Zrejme áno. Vyhlasujem tajné hlasovanie za skončené. Prosím overovateľov, aby spočítali hlasy a vyhotovili zápisnicu o výsledku tajného hlasovania. Vyhlasujem prestávku do 16.00 hodiny.</seg>
             </u>
+            <vocal type="noise">
+               <desc>Spracúvanie výsledkov tajného hlasovania.</desc>
+            </vocal>
+            <incident type="pause">
+               <desc>Prestávka.</desc>
+            </incident>
             <note type="comment">Po prestávke.</note>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u377" who="#RichardSulík.1968" ana="#chair" source="http://tv.nrsr.sk/transcript?id=5352">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u377.p1">Vážené poslankyne, vážení poslanci, pokračujeme v rokovaní. Poprosím povereného overovateľa, aby Národnej rade oznámil výsledok tajného hlasovania.</seg>
@@ -1817,8 +1833,14 @@
                <desc>Akt tajného hlasovania.</desc>
             </vocal>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u402" who="#RichardSulík.1968" ana="#chair" source="http://tv.nrsr.sk/transcript?id=5359">
-               <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u402.p1">Pýtam sa, či každý poslanec využil svoje právo hlasovať? Vyhlasujem tajné hlasovanie za skončené. Prosím overovateľov, aby spočítali hlasy a vyhotovili zápisnicu o výsledku tajného hlasovania. Vyhlasujem prestávku do 18.40 hod. <vocal type="noise"><desc>Spracúvanie výsledkov tajného hlasovania.</desc></vocal> (Prestávka.)</seg>
+               <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u402.p1">Pýtam sa, či každý poslanec využil svoje právo hlasovať? Vyhlasujem tajné hlasovanie za skončené. Prosím overovateľov, aby spočítali hlasy a vyhotovili zápisnicu o výsledku tajného hlasovania. Vyhlasujem prestávku do 18.40 hod.</seg>
             </u>
+            <vocal type="noise">
+               <desc>Spracúvanie výsledkov tajného hlasovania.</desc>
+            </vocal>
+            <incident type="pause">
+               <desc>Prestávka.</desc>
+            </incident>
             <note type="comment">Po prestávke.</note>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u403" who="#AndrejKolesík.1982" ana="#regular" source="http://tv.nrsr.sk/transcript?id=5244">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u403.p1">??? vymazať</seg>

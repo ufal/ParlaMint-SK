@@ -78,8 +78,14 @@
                <desc>Potlesk.</desc>
             </kinesic>
             <u xml:id="ParlaMint-SK_2009-06-15-t4m--.u8" who="#PavolPaška.1958" ana="#regular">
-               <seg xml:id="ParlaMint-SK_2009-06-15-t4m--.u8.p1">Dámy a páni, ďakujem pánovi prezidentovi Slovenskej republiky za jeho inauguračný prejav. Dovoľte, vážené pani poslankyne, páni poslanci, vážená vláda, pán premiér, vážená pani predsedníčka Ústavného súdu, ctení hostia, aby som vám všetkým poďakoval za vašu účasť na tomto slávnostnom inauguračnom akte na schôdzi Národnej rady Slovenskej republiky, počas ktorej opätovne zvolený pán prezident zložil ústavou predpísaný sľub. Vyhlasujem teraz schôdzu Národnej rady Slovenskej republiky za skončenú. <kinesic type="applause"><desc>Potlesk.</desc></kinesic> (Odchod Čestnej stráže prezidenta SR s vlajkou SR a štandardou prezidenta SR za zvukov hymnickej piesne „Hoj, vlasť moja“.) <note>Odchod prezidenta SR Ivana Gašparoviča s manželkou za zvukov prezidentských fanfár.</note> (Zaznievanie Symfónie č. 9 od Ludwiga van Beethovena.)</seg>
+               <seg xml:id="ParlaMint-SK_2009-06-15-t4m--.u8.p1">Dámy a páni, ďakujem pánovi prezidentovi Slovenskej republiky za jeho inauguračný prejav. Dovoľte, vážené pani poslankyne, páni poslanci, vážená vláda, pán premiér, vážená pani predsedníčka Ústavného súdu, ctení hostia, aby som vám všetkým poďakoval za vašu účasť na tomto slávnostnom inauguračnom akte na schôdzi Národnej rady Slovenskej republiky, počas ktorej opätovne zvolený pán prezident zložil ústavou predpísaný sľub. Vyhlasujem teraz schôdzu Národnej rady Slovenskej republiky za skončenú.</seg>
             </u>
+            <kinesic type="applause">
+               <desc>Potlesk.</desc>
+            </kinesic>
+            <note>Odchod Čestnej stráže prezidenta SR s vlajkou SR a štandardou prezidenta SR za zvukov hymnickej piesne „Hoj, vlasť moja“.</note>
+            <note>Odchod prezidenta SR Ivana Gašparoviča s manželkou za zvukov prezidentských fanfár.</note>
+            <note>Zaznievanie Symfónie č. 9 od Ludwiga van Beethovena.</note>
             <note>Slávnostná schôdza NR SR sa skončila o 12.28 hodine.</note>
          </div>
       </body>
