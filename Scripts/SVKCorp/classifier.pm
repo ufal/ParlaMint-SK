@@ -8,6 +8,7 @@ use utf8;
 
 my @note_classifier = (
   [qr/hlasovanie/i, 'note', 'narrative'],
+  [qr/striedanie predsedajúcich/i, 'note', 'narrative'],
   [qr/smiech/i, 'vocal', 'laughter'],
   [qr/zasmiatie/i, 'vocal', 'laughter'],
   [qr/potlesk/i, 'kinesic', 'applause'],
@@ -16,7 +17,7 @@ my @note_classifier = (
   [qr/pauza/i, 'incident', 'pause'],
   [qr/prerušenie/i, 'incident', 'break'],
   [qr/gong/i, 'kinesic', 'ringing'],
-  [qr/časomier/i, 'kinesic', 'ringing'],
+  [qr/časom[i]?er/i, 'kinesic', 'ringing'],
   [qr/hlas.?/i, 'vocal', 'noise'],
   [qr/šum/i, 'kinesic', 'noise'],
   [qr/ruch/i, 'vocal', 'noise'],
@@ -36,6 +37,10 @@ my @note_classifier = (
   [qr/pobaven/i, 'vocal', 'laughter'],
   [qr/úsmevo/i, 'vocal', 'laughter'],
   [qr/zákon/i, 'note', 'comment'],
+  [qr/minúta ticha/i, 'incident', 'pause'], ### not sure about correct clasification
+  [qr/hymna/i, 'kinesic', 'playback'],
+  [qr/prítomných/i, 'note', 'quorum'],
+  [qr/prezentácia/i, 'note', 'quorum'],
 );
 
 

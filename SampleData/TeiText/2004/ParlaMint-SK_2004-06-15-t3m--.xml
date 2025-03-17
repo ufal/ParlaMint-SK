@@ -56,7 +56,9 @@
             <kinesic type="applause">
                <desc>Potlesk.</desc>
             </kinesic>
-            <note>Štátna hymna Slovenskej republiky v podaní Slovenského filharmonického zboru a súčasne zaznievanie 20 delostreleckých sálv.</note>
+            <kinesic type="playback">
+               <desc>Štátna hymna Slovenskej republiky v podaní Slovenského filharmonického zboru a súčasne zaznievanie 20 delostreleckých sálv.</desc>
+            </kinesic>
             <u xml:id="ParlaMint-SK_2004-06-15-t3m--.u4" who="#PavolHrušovský.1952" ana="#regular">
                <seg xml:id="ParlaMint-SK_2004-06-15-t3m--.u4.p1">Vážený pán prezident, v mene Národnej rady Slovenskej republiky a v mene svojom vám úprimne a srdečne blahoželám, prajem vám veľa zdravia, úspechov a mnoho síl pri vykonávaní funkcie hlavy štátu v prospech Slovenska a jeho občanov. V tejto chvíli odovzdávam slovo predsedovi vlády Slovenskej republiky Mikulášovi Dzurindovi.</seg>
             </u>

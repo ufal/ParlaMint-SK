@@ -44,7 +44,9 @@
                <seg xml:id="ParlaMint-SK_2006-07-04-t4m1.u1.p1">Ešte raz poprosím pánov poslancov, panie poslankyne, keby zaujali svoje miesta. <vocal type="noise"><desc>Ruch v sále.</desc></vocal> Ďakujem pekne. Panie poslankyne, páni poslanci, prichádza pán prezident Slovenskej republiky.</seg>
             </u>
             <note>Príchod prezidenta Slovenskej republiky Ivana Gašparoviča do rokovacej sály za zvukov prezidentských fanfár.</note>
-            <note>Štátna hymna Slovenskej republiky.</note>
+            <kinesic type="playback">
+               <desc>Štátna hymna Slovenskej republiky.</desc>
+            </kinesic>
             <u xml:id="ParlaMint-SK_2006-07-04-t4m1.u2" who="#ViliamVeteška.1953" ana="#chair">
                <seg xml:id="ParlaMint-SK_2006-07-04-t4m1.u2.p1">Ústavou predpísaný sľub poslanca znie: „Sľubujem na svoju česť a svedomie vernosť Slovenskej republike. Svoje povinnosti budem plniť v záujme jej občanov. Budem dodržiavať ústavu a ostatné zákony a pracovať tak, aby sa uvádzali do života.“</seg>
             </u>

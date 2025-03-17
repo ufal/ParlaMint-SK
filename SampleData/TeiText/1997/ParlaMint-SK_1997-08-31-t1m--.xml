@@ -71,7 +71,9 @@
             <u xml:id="ParlaMint-SK_1997-08-31-t1m--.u7" who="#AugustínMariánHúska.1929" ana="#chair">
                <seg xml:id="ParlaMint-SK_1997-08-31-t1m--.u7.p1">Ďakujem predsedovi vlády Slovenskej republiky pánu Vladimírovi Mečiarovi za jeho slávnostný príhovor. Vážené panie a páni, naozaj údelom človeka, každého človeka je vlastne byť v stredobode času, pretože sme už tak konštruovaní, že sme v strede, pred nami je všetka budúcnosť a za nami je všetka minulosť, v takom poňatí sme vždy akoby na polceste. V tomto slova zmysle samozrejme stretávame vždy dvoch hodnotiteľov tejto pozície. Jedni hovoria, tí pesimisti, že pohár je poloprázdny v tejto perspektíve, my hovoríme, že pohár je poloplný, a budeme sa usilovať, aby Slovenská republika naozaj tvorila v európskom univerzalizme suverénnu časť, suverénne špecifikum, ktoré budú obohacovať práve tento európsky univerzilizmus, a svojimi špecifickými vlastnosťami bude Slovenská republika aj inšpirátorom pre druhých, pretože sme presvedčení, že už od samého začiatku v mnohých veciach tvoríme príklad pre iných. Príklad, ako sa dá pokojnou, rozumnou, ale dôslednou cestou ísť ďalej. V takomto slova zmysle je orientované aj toto päťročné hodnotenie. Som presvedčený, že máme dosť dôvodov, aby pri všetkej potrebnej kritickosti sme si zachovali potrebnú dávku sebavedomia a hrdosti. Vážené pani poslankyne, vážení páni poslanci, vážený pán prezident Slovenskej republiky, vážený pán premiér a vláda Slovenskej republiky, vážený diplomatický zbor, ctení hostia, končím slávnostné zasadnutie Národnej rady Slovenskej republiky. Ďakujem všetkým za pozornosť.</seg>
             </u>
-            <note>Hymna Slovenskej republiky.</note>
+            <kinesic type="playback">
+               <desc>Hymna Slovenskej republiky.</desc>
+            </kinesic>
             <kinesic type="applause">
                <desc>Potlesk.</desc>
             </kinesic>

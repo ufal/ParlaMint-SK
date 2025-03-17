@@ -53,7 +53,9 @@
                <seg xml:id="ParlaMint-SK_2012-04-04-t6m1.u3.p1">Vážené panie poslankyne, páni poslanci, prosím, aby ste zaujali svoje miesta v rokovacej sále. <incident type="pause"><desc>Pauza.</desc></incident> Panie poslankyne, páni poslanci, prichádza pán prezident Slovenskej republiky.</seg>
             </u>
             <note>Príchod prezidenta SR Ivana Gašparoviča v sprievode predsedu NR SR Pavla Hrušovského za zvukov prezidentských fanfár.</note>
-            <note>Hymna Slovenskej republiky.</note>
+            <kinesic type="playback">
+               <desc>Hymna Slovenskej republiky.</desc>
+            </kinesic>
             <u xml:id="ParlaMint-SK_2012-04-04-t6m1.u4" who="#PavolHrušovský.1952" ana="#chair" source="http://tv.nrsr.sk/transcript?id=78455">
                <seg xml:id="ParlaMint-SK_2012-04-04-t6m1.u4.p1"/>
             </u>

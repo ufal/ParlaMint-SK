@@ -55,7 +55,9 @@
             <u xml:id="ParlaMint-SK_2002-10-15-t3m1.u4" who="#JozefMigaš.1954" ana="#regular">
                <seg xml:id="ParlaMint-SK_2002-10-15-t3m1.u4.p1">Vážená Národná rada Slovenskej republiky, vážené poslankyne, vážení poslanci, milí hostia, otváram rokovanie ustanovujúcej schôdze Národnej rady Slovenskej republiky. Dovoľte mi, aby som vás, poslancov Národnej rady Slovenskej republiky, privítal na ustanovujúcej schôdzi Národnej rady Slovenskej republiky v jej III. volebnom období. Po zaznení štátnej hymny začnem rokovanie.</seg>
             </u>
-            <note>Štátna hymna Slovenskej republiky.</note>
+            <kinesic type="playback">
+               <desc>Štátna hymna Slovenskej republiky.</desc>
+            </kinesic>
             <u xml:id="ParlaMint-SK_2002-10-15-t3m1.u5" who="#IgorPresperín.1950" ana="#chair">
                <seg xml:id="ParlaMint-SK_2002-10-15-t3m1.u5.p1">Béla Bugár.</seg>
             </u>

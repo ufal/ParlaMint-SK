@@ -56,7 +56,9 @@
             <kinesic type="applause">
                <desc>Potlesk.</desc>
             </kinesic>
-            <note>Štátna hymna Slovenskej republiky v podaní zboru a orchestra SND a súčasne vystrelenie 20 delostreleckých sálv z nábrežia Dunaja.</note>
+            <kinesic type="playback">
+               <desc>Štátna hymna Slovenskej republiky v podaní zboru a orchestra SND a súčasne vystrelenie 20 delostreleckých sálv z nábrežia Dunaja.</desc>
+            </kinesic>
             <u xml:id="ParlaMint-SK_2009-06-15-t4m--.u4" who="#PavolPaška.1958" ana="#regular">
                <seg xml:id="ParlaMint-SK_2009-06-15-t4m--.u4.p1">Vážený pán prezident, zložením sľubu ste sa ujali funkcie prezidenta Slovenskej republiky. Dovoľte, aby v mene poslancov Národnej rady Slovenskej republiky, ale i v mene svojom som vám úprimne a srdečne zablahoželal a poprial veľa, veľa úspechov a mnoho síl pri vykonávaní funkcie hlavy štátu v prospech Slovenskej republiky a jej občanov. <kinesic type="applause"><desc>Potlesk.</desc></kinesic> A teraz, dámy a páni, požiadam pána predsedu vlády Slovenskej republiky, aby sa nám prihovoril.</seg>
             </u>
