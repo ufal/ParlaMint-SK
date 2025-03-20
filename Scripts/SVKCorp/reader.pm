@@ -21,6 +21,7 @@ sub new {
     current_row => undef,
     parse_speech => !!$args{parse_speech},
     split_speech => !!$args{split_speech},
+    patch_date => {},
     tsv => Text::CSV->new(
       {
         binary => 1,
@@ -96,6 +97,29 @@ sub next_row {
     }
   }  
 
+  $self->self_update($row);
+  my $src = $self->{files}->[$self->{file_idx}].":line=".($self->{tsv_record}+1);
+  $src =~ s#^.*/##;
+  return {
+    raw => $row,
+    first_speech => ($self->{speeches} == 1),
+    source => $src,
+    parlamint => {
+      tei_id => $self->{tei_id},
+      u_id => $self->{tei_id}.".u".$self->{speeches},
+      speaker_id => get_speaker_id($row),
+      date => $self->{date_formated} ,
+      content => [split_content($row->{speech})],
+      doc_url => $row->{transcript_link} =~ /documentId/ ? $row->{transcript_link} : undef,
+      u_url => $row->{transcript_link} =~ /transcript/ ? $row->{transcript_link} : undef,
+      }
+    };
+}
+
+sub self_update {
+  my $self = shift;
+  my $row = shift;
+  $row->{date} = $self->patch_date($row->{date});
   my $date = join('-', unpack "A4A2A2", $row->{date});
   my $tei_id = "ParlaMint-SK_$date-t".$row->{term}."m".($row->{meeting}//'--');
   
@@ -103,24 +127,30 @@ sub next_row {
   $self->{speeches} = 0 if $first_speech;
   $self->{speeches} += 1;
   if(defined $self->{tei_id_seen}->{$tei_id} && $first_speech){
-    $self->error("Duplicit document ID $tei_id");
+    $self->error("Duplicit document ID $tei_id (previous on row ".$self->{tei_id_seen}->{$tei_id}.")");
   }
   $self->{date} = $row->{date};
+  $self->{date_formated} = $date;
   $self->{tei_id} = $tei_id;
-  $self->{tei_id_seen}->{$tei_id} = 1;
-  return {
-    raw => $row,
-    first_speech => $first_speech,
-    parlamint => {
-      tei_id => $tei_id,
-      u_id => "$tei_id.u".$self->{speeches},
-      speaker_id => get_speaker_id($row),
-      date => $date,
-      content => [split_content($row->{speech})],
-      doc_url => $row->{transcript_link} =~ /documentId/ ? $row->{transcript_link} : undef,
-      u_url => $row->{transcript_link} =~ /transcript/ ? $row->{transcript_link} : undef,
-      }
-    };
+  $self->{tei_id_seen}->{$tei_id} = $self->{tsv_record};
+  return $self;
+}
+
+sub set_date_patcher {
+  my $self = shift;
+  my $in = shift;
+  my $out = shift;
+  $self->{patch_date} = {$in => $out};
+  return $self;  
+}
+sub patch_date {
+  my $self = shift;
+  my $in = shift;
+  if (exists $self->{patch_date}->{$in}) {
+    return $self->{patch_date}->{$in}
+  }
+  $self->{patch_date} = {};
+  return $in;
 }
 
 sub patch_text {

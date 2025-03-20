@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ParlaMint-SK_1996-07-03-t1m16" xml:lang="sk">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <!-- TODO -->
+            <meeting ana="#parla.term #parla.uni" n="1">1</meeting>
+            <meeting ana="#parla.meeting #parla.uni" n="16">16</meeting>
+            <!-- TODO -->
+         </titleStmt>
+         <editionStmt>
+            <edition>3.0a</edition>
+         </editionStmt>
+         <extent>
+            <!-- TODO -->
+         </extent>
+         <publicationStmt>
+            <!-- TODO -->
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <!-- TODO -->
+               <idno type="URI" subtype="parliament">https://www.nrsr.sk/dl/Browser/Document?documentId=65839</idno>
+               <date when="1996-07-03">1996-07-03</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <!-- TODO -->
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <!-- TODO -->
+               <date when="1996-07-03">1996-07-03</date>
+            </setting>
+         </settingDesc>
+         <!-- TODO -->
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <!--orig: SK_term_1.tsv-line1281 || sorted: SK_term_1.tsv:line=1301-->
+            <note type="date">Siedmy deň rokovania 16. schôdze Národnej rady Slovenskej republiky 3. júla 1996</note>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -10,6 +10,7 @@ binmode STDOUT, 'utf8';
 use Getopt::Long;
 use XML::LibXML;
 use XML::LibXML::PrettyPrint;
+use DateTime::Format::Strptime;
 
 use File::Basename;
 use File::Path;
@@ -19,6 +20,12 @@ use Data::Dumper;
 use SVKCorp::reader;
 use SVKCorp::classifier;
 
+my $tz = 'Europe/Prague';
+my $strp = DateTime::Format::Strptime->new(
+  pattern   => '%e. %B %Y',
+  locale    => 'sk_SK',
+  time_zone => $tz
+);
 
 my $out_dir;
 my @in_files;
@@ -45,7 +52,33 @@ while(my $speech = $data->next_row()){
     save_day($day, $out_dir) if $day;
     $day = init_day($speech);
   }
-  add_speech($day, $speech);
+  my @move_to_next_day = (add_speech($day, $speech));
+  if(@move_to_next_day){
+    save_day($day, $out_dir) if $day;
+    # update date from $move_to_next_day[0]
+    ## Desiaty deň rokovania 49. schôdze Národnej rady Slovenskej republiky 15. júla 1998
+    my ($date) = $move_to_next_day[0]->{content} =~ m/(\d+\.\s+\w+\s+\d\d\d\d)/;
+    print STDERR "INFO: new day recognized $date (";
+    $date = $strp->parse_datetime("$date");
+    my $new_date = $date->strftime('%Y%m%d');
+    print STDERR "$new_date)\n";
+    # save current day
+    save_day($day, $out_dir) if $day;
+    # patch date in $data
+    $data->set_date_patcher($data->{date}, $new_date);
+    # init day with correct day
+    $data->self_update($speech->{raw});
+    $data->{speeches} -= 1;
+    $speech->{parlamint}->{tei_id} = $data->{tei_id};
+    $speech->{parlamint}->{date} = $data->{date_formated};
+    $day = init_day($speech);
+    # insert notes
+    log_source($day->{div},$speech);
+    while(@move_to_next_day) {
+      my $note = note_element(shift @move_to_next_day);
+      $day->{div}->appendChild($note) if $note;
+    }
+  }
 }
 
 $data->delete();
@@ -54,6 +87,7 @@ save_day($day, $out_dir) if $day;
 
 sub add_speech {
   my ($day, $speech) = @_;
+  log_source($day->{div},$speech);
   my $utterance = $day->{div}->addNewChild(undef,'u');
   $utterance->setAttributeNS('http://www.w3.org/XML/1998/namespace','id',$speech->{parlamint}->{u_id});
   my $who = $speech->{parlamint}->{speaker_id} ? '#'.$speech->{parlamint}->{speaker_id} : $speech->{raw}->{fullname};
@@ -71,10 +105,12 @@ sub add_speech {
     my $note = note_element(shift @content);
     $day->{div}->insertBefore($note,$utterance) if $note;
   }
-  # print notes and skip whitespaces after utterance
+  # get notes and skip whitespaces after utterance
+  my @context_after = ();
   while(@content && (not($content[-1]->{is_text}) || $content[-1]->{content} =~ /^\s+$/)) {
-    my $note = note_element(pop @content);
-    $day->{div}->insertAfter($note,$utterance) if $note;
+    my $content = pop @content;
+    next if $content->{is_text};
+    unshift @context_after, $content;
   }
   # print utterance content into one paragraph
   while(@content) {
@@ -86,8 +122,23 @@ sub add_speech {
       $seg->appendChild($note) if $note;
     }
   }  
+  while(@context_after){
+    my $content = shift @context_after;
+    if( $content->{content} =~ m/deň rokovania.*schôdze Národnej rady Slovenskej/){ # text if new day starts
+      unshift @context_after, $content;
+      return @context_after;
+    }
+    my $note = note_element($content);
+    $day->{div}->appendChild($note) if $note;
+  }
+  return ();
 }
 
+
+sub log_source {
+  my ($element, $speech) = @_;
+  $element->appendChild(XML::LibXML::Comment->new( "orig: ".$speech->{raw}->{svk_source}." || sorted: ". $speech->{source} ));
+}
 
 
 # create a note-like element
@@ -118,7 +169,6 @@ sub init_day {
   my $tei = XML::LibXML::Document->new("1.0", "utf-8");
   my $root_node = XML::LibXML::Element->new('TEI');
   $tei->setDocumentElement($root_node);
-
   my $id = $speech->{parlamint}->{tei_id};
   my $date = $speech->{parlamint}->{date};
   my $url = $speech->{parlamint}->{doc_url} // '';
@@ -175,7 +225,7 @@ HEADER
     );
   $root_node->appendChild($teiHeader);
   my $div = $root_node->addNewChild(undef,'text')->addNewChild(undef,'body')->addNewChild(undef,'div');
-  print STDERR "INFO: Processing $date\n";
+  print STDERR "INFO: Processing $date ($id)\n";
   return {
     id => $id,
     date => $date,

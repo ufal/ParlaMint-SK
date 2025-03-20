@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ParlaMint-SK_1998-07-16-t1m49" xml:lang="sk">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <!-- TODO -->
+            <meeting ana="#parla.term #parla.uni" n="1">1</meeting>
+            <meeting ana="#parla.meeting #parla.uni" n="49">49</meeting>
+            <!-- TODO -->
+         </titleStmt>
+         <editionStmt>
+            <edition>3.0a</edition>
+         </editionStmt>
+         <extent>
+            <!-- TODO -->
+         </extent>
+         <publicationStmt>
+            <!-- TODO -->
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <!-- TODO -->
+               <idno type="URI" subtype="parliament">https://www.nrsr.sk/dl/Browser/Document?documentId=65930</idno>
+               <date when="1998-07-16">1998-07-16</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <!-- TODO -->
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <!-- TODO -->
+               <date when="1998-07-16">1998-07-16</date>
+            </setting>
+         </settingDesc>
+         <!-- TODO -->
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <!--orig: SK_term_1.tsv-line4943 || sorted: SK_term_1.tsv:line=4944-->
+            <note type="date">Jedenásty deň rokovania 49. schôdze Národnej rady Slovenskej republiky 16. júla 1998</note>
+         </div>
+      </body>
+   </text>
+</TEI>
