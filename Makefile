@@ -23,7 +23,7 @@ sort-svk:
 	mkdir -p $(DataSortedSourceDir)
 	for f in `cd $(Source); ls SK_term*.tsv`;\
 	  do sed -n '1s/^/svk_source\t/p' $(Source)/$$f > $(DataSortedSourceDir)/$$f; \
-	  nl $(Source)/$$f| tail -n +2|sort -n|sed "s/^ *\([0-9]*\)\t/$$f-line\1\t/" >> $(DataSortedSourceDir)/$$f;\
+	  nl $(Source)/$$f| tail -n +2|sed "s/^ *\([0-9]*\)\t/$$f-line\1\t/" | sort -nk2 >> $(DataSortedSourceDir)/$$f;\
 	done
 
 svk2tei-text:
