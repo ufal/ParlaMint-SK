@@ -40,11 +40,11 @@ create-sample-source-data:
 	make sort-svk
 
 skv-data:
-	@tail -n +2 -q $(SourceTermDir)/SK_term*.tsv
+	@tail -n +2 -q $(Source)/SK_term*.tsv
 skv-info-extent:
-	cat $(SourceTermDir)/*.tsv | cut -f 25 | wc
+	cat $(Source)/*.tsv | cut -f 25 | wc
 skv-info-rows:
-	head -1 -q $(SourceTermDir)/SK_term*.tsv | uniq | perl -pe 's/\t/\n/g'
+	head -1 -q $(Source)/SK_term*.tsv | uniq | perl -pe 's/\t/\n/g'
 skv-info-cnt-speeches:
 	make skv-data | cut -f1 | wc -l
 skv-info-fullname:
@@ -57,3 +57,10 @@ skv-info-date-year:
 	make skv-data | cut -f4 |sed 's/....$$//' | sort | uniq -c
 skv-info-type:
 	make skv-data | cut -f 6,8 | sort | uniq -c
+
+
+debug-cnt-rows-processed:
+	@echo -n "Source data:\t"
+	@make skv-data | wc -l
+	@echo -n "Result data:\t"
+	@find $(DataTeiTextDir) -type f|xargs cat|grep 'orig:'|sort|uniq|wc -l

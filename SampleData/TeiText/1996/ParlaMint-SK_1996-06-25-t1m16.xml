@@ -43,6 +43,9 @@
          <div>
             <!--orig: SK_term_1.tsv-line2379 || sorted: SK_term_1.tsv:line=2379-->
             <note type="date">Štvrtý deň rokovania 16. schôdze Národnej rady Slovenskej republiky 25. júna 1996</note>
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u81" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u81.p1"/>
+            </u>
          </div>
       </body>
    </text>

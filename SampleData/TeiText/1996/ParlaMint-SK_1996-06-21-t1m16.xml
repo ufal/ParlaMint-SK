@@ -20,7 +20,7 @@
          <sourceDesc>
             <bibl>
                <!-- TODO -->
-               <idno type="URI" subtype="parliament">https://www.nrsr.sk/dl/Browser/Document?documentId=65839</idno>
+               <idno type="URI" subtype="parliament">https://www.nrsr.sk/dl/Browser/Document?documentId=96361</idno>
                <date when="1996-06-21">1996-06-21</date>
             </bibl>
          </sourceDesc>
@@ -41,8 +41,11 @@
    <text>
       <body>
          <div>
-            <!--orig: SK_term_1.tsv-line714 || sorted: SK_term_1.tsv:line=721-->
+            <!--orig: SK_term_1.tsv-line2298 || sorted: SK_term_1.tsv:line=2298-->
             <note type="date">Tretí deň rokovania 16. schôdze Národnej rady Slovenskej republiky 21. júna 1996</note>
+            <u xml:id="ParlaMint-SK_1996-06-20-t1m16s1.u131" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-20-t1m16s1.u131.p1">Predseda NR SR I. Gašparovič; Vážené pani poslankyne, vážení páni poslanci, včera sme prerušili schôdzu, lebo sme neboli uznášaniaschopní. Prosím, aby sme sa teraz prezentovali. Prezentovalo sa 114 poslancov, takže môžeme pokračovať. Včera sme prerušili schôdzu pred hlasovaním o návrhu uznesenia k bodu Základné ciele a zásady národnej bezpečnosti Slovenskej politiky, takže by sme mali pristúpiť teraz k hlasovaniu o uznesení k tomuto bodu programu. Prosím spoločného spravodajcu pána Slotu, aby hlasovanie uviedol, keďže včera sa nepotreboval vyjadriť k priebehu rozpravy.</seg>
+            </u>
          </div>
       </body>
    </text>

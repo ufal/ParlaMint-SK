@@ -41,6 +41,7 @@
       <body>
          <div>
             <!--orig: SK_term_6.tsv-line2 || sorted: SK_term_6.tsv:line=2-->
+            <note/>
             <u xml:id="ParlaMint-SK_2012-04-04-t6m1.u1" who="#BélaBugár.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=78454">
                <seg xml:id="ParlaMint-SK_2012-04-04-t6m1.u1.p1"/>
             </u>
@@ -61,6 +62,7 @@
                <desc>Hymna Slovenskej republiky.</desc>
             </kinesic>
             <!--orig: SK_term_6.tsv-line3 || sorted: SK_term_6.tsv:line=3-->
+            <note/>
             <u xml:id="ParlaMint-SK_2012-04-04-t6m1.u4" who="#PavolHrušovský.1952" ana="#chair" source="http://tv.nrsr.sk/transcript?id=78455">
                <seg xml:id="ParlaMint-SK_2012-04-04-t6m1.u4.p1"/>
             </u>
@@ -70,6 +72,7 @@
             </u>
             <note>Skladanie sľubu poslancov Národnej rady Slovenskej republiky.</note>
             <!--orig: SK_term_6.tsv-line4 || sorted: SK_term_6.tsv:line=4-->
+            <note/>
             <u xml:id="ParlaMint-SK_2012-04-04-t6m1.u6" who="#BélaBugár.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=78456">
                <seg xml:id="ParlaMint-SK_2012-04-04-t6m1.u6.p1"/>
             </u>
@@ -1720,6 +1723,7 @@
                <desc>Potlesk.</desc>
             </kinesic>
             <!--orig: SK_term_6.tsv-line5 || sorted: SK_term_6.tsv:line=5-->
+            <note/>
             <u xml:id="ParlaMint-SK_2012-04-04-t6m1.u306" who="#BélaBugár.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=78458">
                <seg xml:id="ParlaMint-SK_2012-04-04-t6m1.u306.p1"/>
             </u>
@@ -1728,6 +1732,7 @@
                <seg xml:id="ParlaMint-SK_2012-04-04-t6m1.u307.p1">Pán predseda, oznamujem vám, že všetci poslanci zložili Ústavou Slovenskej republiky predpísaný sľub poslanca.</seg>
             </u>
             <!--orig: SK_term_6.tsv-line6 || sorted: SK_term_6.tsv:line=6-->
+            <note/>
             <u xml:id="ParlaMint-SK_2012-04-04-t6m1.u308" who="#PavolHrušovský.1952" ana="#chair" source="http://tv.nrsr.sk/transcript?id=78459">
                <seg xml:id="ParlaMint-SK_2012-04-04-t6m1.u308.p1"/>
             </u>
@@ -1741,6 +1746,7 @@
             </incident>
             <note>Pokračovanie rokovania o 14.21 hodine.</note>
             <!--orig: SK_term_6.tsv-line7 || sorted: SK_term_6.tsv:line=7-->
+            <note/>
             <u xml:id="ParlaMint-SK_2012-04-04-t6m1.u310" who="#BélaBugár.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=78460">
                <seg xml:id="ParlaMint-SK_2012-04-04-t6m1.u310.p1"/>
             </u>
@@ -1755,6 +1761,7 @@
             </u>
             <note>Príchod poslancov náhradníkov do rokovacej sály.</note>
             <!--orig: SK_term_6.tsv-line8 || sorted: SK_term_6.tsv:line=8-->
+            <note/>
             <u xml:id="ParlaMint-SK_2012-04-04-t6m1.u313" who="#BélaBugár.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=78466">
                <seg xml:id="ParlaMint-SK_2012-04-04-t6m1.u313.p1"/>
             </u>
@@ -1891,6 +1898,7 @@
                <desc>Potlesk.</desc>
             </kinesic>
             <!--orig: SK_term_6.tsv-line10 || sorted: SK_term_6.tsv:line=10-->
+            <note/>
             <u xml:id="ParlaMint-SK_2012-04-04-t6m1.u338" who="#PavolHrušovský.1952" ana="#chair" source="http://tv.nrsr.sk/transcript?id=78471">
                <seg xml:id="ParlaMint-SK_2012-04-04-t6m1.u338.p1"/>
             </u>
@@ -1903,6 +1911,7 @@
             </incident>
             <note type="comment">Po prestávke.</note>
             <!--orig: SK_term_6.tsv-line11 || sorted: SK_term_6.tsv:line=11-->
+            <note/>
             <u xml:id="ParlaMint-SK_2012-04-04-t6m1.u340" who="#PavolHrušovský.1952" ana="#chair" source="http://tv.nrsr.sk/transcript?id=78473">
                <seg xml:id="ParlaMint-SK_2012-04-04-t6m1.u340.p1"/>
             </u>
@@ -1918,6 +1927,7 @@
                <desc>Potlesk.</desc>
             </kinesic>
             <!--orig: SK_term_6.tsv-line13 || sorted: SK_term_6.tsv:line=13-->
+            <note/>
             <u xml:id="ParlaMint-SK_2012-04-04-t6m1.u343" who="#PavolHrušovský.1952" ana="#chair" source="http://tv.nrsr.sk/transcript?id=78478">
                <seg xml:id="ParlaMint-SK_2012-04-04-t6m1.u343.p1"/>
             </u>
@@ -1930,6 +1940,7 @@
                <seg xml:id="ParlaMint-SK_2012-04-04-t6m1.u345.p1">Ďakujem pekne. Vážený pán predseda, dovoľte po prvé, aby som teda požiadal zvolených členov mandátového a imunitného výboru, aby s termínom ihneď sme sa stretli v miestnosti č. 150, teda je to rokovacia miestnosť ústavnoprávneho výboru. A je možné, že by sme to mohli stihnúť do 15 minút, pán predseda.</seg>
             </u>
             <!--orig: SK_term_6.tsv-line15 || sorted: SK_term_6.tsv:line=15-->
+            <note/>
             <u xml:id="ParlaMint-SK_2012-04-04-t6m1.u346" who="#PavolHrušovský.1952" ana="#chair" source="http://tv.nrsr.sk/transcript?id=78482">
                <seg xml:id="ParlaMint-SK_2012-04-04-t6m1.u346.p1"/>
             </u>
@@ -1942,6 +1953,7 @@
             </incident>
             <note type="comment">Po prestávke.</note>
             <!--orig: SK_term_6.tsv-line16 || sorted: SK_term_6.tsv:line=16-->
+            <note/>
             <u xml:id="ParlaMint-SK_2012-04-04-t6m1.u348" who="#PavolHrušovský.1952" ana="#chair" source="http://tv.nrsr.sk/transcript?id=78476">
                <seg xml:id="ParlaMint-SK_2012-04-04-t6m1.u348.p1"/>
             </u>
@@ -1954,6 +1966,7 @@
                <seg xml:id="ParlaMint-SK_2012-04-04-t6m1.u350.p1">Vážený pán predseda Národnej rady, dovoľte, aby som teda v rámci tohto bodu programu, vážené kolegyne a kolegovia, samozrejme, uviedol dva materiály po prvé správu Mandátového a imunitného výboru Národnej rady Slovenskej republiky o overení platnosti voľby poslancov Národnej rady zvolených vo voľbách 10. marca 2012 a rovnako tak aj informáciu Mandátového a imunitného výboru Národnej rady Slovenskej republiky o nastúpení náhradníkov na neuplatňované mandáty poslancov. Vážené kolegyne, kolegovia, Ústredná volebná komisia po parlamentných voľbách konaných dňa 10. marca 2012 doručila Zápisnicu o výsledku volieb do Národnej rady Slovenskej republiky, ktorá podľa čl. 76 Ústavy Slovenskej republiky overuje platnosť voľby poslancov do Národnej rady Slovenskej republiky. Podľa § 8 ods. 1 a 2 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov predložili poslanci mandátovému a imunitnému výboru osvedčenia o svojom zvolení za poslanca vydané Ústrednou volebnou komisiou. Mandátový a imunitný výbor tieto osvedčenia preskúmal a správu o ich preskúmaní a návrh na rozhodnutie o overení platnosti volieb predkladá Národnej rade Slovenskej republiky. Rovnako ma mandátový a imunitný výbor na svojej ustanovujúcej schôdzi dnešného dňa ako predsedu výboru poveril, aby som vás oboznámil s výsledkami rokovania výboru a rovnako aj predložil návrh výboru na rozhodnutie o overení platnosti poslancov Národnej rady Slovenskej republiky zvolených do Národnej rady Slovenskej republiky vo voľbách konaných 10. marca 2012. Mandátový a imunitný výbor sa na svojej ustanovujúcej schôdzi oboznámil so Zápisnicou Ústrednej volebnej komisie o výsledkoch volieb do Národnej rady Slovenskej republiky, ako aj s prílohami a výbor zároveň preskúmal osvedčenia o zvolení za poslanca a konštatoval, že všetci poslanci boli platne zvolení. Okrem preskúmania osvedčení o zvolení za poslanca bolo povinnosťou mandátového výboru aj zistiť, či všetci novozvolení poslanci prítomní na ustanovujúcej schôdzi Národnej rady Slovenskej republiky zložili podľa čl. 75 Ústavy Slovenskej republiky predpísaný sľub poslanca Národnej rady Slovenskej republiky. Na základe vykonaného sľubu na ustanovujúcej schôdzi a preverenia podpisov, ktorými poslanci potvrdili zloženie sľubu, je možné konštatovať, že všetci poslanci prítomní na ustanovujúcej schôdzi Národnej rady Slovenskej republiky zložili ústavou predpísaný sľub poslanca bez výhrad. Mandátový a imunitný výbor súčasne konštatuje, že sľub poslanca bez výhrad zložili aj náhradníci na neuplatňované mandáty poslancov členov vlády. Náhradníci budú vykonávať mandát poslanca, ktorý trvá počas výkonu funkcie člena vlády Slovenskej republiky, na ktorého neuplatňovaný mandát poslanca nastúpili. Členovia výboru zároveň konštatujú, že podľa dokladov, ktoré predložili poslanci v súvislosti s ujatím sa funkcie verejného funkcionára ku dňu zloženia sľubu poslanca Národnej rady Slovenskej republiky, že žiaden z nich nevykonáva funkciu nezlučiteľnú podľa čl. 77 Ústavy Slovenskej republiky. Skutočnosťami, či poslanci nevykonávajú funkciu nezlučiteľnú s postavením verejného funkcionára podľa ústavného zákona č. 357/2004 Z. z. o ochrane verejného záujmu pri výkone funkcií verejných funkcionárov v znení ústavného zákona č. 545/2005 Z. z., sa Mandátový výbor Národnej rady Slovenskej republiky osobitne nezaoberal. Týmito skutočnosťami sa bude v súlade s citovaným ústavným zákonom zaoberať podľa § 58 ods. 1 písm. a) zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku v znení neskorších predpisov Výbor Národnej rady Slovenskej republiky pre nezlučiteľnosť funkcií v rámci svojej pôsobnosti. Na základe týchto skutočností, ako aj uznesení, ktoré mandátový a imunitný výbor na dnešnej schôdzi v týchto súvislostiach prijal, vám navrhujem, aby Národná rada Slovenskej republiky schválila uznesenia v tomto znení: Uznesenie Národnej rady Slovenskej republiky k správe Mandátového a imunitného výboru Národnej rady Slovenskej republiky o overení platnosti voľby poslancov Národnej rady Slovenskej republiky zvolených vo voľbách dňa 10. marca 2012. Národná rada Slovenskej republiky na základe Správy Mandátového a imunitného výboru Národnej rady Slovenskej republiky o overení platnosti voľby poslancov Národnej rady Slovenskej republiky zvolených vo voľbách 10. marca 2012 a návrhu Mandátového a imunitného výboru Národnej rady Slovenskej republiky podľa čl. 76 Ústavy Slovenskej republiky a podľa § 8 ods. 2 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku v znení neskorších predpisov overuje platnosť voľby poslancov Národnej rady Slovenskej republiky zvolených do Národnej rady Slovenskej republiky vo voľbách konaných 10. marca 2012. Pán predseda, to by bolo prvé hlasovanie. Ďalej mi dovoľte, aby som v rámci môjho vystúpenia ešte podal aj informáciu Mandátového a imunitného výboru Národnej rady Slovenskej republiky o nastúpení náhradníkov na neuplatňované mandáty poslancov Národnej rady Slovenskej republiky. Na základe výsledku volieb do Národnej rady Slovenskej republiky konaných dňa 10. marca 2012 bolo zvolených 150 poslancov, ktorým Ústredná volebná komisia dňa 20. marca 2012 vydala osvedčenia o zvolení za poslancov Národnej rady Slovenskej republiky. Takto zvolení poslanci zložili 4. apríla 2012 ústavou predpísaný sľub poslanca, čím začali vykonávať funkciu poslanca Národnej rady Slovenskej republiky. Medzi týmito poslancami - ako je známe - sú i členovia vlády Slovenskej republiky vymenovaní prezidentom Slovenskej republiky 4. apríla 2012 počas prerušenia ustanovujúcej schôdze Národnej rady Slovenskej republiky. Podľa čl. 77 ods. 2 Ústavy Slovenskej republiky mandát poslanca, ktorý bol vymenovaný za člena vlády Slovenskej republiky, nezaniká, iba sa počas výkonu funkcie neuplatňuje. Podľa § 47 ods. 1 zákona č. 333/2004 Z. z. o voľbách do Národnej rady Slovenskej republiky v znení neskorších predpisov, ak sa uprázdni počas volebného obdobia mandát poslanca, nastupuje náhradník tej istej politickej strany alebo koalície podľa poradia, v akom bol uvedený na kandidátnej listine. Ak však boli na kandidátnej listine uplatnené prednostné hlasy, nastupuje z kandidátov, ktorí získali aspoň 3 % prednostných hlasov, ten kandidát, ktorý dostal najväčší počet hlasov. Vzhľadom na skutočnosť, že novozvolení poslanci Robert Fico, Robert Kaliňák, Marek Maďarič, Ján Počiatek, Dušan Čaplovič, Peter Kažimír, Ľubomír Jahnátek, Ján Richter, Peter Žiga a Martin Glváč sú členovia vlády, ich mandát poslanca podľa citovaného čl. 77 ods. 2 Ústavy Slovenskej republiky nezanikol, iba sa neuplatňuje. Túto skutočnosť zobral predseda Národnej rady Slovenskej republiky Pavol Hrušovský na vedomie a rozhodnutím č. 1 zo 4. apríla 2012 vyhlásil nastúpenie náhradníkov na uvedené neuplatňované mandáty poslancov Národnej rady Slovenskej republiky, a to podľa poradia uvedeného v Zápisnici Ústrednej volebnej komisie o výsledku volieb do Národnej rady Slovenskej republiky konaných dňa 10. marca 2012 takto: za stranu SMER – sociálna demokracia - miesto poslanca Národnej rady Slovenskej republiky Roberta Fica nastupuje náhradník Viliam Holeva, narodený 25. apríla 1950, bytom Bardejov, - namiesto poslanca Národnej rady Slovenskej republiky Roberta Kaliňáka nastupuje náhradník Ľuboš Blaha, narodený 7. decembra 1979, bytom Bratislava, - namiesto poslanca Národnej rady Slovenskej republiky Mareka Maďariča nastupuje náhradníčka Viera Mazúrová, narodená 28. mája 1961, bytom Oravská Lesná, - miesto poslanca Národnej rady Slovenskej republiky Jána Počiatka nastupuje náhradník Milan Halúz, narodený 22. januára 1967, bytom Levice, - miesto poslanca Národnej rady Slovenskej republiky Dušana Čaploviča nastupuje náhradník Ján Babič, narodený 27. mája 1955, bytom Rožňava, - miesto poslanca Národnej rady Slovenskej republiky Petra Kažimíra nastupuje náhradník Rastislav Čepák, narodený 5. februára 1976, bytom Košecké Podhradie, - namiesto poslanca Národnej rady Slovenskej republiky Ľubomíra Jahnátka nastupuje náhradník Peter Fitz, narodený 10. augusta 1975, bytom Šenkvice, - namiesto poslanca Národnej rady Slovenskej republiky Jána Richtera nastupuje náhradníčka Viera Kučerová, narodená 7. októbra 1956, bytom Holíč, no a - namiesto poslanca Národnej rady Slovenskej republiky Petra Žigu nastupuje náhradník Štefan Hreha, narodený 22. augusta 1958, bytom Vranov nad Topľou, a - namiesto poslanca Národnej rady Slovenskej republiky Martina Glváča nastupuje náhradník Jozef Ježík, narodený 21. júna 1967, bytom Zvolen. Súčasne predseda Národnej rady Slovenskej republiky Pavol Hrušovský rozhodnutím č. 2 zo 4. apríla 2012 požiadal Mandátový a imunitný výbor Národnej rady Slovenskej republiky, aby preskúmal dodržanie podmienok nastúpenia náhradníkov podľa § 47 ods. 1 zákona č. 333/2004 Z. z. o voľbách do Národnej rady Slovenskej republiky v znení neskorších predpisov a podal Národnej rade Slovenskej republiky informáciu o nastúpení náhradníkov na neuplatňované mandáty poslancov Národnej rady Slovenskej republiky spolu so svojím návrhom. Na zabezpečenie požiadaviek, ktoré vyplývajú z citovaných predpisov a rozhodnutí predsedu Národnej rady, vykonal mandátový a imunitný výbor tieto úkony: Oboznámil sa s predmetnými rozhodnutiami predsedu Národnej rady Slovenskej republiky a so Zápisnicou Ústrednej volebnej komisie o výsledku volieb do Národnej rady Slovenskej republiky konaných 10. marca 2012 vrátane jej príloh. Podľa prílohy č. 1 uvedenej zápisnice nastupujú za poslancov, ktorých mandát sa neuplatňuje, náhradníci za poslancov Národnej rady Slovenskej republiky uvedení v citovanom rozhodnutí predsedu Národnej rady Slovenskej republiky. Mandátový a imunitný výbor Národnej rady Slovenskej republiky vzal uvedené skutočnosti na vedomie a odporúča Národnej rade prijať toto uznesenie: Národná rada Slovenskej republiky berie na vedomie, 1. že podľa § 2 ods. 3 písm. e) zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov sa neuplatňujú mandáty poslancov Národnej rady Slovenskej republiky, ktorými sú členovia vlády Slovenskej republiky, teda Roberta Fica, Roberta Kaliňáka, Mareka Maďariča, Ján Počiatka, Dušana Čaploviča, Petra Kažimíra, Ľubomíra Jahnátka, Jána Richtera, Petra Žigu a Martina Glváča. Ich mandát poslanca podľa čl. 77 ods. 2 Ústavy Slovenskej republiky nezaniká, iba sa neuplatňuje; 2. že podľa § 47 ods. 6 zákona č. 333/2004 Z. z. o voľbách do Národnej rady Slovenskej republiky v znení neskorších predpisov a rovnako aj podľa § 10 ods. 1 a 2 písm. b) zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov predseda Národnej rady Slovenskej republiky rozhodnutím č. 1 zo 4. apríla 2012 vyhlásil nastúpenie náhradníkov na uvedené neuplatňované mandáty poslancov Národnej rady Slovenskej republiky, ktorí sú členovia vlády Slovenskej republiky, 4. aprílom 2012 podľa poradia uvedeného v Zápisnici Ústrednej volebnej komisie o výsledku volieb do Národnej rady Slovenskej republiky zo dňa 10. marca 2012, a to: za stranu SMER – sociálna demokracia: - namiesto poslanca Národnej rady Roberta Fica nastupuje náhradník Viliam Holeva, - miesto poslanca Roberta Kaliňáka nastupuje náhradník Ľuboš Blaha, - miesto poslanca Mareka Maďariča nastupuje náhradníčka Viera Mazúrová, - miesto poslanca Jána Počiatka nastupuje náhradník Milan Halúz, - miesto poslanca Národnej rady Dušana Čaploviča nastupuje náhradník Ján Babič, - miesto poslanca Petra Kažimíra nastupuje náhradník Rastislav Čepák, - miesto poslanca Národnej rady Slovenskej republiky Ľubomíra Jahnátka nastupuje náhradník Peter Fitz, - namiesto poslanca Národnej rady Slovenskej republiky Jána Richtera náhradníčka pani Viera Kučerová, - miesto poslanca Petra Žigu nastupuje náhradník Štefan Hreha, a - namiesto poslanca Národnej rady Slovenskej republiky Martina Glváča nastupuje náhradník Jozef Ježík. Veľmi pekne vám ďakujem, pán predseda, za slovo.</seg>
             </u>
             <!--orig: SK_term_6.tsv-line18 || sorted: SK_term_6.tsv:line=18-->
+            <note/>
             <u xml:id="ParlaMint-SK_2012-04-04-t6m1.u351" who="#PavolHrušovský.1952" ana="#chair" source="http://tv.nrsr.sk/transcript?id=78527">
                <seg xml:id="ParlaMint-SK_2012-04-04-t6m1.u351.p1"/>
             </u>
@@ -1965,6 +1978,7 @@
                <desc>Akt tajného hlasovania.</desc>
             </vocal>
             <!--orig: SK_term_6.tsv-line19 || sorted: SK_term_6.tsv:line=19-->
+            <note/>
             <u xml:id="ParlaMint-SK_2012-04-04-t6m1.u353" who="#PavolHrušovský.1952" ana="#chair" source="http://tv.nrsr.sk/transcript?id=78479">
                <seg xml:id="ParlaMint-SK_2012-04-04-t6m1.u353.p1"/>
             </u>
@@ -1979,6 +1993,7 @@
                <desc>Po spracúvaní výsledkov tajného hlasovania.</desc>
             </vocal>
             <!--orig: SK_term_6.tsv-line20 || sorted: SK_term_6.tsv:line=20-->
+            <note/>
             <u xml:id="ParlaMint-SK_2012-04-04-t6m1.u355" who="#PavolHrušovský.1952" ana="#chair" source="http://tv.nrsr.sk/transcript?id=78481">
                <seg xml:id="ParlaMint-SK_2012-04-04-t6m1.u355.p1"/>
             </u>
@@ -1994,6 +2009,7 @@
                <desc>Pokračovanie potlesku.</desc>
             </kinesic>
             <!--orig: SK_term_6.tsv-line22 || sorted: SK_term_6.tsv:line=22-->
+            <note/>
             <u xml:id="ParlaMint-SK_2012-04-04-t6m1.u358" who="#PavolHrušovský.1952" ana="#chair" source="http://tv.nrsr.sk/transcript?id=78487">
                <seg xml:id="ParlaMint-SK_2012-04-04-t6m1.u358.p1"/>
             </u>

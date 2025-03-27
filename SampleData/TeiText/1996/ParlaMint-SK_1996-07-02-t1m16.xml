@@ -43,6 +43,9 @@
          <div>
             <!--orig: SK_term_1.tsv-line2653 || sorted: SK_term_1.tsv:line=2653-->
             <note type="date">Šiesty deň rokovania 16. schôdze Národnej rady Slovenskej republiky 2. júla 1996</note>
+            <u xml:id="ParlaMint-SK_1996-07-01-t1m16s1.u260" who="#AugustínMariánHúska.1929" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-07-01-t1m16s1.u260.p1"/>
+            </u>
          </div>
       </body>
    </text>

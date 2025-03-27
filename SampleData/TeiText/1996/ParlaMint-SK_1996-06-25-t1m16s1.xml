@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ParlaMint-SK_1996-06-25-t1m16s1" xml:lang="sk">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <!-- TODO -->
+            <meeting ana="#parla.term #parla.uni" n="1">1</meeting>
+            <meeting ana="#parla.meeting #parla.uni" n="16">16</meeting>
+            <!-- TODO -->
+         </titleStmt>
+         <editionStmt>
+            <edition>3.0a</edition>
+         </editionStmt>
+         <extent>
+            <!-- TODO -->
+         </extent>
+         <publicationStmt>
+            <!-- TODO -->
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <!-- TODO -->
+               <idno type="URI" subtype="parliament">https://www.nrsr.sk/dl/Browser/Document?documentId=96361</idno>
+               <date when="1996-06-25">1996-06-25</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <!-- TODO -->
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <!-- TODO -->
+               <date when="1996-06-25">1996-06-25</date>
+            </setting>
+         </settingDesc>
+         <!-- TODO -->
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <!--orig: SK_term_1.tsv-line2380 || sorted: SK_term_1.tsv:line=2380-->
+            <u xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u1" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u1.p1">Vážené pani poslankyne, vážení páni poslanci, chcem vás informovať o tom, že v dopoludňajších hodinách sa konala schôdza politického grémia. Na grémiu bol prerokovaný ďalší postup v pokračovaní 16. schôdze Národnej rady. Bol podaný návrh, aby sme schôdzu dnes prerušili s tým, že budeme pokračovať v pondelok na budúci týždeň o 13. 00 hodine. S týmto návrhom na politickom grémiu vyjadrili súhlas poslanecké kluby SDĽ, HZDS, ZRS a SNS. Zástupca KDH sa vyjadril jednoznačne, že nebudú podporoval: tento návrh, DÚ a koalícia Együttélés a MKDH povedali, že sa musia poradiť ešte v kluboch. Na základe tohto podaného návrhu dávam návrh a budeme hlasovať bez rozpravy <vocal type="noise"><desc>hlasy z pléna</desc></vocal> o tomto návrhu, ktorý vzišiel z politického grémia. Ak má pán poslanec Kováč procedurálny návrh, nech sa páči.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2381 || sorted: SK_term_1.tsv:line=2381-->
+            <u xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u2" who="#RomanKováč.1940" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u2.p1">Pán predseda, budem hlasovať, náhradnou kartou číslo 2. Demokratická únia nepodporí tento návrh.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2382 || sorted: SK_term_1.tsv:line=2382-->
+            <u xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u3" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u3.p1">Pán poslanec Šimko.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2383 || sorted: SK_term_1.tsv:line=2383-->
+            <u xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u4" who="#IvanŠimko.1955" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u4.p1">Ďakujem, pán predseda. Mám procedurálny návrh. Viete, to lietadlo, ktorým sem poslanci prileteli, stálo okolo milióna korún. Myslím si, že by bolo vyhadzovaním peňazí našich daňových poplatníkov, keby sme prerušovali celú schôdzu. Môžeme o bodoch, o ktoré ide, rokovať, povedzme, v piatok, preložme ich na piatok. Dávam taký návrh, aby sme tento bod, ktorý máme prerokúvať teraz, preložili na piatok.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2384 || sorted: SK_term_1.tsv:line=2384-->
+            <u xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u5" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u5.p1">Pán poslanec, povedal som, že budeme hlasovať bez rozpravy. To je v súlade s rokovacím poriadkom. Jednak nejde o také financie, ako ste povedali. To po prvé. A ja neviem, o ktorých bodoch máme rokovať a o ktorých nie.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2385 || sorted: SK_term_1.tsv:line=2385-->
+            <u xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u6" who="#IvanŠimko.1955" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u6.p1">Napríklad o rokovacom poriadku.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2386 || sorted: SK_term_1.tsv:line=2386-->
+            <u xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u7" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u7.p1">Či lietadlo pôjde dnes, alebo nepôjde, to neviem. Musím si splniť svoju povinnosť. Pán poslanec Klein.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2387 || sorted: SK_term_1.tsv:line=2387-->
+            <u xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u8" who="#JozefKlein.1943" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u8.p1">Ďakujem za slovo. Pán predseda, mám procedurálny návrh ako pán poslanec Šimko. Odporúčam neprerušiť schôdzu a rokovať o iných bodoch programu. Myslím, že plytváme peniazmi našich daňových poplatníkov. Ďakujem.</seg>
+            </u>
+            <kinesic type="applause">
+               <desc>Potlesk.</desc>
+            </kinesic>
+            <!--orig: SK_term_1.tsv-line2388 || sorted: SK_term_1.tsv:line=2388-->
+            <u xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u9" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u9.p1">Pán poslanec Moric.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2389 || sorted: SK_term_1.tsv:line=2389-->
+            <u xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u10" who="#VíťazoslavMóric.1946" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u10.p1">Pán predseda, nemám kartu a prosil by som vás, keby ste mi umožnili zaregistrovať, náhradnú kartu, inak by som musel hlasovať rukou. Predseda NR SR I. Gašparovič; Pán poslanec Volf.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2390 || sorted: SK_term_1.tsv:line=2390-->
+            <u xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u11" who="#JaroslavVolf.1952" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u11.p1">Tiež sa pridávam k návrhu mojich predrečníkov, aby sa pokračovalo.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2391 || sorted: SK_term_1.tsv:line=2391-->
+            <u xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u12" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u12.p1">To netreba. Budeme o tom hlasovať, takže potom sa pridajme hlasmi. Prosím, urobte kartu pánu poslancovi Móricovi. Páni poslanci, pani poslankyne, je niekoľko výborov, ktoré nemajú prerokované zákony. <vocal type="noise"><desc>Hlas zo sály: Ktoré?</desc></vocal> Výbor pána predsedu Reu. <vocal type="noise"><desc>Ruch medzi poslancami.</desc></vocal> Páni poslanci! Pán poslanec Hrušovský, vyprosujem si od vás takéto niečo. Konám korektne podľa návrhov poslancov. Keď budete sedieť vy tu, ako sa vy budete správať, to je vaša vec. Ja sa snažím správať korektne k obidvom stranám. Prosím, aby ste takto nerušili schôdzu. Pán poslanec Mikloško, máte procedurálnu otázku? <vocal type="noise"><desc>Hlasy zo sály.</desc></vocal> Ešte nie je karta pre pána Mórica. Kartu potrebuje aj pán poslanec Vaškovič. <vocal type="noise"><desc>Ruch a hlasy v sále.</desc></vocal> Inak je zbytočné, aby sme ďalej diskutovali o tejto otázke. Dám hlasovať o návrhu z grémia, a keď neprejde, samozrejme, že platí to druhé. Takže akákoľvek diskusia je zbytočná. Pán poslanec Mikloško. Zapnite mikrofón pánu poslancovi Mikloškovi.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2392 || sorted: SK_term_1.tsv:line=2392-->
+            <u xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u13" who="#FrantišekMikloško.1947" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u13.p1">Pán predseda, technika vypla pána poslanca Šimka skôr ako mohol povedať veľmi konkrétne svoj procedurálny návrh, aby bola voľba do Fondu národného majetku preložená z tejto chvíle na piatok ráno o 9. 00 hodine. Chcem povedať, že máme preberať rokovací poriadok, môžeme sa ním zaoberať celý týždeň, to je toľko roboty. Nie je dôvod prerušovať schôdzu.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2393 || sorted: SK_term_1.tsv:line=2393-->
+            <u xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u14" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-25-t1m16s1.u14.p1">Pán poslanec, nič iné som nepovedal a aj to, čo povedal pán poslanec Šimko, všetci pochopili. Ide sa hlasovať o týchto dvoch návrhoch. Každý vyjadrí svoju vôľu hlasovaním. Neviem, o čom chceme diskutovať. Prosím, budeme hlasovať. Hlasujeme najskôr za návrh, ktorý vyšiel z politického grémia, a to, aby sme prerušili schôdzu a pokračovali v nej v pondelok o 13. 00 hodine. <note type="narrative">Hlasovanie.</note> Prezentovalo sa 133 poslancov. Za návrh hlasovalo 85 poslancov. Proti návrhu hlasovalo 46 poslancov. Hlasovania sa zdržal 1 poslanec. Nehlasoval 1 poslanec. Vážené pani poslankyne, vážení páni poslanci, prerušujem dnešnú schôdzu do pondelka do 13. 00 hodiny s tým, že vyzývam predsedov výborov, ktorí nemajú prerokované jednotlivé normy, aby si v tomto čase organizovali prácu vo výboroch. Pán poslanec Rea zvoláva svoj výbor na 15. 00 hod. Pán predseda Haťapka zvoláva svoj výbor okamžite. Výbor pre zdravotníctvo a sociálne veci bude zasadať o 15. 30 hodine. Výbor pre financie, rozpočet a menu bude zasadať o 15. 15 hodine. Všetci budeme pracovať. 16. schôdza Národnej rady Slovenskej republiky prerušená do pondelka 1. júla 1996 - do 13. 00 hodiny.</seg>
+            </u>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -41,6 +41,7 @@
       <body>
          <div>
             <!--orig: SK_term_5.tsv-line2 || sorted: SK_term_5.tsv:line=2-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u1" who="#MiroslavČíž.1954" ana="#chair" source="http://tv.nrsr.sk/transcript?id=4521">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u1.p1"/>
             </u>
@@ -49,6 +50,7 @@
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u2.p1">Dobrý deň, vážené panie poslankyne, vážení páni poslanci, poprosím vás, aby ste postupne zaujali miesta v poslaneckých laviciach a pripravili si aj hlasovacie karty a použili ich vložením do hlasovacieho zariadenia. Vážené panie poslankyne, vážení páni poslanci, prichádza prezident Slovenskej republiky. Povstaňme, prosím. <note>Príchod prezidenta Slovenskej republiky Ivana Gašparoviča v sprievode predsedu NR SR Pavla Pašku.</note> (Hymna Slovenskej republiky.</seg>
             </u>
             <!--orig: SK_term_5.tsv-line3 || sorted: SK_term_5.tsv:line=3-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u3" who="#PavolPaška.1958" ana="#regular" source="http://tv.nrsr.sk/transcript?id=5468">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u3.p1"/>
             </u>
@@ -57,6 +59,7 @@
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u4.p1">Pekný deň. Vážené pani poslankyne, páni poslanci, vítam vás na ustanovujúcej schôdzi Národnej rady Slovenskej republiky v V. volebnom období. Dovoľte privítať pána prezidenta Slovenskej republiky, pána Ivana Gašparoviča, na základe poverenia ktorého som dnešnú ustanovujúcu schôdzu zvolal. Dámy a páni, vážené pani poslankyne, páni poslanci, ustanovujúca schôdza sa riadi programom, ktorý vyplýva z § 3 až 15 zákona o rokovacom poriadku Národnej rady. Program ste všetci dostali v pozvánke na ustanovujúcu schôdzu. Jej príprave predchádzalo, v súlade so zákonom, stretnutie s predsedami politických strán, ktoré vytvoria poslanecké kluby v novom volebnom období. Prvým bodom programu je skladaniesľubu poslancov Národnej rady Slovenskej republiky. Podľa čl. 75 ods. 1 Ústavy Slovenskej republiky a podľa § 4 ods. 1 zákona o rokovacom poriadku poslanec skladá na ustanovujúcej schôdzi sľub a znenie sľubu je uvedené v Ústave Slovenskej republiky. Pri skladaní sľubu poslancov budeme postupovať ústavným spôsobom. Poslanec skladá sľub tak, že po verejnom prečítaní textu sľubu položí pravú ruku na ústavu a povie slovo "sľubujem" a podá mi ruku. Svojím podpisom potom potvrdí zloženie sľubu. Ako prvý vykonám sľub ja do rúk doterajšieho podpredsedu Národnej rady pána Miroslava Číža a potom všetky ostatné kolegyne a kolegovia postupne už do mojich rúk včítane členov vlády, ktorí získali mandát do V. volebného obdobia. Poslanci, ktorí zložia sľub, sa vždy zaradia na koniec radu, v ktorom majú svoje miesto, s tým, že budú postupovať tak, až zaujmú miesto určené im podľa zasadacieho poriadku. Pán podpredseda Národnej rady Miroslav Číž bude postupne uvádzať mená poslancov, ktorí budú pristupovať a skladať sľub. Rád by som upozornil, že podľa čl. 75 ods. 3 ústavy odmietnutie sľubu alebo sľub s výhradou má za následok stratu mandátu. A teraz, vážené pani poslankyne, páni poslanci, pristúpime k skladaniu sľubu. Chcem vás požiadať, aby ste počas skladania sľubu všetkých kolegýň a kolegov stáli. Ja, ako som uviedol, vykonám sľub prvý. A poprosím teraz pána podpredsedu Národnej rady Miroslava Číža, aby prečítal ústavné znenie sľubu poslanca Národnej rady.</seg>
             </u>
             <!--orig: SK_term_5.tsv-line4 || sorted: SK_term_5.tsv:line=4-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u5" who="#MiroslavČíž.1954" ana="#chair" source="http://tv.nrsr.sk/transcript?id=5469">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u5.p1"/>
             </u>
@@ -1703,6 +1706,7 @@
                <desc>Potlesk.</desc>
             </kinesic>
             <!--orig: SK_term_5.tsv-line5 || sorted: SK_term_5.tsv:line=5-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u304" who="#MiroslavČíž.1954" ana="#chair" source="http://tv.nrsr.sk/transcript?id=13461">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u304.p1"/>
             </u>
@@ -1711,6 +1715,7 @@
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u305.p1">Pán predseda,sľub zložili všetci poslanci predpísaným spôsobom.</seg>
             </u>
             <!--orig: SK_term_5.tsv-line6 || sorted: SK_term_5.tsv:line=6-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u306" who="#PavolPaška.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=13462">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u306.p1"/>
             </u>
@@ -1727,6 +1732,7 @@
             </incident>
             <note type="comment">Po prestávke.</note>
             <!--orig: SK_term_5.tsv-line7 || sorted: SK_term_5.tsv:line=7-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u308" who="#PavolPaška.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=13463">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u308.p1"/>
             </u>
@@ -1735,6 +1741,7 @@
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u309.p1">Dámy a páni, vážené pani poslankyne, páni poslanci, budeme teraz pokračovať v programe ustanovujúcej schôdze. Vo voľbách do Národnej rady 12. júna zo 150 poslancov Národnej rady boli zvolení aj 11 poslanci, ktorí sú ešte stále členmi vlády Slovenskej republiky, a podľa čl. 77 ods. 2 a čl. 109 ods. 2 Ústavy Slovenskej republiky výkon funkcie člena vlády je nezlučiteľný s výkonom poslaneckého mandátu a mandát sa preto počas tohto výkonu neuplatňuje, chcem pripomenúť, že podľa čl. 117 Ústavy Slovenskej republiky vláda podá demisiu do rúk prezidenta Slovenskej republiky až po ukončení ustanovujúcej schôdze, preto je nevyhnutné, aby za týchto členov vlády, ktorí zložili sľub, ale ktorých mandát spočíva, nastúpili náhradníci. Na základe uvedeného som podľa príslušných ustanovení zákona o rokovacom poriadku a zákona o voľbách do Národnej rady vyhlásil dnešným dňom, t. j. 8. júlom 2010, na neuplatňované mandáty poslancov, doterajších členov vlády, nastúpenie náhradníkov tak, aby mohli hlasovať na tejto schôdzi, aby sme mohli naplniť program ustanovujúcej schôdze v plnom počte 150 mandátov, ktoré Národná rada má. Preto na neuplatnený mandát za Roberta Fica nastúpi Oľga Nachtmannová, za Roberta Kaliňáka Lea Grečková, za Marka Maďariča Branislav Bačík, za Jána Počiatka Mária Janíková, za Dušana Čaploviča Ján Kvorka, za Ľubomíra Jahnátka Ján Zvonár, za Vieru Tomanovú Emília Müllerová, za Richarda Rašiho Juraj Štofko, za Jaroslava Bašku Milan Mojš, za Ľubomíra Vážneho Ján Babič a za Jána Mikolaja Ivan Šaško. Teraz pristúpime k druhému bodu programu ustanovujúcej schôdze, kzloženiu sľubu náhradníkov za neuplatňované mandáty poslancov Národnej rady. Vidím, že náhradníci, tak ako som ich uviedol, sú už pripravení vykonať akt. Takisto vás všetkých poprosím, aby ste pri zložení sľubu náhradníkov stáli. Poprosím pána podpredsedu Miroslava Číža, aby ešte raz predniesol pre náhradníkov predpísané znenie sľubu a aby aj títo náhradníci zložili sľub spôsobom určený ústavou, a to položením ruky na ústavu a vyslovením slova "sľubujem" a podaním ruky predsedovi a podpisom.</seg>
             </u>
             <!--orig: SK_term_5.tsv-line8 || sorted: SK_term_5.tsv:line=8-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u310" who="#MiroslavČíž.1954" ana="#chair" source="http://tv.nrsr.sk/transcript?id=13464">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u310.p1"/>
             </u>
@@ -1860,6 +1867,7 @@
                <desc>Potlesk.</desc>
             </kinesic>
             <!--orig: SK_term_5.tsv-line9 || sorted: SK_term_5.tsv:line=9-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u333" who="#PavolPaška.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=13512">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u333.p1"/>
             </u>
@@ -1871,6 +1879,7 @@
                <desc>Akt tajného hlasovania.</desc>
             </vocal>
             <!--orig: SK_term_5.tsv-line10 || sorted: SK_term_5.tsv:line=10-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u335" who="#PavolPaška.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=13767">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u335.p1"/>
             </u>
@@ -1882,6 +1891,7 @@
                <desc>Spracúvanie výsledkov tajného hlasovania.</desc>
             </vocal>
             <!--orig: SK_term_5.tsv-line11 || sorted: SK_term_5.tsv:line=11-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u337" who="#PavolPaška.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=13910">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u337.p1"/>
             </u>
@@ -1897,6 +1907,7 @@
                <desc>Potlesk.</desc>
             </kinesic>
             <!--orig: SK_term_5.tsv-line13 || sorted: SK_term_5.tsv:line=13-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u340" who="#PavolPaška.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=13911">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u340.p1"/>
             </u>
@@ -1909,6 +1920,7 @@
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u342.p1">Ďakujem. Poprosím členov mandátového a imunitného výboru, aby sa zišli na 1. schôdzu výboru tuto naľavo v rokovacej miestnosti ústavnoprávneho výboru.</seg>
             </u>
             <!--orig: SK_term_5.tsv-line15 || sorted: SK_term_5.tsv:line=15-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u343" who="#PavolPaška.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=30023">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u343.p1"/>
             </u>
@@ -1920,6 +1932,7 @@
                <desc>Prerušenie rokovania o 11.52 hodine. (Pokračovanie rokovania o 12.30 hodine.</desc>
             </incident>
             <!--orig: SK_term_5.tsv-line16 || sorted: SK_term_5.tsv:line=16-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u345" who="#PavolPaška.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=4799">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u345.p1"/>
             </u>
@@ -1932,6 +1945,7 @@
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u347.p1">Ďakujem pekne, pán predseda. Vážené dámy, vážení páni, dovoľte, aby som uviedol v rámci uvedeného bodu programu dva materiály Správu mandátového a imunitného výboru o preskúmaní osvedčení o zvolení za poslancov Národnej rady Slovenskej republiky a o overení platnosti voľby poslancov Národnej rady Slovenskej republiky vo voľbách konaných dňa 12. júna 2010 a Informáciu mandátového a imunitného výboru o nastúpení náhradníkov na neuplatňovaný mandát poslancov Národnej rady Slovenskej republiky. Najprv prejdem k správe.Správa Mandátového a imunitného výboru Národnej rady Slovenskej republiky o preskúmaní osvedčení o zvolení za poslancov Národnej rady Slovenskej republiky a o overení platnosti voľby poslancov Národnej rady Slovenskej republiky vo voľbách konaných dňa 12. júna 2010. Ústredná volebná komisia po parlamentných voľbách konaných dňa 12. 6. 2010 zaslala Zápisnicu o výsledku volieb do Národnej rady Slovenskej republiky, ktorá podľa čl. 76 Ústavy Slovenskej republiky overuje platnosť voľby poslancov do Národnej rady Slovenskej republiky. Podľa § 8 ods. 1 a ods. 2 zákona o rokovacom poriadku predložili poslanci mandátovému a imunitnému výboru osvedčenia o svojom zvolení za poslanca vydané Ústrednou volebnou komisiou. Mandátový a imunitný výbor Národnej rady Slovenskej republiky tieto osvedčenia preskúmal a správu o ich preskúmaní a návrh na rozhodnutie o overení platnosti volieb predkladá Národnej rade Slovenskej republiky. Mandátový a imunitný výbor na svojej ustanovujúcej schôdzi dňa 8. júla 2010 ma ako predsedu výboru poveril, aby som vás oboznámil s výsledkami rokovania výboru a predložil návrh výboru na rozhodnutie o overení platnosti voľby poslancov Národnej rady Slovenskej republiky zvolených do Národnej rady vo voľbách konaných v dňa 12. júna 2010. Mandátový a imunitný výbor sa na svojej ustanovujúcej schôdzi oboznámil so Zápisnicou Ústrednej volebnej komisie o výsledku volieb do Národnej rady, ako aj s jej prílohami. Ďalej výbor preskúmal osvedčenia o zvolení za poslanca a konštatoval, že všetci poslanci boli platne zvolení. Okrem preskúmania osvedčení o zvolení za poslanca bolo povinnosťou mandátového a imunitného výboru zistiť, či všetci novozvolení poslanci prítomní na ustanovujúcej schôdzi Národnej rady Slovenskej republiky zložili podľa čl. 75 Ústavy Slovenskej republiky predpísaný sľub poslanca Národnej rady Slovenskej republiky. Na základe vykonaného sľubu na ustanovujúcej schôdzi Národnej rady a preverenia podpisov, ktorými poslanci potvrdili zloženie sľubu, je možné konštatovať, že všetci poslanci prítomní na ustanovujúcej schôdzi Národnej rady zložili ústavou predpísaný sľub poslanca bez výhrad. Mandátový a imunitný výbor súčasne konštatuje, že sľub poslanca bez výhrad zložili aj náhradníci na neuplatnené mandáty členov vlády Slovenskej republiky. Náhradníci budú vykonávať mandát poslanca, ktorý trvá len počas výkonu funkcie člena vlády Slovenskej republiky, na ktorého neuplatňovaný mandát poslanca nastúpili. Mandátový a imunitný výbor však konštatuje, že podľa dokladov, ktoré predložili poslanci v súvislosti s ujatím sa funkcie verejného funkcionára ku dňu zloženia sľubu poslanca Národnej rady Slovenskej republiky, žiaden z nich nevykonáva funkciu nezlučiteľnú podľa čl. 77 Ústavy Slovenskej republiky. Pokiaľ sa týka skutočností, či uvedení poslanci nevykonávajú funkciu nezlučiteľnú s postavením verejného činiteľa podľa ústavného zákona č. 357/2004 Z. z. v znení ústavného zákona č. 545/2005 Z. z. o ochrane verejného záujmu pri výkone funkcii verejného funkcionára, sa s nimi Mandátový a imunitný výbor Národnej rady Slovenskej republiky osobitne nezaoberal. Týmito skutočnosťami sa bude v súlade s citovaným ústavným zákonom zaoberať podľa § 58 ods. 1 písm. a) zákona č. 350/1996 Z. z. o rokovacom poriadku príslušný výbor, a to výbor pre nezlučiteľnosť funkcií, v rámci pôsobnosti tohto výboru. Na základe uvedených skutočností a uznesení, ktoré mandátový a imunitný výbor na dnešnej schôdzi v týchto súvislostiach prijal, navrhujem, aby Národná rada Slovenskej republiky schválila uznesenia v tomto znení: Uznesenie Národnej rady Slovenskej republiky zo dňa 8. júla 2010 k Správe Mandátového a imunitného výboru Národnej rady Slovenskej republiky o preskúmaní osvedčení o zvolení za poslanca Národnej rady Slovenskej republiky a o overení platnosti voľby poslancov Národnej rady Slovenskej republiky vo voľbách konaných dňa 12. júna 2010. Národná rada Slovenskej republiky na základe Správy Mandátového a imunitného výboru Národnej rady Slovenskej republiky o preskúmaní osvedčení o zvolení za poslancov Národnej rady Slovenskej republiky a o overení platnosti voľby poslancov Národnej rady Slovenskej republiky vo voľbách konaných dňa 12. júna 2010 a návrhu mandátového a imunitného výboru podľa čl. 76 Ústavy Slovenskej republiky a podľa § 8 ods. 2 zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku overuje platnosť voľby poslancov Národnej rady Slovenskej republiky zvolených do Národnej rady Slovenskej republiky vo voľbách konaných dňa 12. júna 2010. Vážené dámy, vážení páni, dovoľte, aby som vás oboznámil sInformáciou mandátového a imunitného výboru o nastúpení náhradníkov na neuplatňovaný mandát poslanca Národnej rady Slovenskej republiky. Prečítam celú informáciu. Informácia Mandátového a imunitného výboru Národnej rady Slovenskej republiky o nastúpení náhradníkov na neuplatňovaný mandát poslancov Národnej rady Slovenskej republiky. Na základe poverenia Mandátového a imunitného výboru Národnej rady Slovenskej republiky predkladám Národnej rade Slovenskej republiky túto informáciu. Na základe výsledku volieb do Národnej rady Slovenskej republiky konaných dňa 12. júna 2010 bolo zvolených 150 poslancov, ktorým Ústredná volebná komisia vydala osvedčenia o zvolení za poslancov Národnej rady dňa 13. júna 2010. Zvolení poslanci zložili dňa 8. júla 2010 ústavou predpísaný sľub poslanca, čím sa ujali funkcie poslanca Národnej rady Slovenskej republiky. Medzi týmito poslancami sú i členovia vlády Slovenskej republiky vymenovaní prezidentom Slovenskej republiky do funkcie členov vlády v rámci IV. volebného obdobia Národnej rady Slovenskej republiky. Podľa čl. 77 ods. 2 Ústavy Slovenskej republiky mandát poslanca, ktorý bol vymenovaný za člena vlády Slovenskej republiky, nezaniká, iba sa počas výkonu tejto funkcie neuplatňuje. Podľa § 47 ods. 1 zákona č. 333/2004 Z. z. o voľbách do Národnej rady Slovenskej republiky v znení neskorších predpisov, ak sa uprázdni počas volebného obdobia mandát poslanca, nastupuje náhradník tej istej politickej strany alebo koalície podľa poradia, v akom bol uvedený na kandidátnej listine. Ak však boli na kandidátnej listine uplatnené prednostné hlasy, nastupuje z kandidátov, ktorí získali aspoň 3 % prednostných hlasov, ten kandidát, ktorý dostal najvyšší počet hlasov. Vzhľadom na skutočnosť, že novozvolení poslanci Robert Fico, Robert Kaliňák, Marek Maďarič, Ján Počiatek, Dušan Čaplovič, Ľubomír Jahnátek, Viera Tomanová, Richard Raši, Jaroslav Baška, Ľubomír Vážny za SMER - sociálna demokraciu a Ján Mikolaj za Slovenskú národnú stranu sú členovia vlády, ich mandát poslanca podľa citovaného čl. 77 ods. 2 Ústavy Slovenskej republiky nezanikol, iba sa neuplatňuje. Túto skutočnosť zobral predseda Národnej rady Slovenskej republiky Pavol Paška na vedomie uznesením č. 1 z 8. júla 2010, vyhlásil nastúpenie náhradníkov na uvedené neuplatňované mandáty poslancov Národnej rady Slovenskej republiky podľa poradia uvedeného v Zápisnici Ústrednej volebnej komisie o výsledku volieb do Národnej rady Slovenskej republiky konaných dňa 12. júna 2010 takto: 1. Za poslancov Národnej rady Slovenskej republiky, ktorí sú členovia vlády Slovenskej republiky, nastupujú náhradníci za stranu SMER – sociálna demokracia: - namiesto poslanca Roberta Fica nastupuje 8. júla 2010 náhradníčka Oľga Nachtmannová, narodená 14. 7. 1963, bytom Bratislava, - namiesto poslanca Roberta Kaliňáka nastupuje 8. júla 2010 náhradníčka Lea Grečková, narodená 10. 10. 1960, bytom Smižany, - namiesto poslanca Mareka Maďariča nastupuje 8. júla 2010 náhradník Branislav Bačík, narodený 10. 1. 1969, bytom Žilina, - namiesto poslanca Jána Počiatka nastupuje 8. júla 2010 náhradníčka Mária Janíková, narodená 18. 11. 1970, bytom Partizánske, - namiesto poslanca Dušana Čaploviča nastupuje 8. júla 2010 náhradník Ján Kvorka, narodený 28. 1. 1955, bytom Blatnica, - namiesto poslanca Ľubomíra Jahnátka nastupuje 8. júla 2010 náhradník Ján Zvonár, narodený 19. 6. 1951, bytom Bratislava, - namiesto poslankyne Viery Tomanovej nastupuje 8. júla 2010 náhradníčka Emília Müllerová, narodená 4. 5. 1954, bytom Kremnica, - namiesto poslanca Richarda Rašiho nastupuje 8. júla 2010 náhradník Juraj Štofko, narodený 17. 2. 1953, bytom Bratislava, - namiesto poslanca Jaroslava Bašku nastupuje 8. júla 2010 náhradník Milan Mojš, narodený 11. 11. 1956, bytom Likavka, - namiesto poslanca Ľubomíra Vážneho nastupuje 8. júla 2010 náhradník Ján Babič, narodený 27. 5. 1955, bytom Rakovnica. 2. Za poslanca Národnej rady Slovenskej republiky, ktorý je členom vlády Slovenskej republiky, nastupuje náhradník za Slovenskú národnú stranu namiesto poslanca Jána Mikolaja nastupuje 8. júla 2010 náhradník Ivan Šaško, narodený 29. 6. 1946, bytom Tvrdošín. Súčasne predseda Národnej rady Slovenskej republiky Pavol Paška uznesením č. 2 z 8. júla 2010 požiadal Mandátový a imunitný výbor Národnej rady Slovenskej republiky, aby preskúmal dodržanie podmienok nastúpenia náhradníkov podľa § 47 ods. 1 zákona č. 333/2004 Z. z. o voľbách do Národnej rady Slovenskej republiky Informáciu o nastúpení náhradníkov na neuplatňované mandáty poslancov Národnej rady Slovenskej republiky spolu so svojím návrhom. Na zabezpečenie požiadaviek vyplývajúcich z citovaných predpisov a rozhodnutí predsedu Národnej rady Slovenskej republiky vykonal Mandátový a imunitný výbor Národnej rady Slovenskej republiky tieto úkony: oboznámil sa s predmetnými rozhodnutiami predsedu Národnej rady Slovenskej republiky a so Zápisnicou Ústrednej volebnej komisie o výsledku volieb do Národnej rady Slovenskej republiky konaných dňa 12. júna 2010 vrátane jej príloh. Podľa prílohy č. 1 uvedenej zápisnice nastupujú za poslancov, ktorých mandát sa neuplatňuje, skutočne kandidáti na náhradníkov za poslancov Národnej rady Slovenskej republiky uvedení v citovanom rozhodnutí predsedu Národnej rady Slovenskej republiky. Mandátový a imunitný výbor Národnej rady Slovenskej republiky vzal uvedené skutočnosti na vedomie a odporúča Národnej rade Slovenskej republiky prijať toto uznesenie: Uznesenie Národnej rady Slovenskej republiky z 8. júla 2010 k Informácii Mandátového a imunitného výboru Národnej rady Slovenskej republiky o neuplatňovaní mandátov poslancov Národnej rady Slovenskej republiky, ktorí sú členovia vlády Slovenskej republiky, a o nastúpení náhradníkov na neuplatnené mandáty poslancov Národnej rady Slovenskej republiky. Národná rada Slovenskej republiky berie na vedomie, 1. že podľa § 2 ods. 3 písm. e) zákona Národnej rady Slovenskej republiky č. 350/1996 o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov sa neuplatňujú mandáty poslancov Národnej rady Slovenskej republiky, ktorí sú členovia vlády Slovenskej republiky, Robert Fico, Robert Kaliňák, Marek Maďarič, Ján Počiatek, Dušan Čaplovič, Ľubomír Jahnátek, Viera Tomanová, Richard Raši, Jaroslav Baška, Ľubomír Vážny, všetko za SMER - sociálnu demokraciu, a Ján Mikolaj za SNS; ich mandát poslanca podľa čl. 77 ods. 2 Ústavy Slovenskej republiky nezaniká, iba sa neuplatňuje; 2. že podľa § 47 ods. 6 zákona č. 333/2004 Z. z. o voľbách do Národnej rady Slovenskej republiky v znení neskorších predpisov a podľa § 10 ods. 1 a 2 písm. b) zákona Národnej rady Slovenskej republiky č. 350/1996 Z. z. o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov predseda Národnej rady Slovenskej republiky rozhodnutím č. 1 z 8. júla 2010 vyhlásil nastúpenie náhradníkov na uvedené neuplatnené mandáty poslancov Národnej rady Slovenskej republiky, ktorí sú členovia vlády Slovenskej republiky, 8. júlom 2010 podľa poradia uvedeného v Zápisnici Ústrednej volebnej komisie o výsledku volieb do Národnej rady Slovenskej republiky 12. júna 2010. Za stranu SMER - sociálna demokracia namiesto poslanca Roberta Fica nastupuje náhradníčka Oľga Nachtmannová, namiesto poslanca Roberta Kaliňáka nastupuje náhradníčka Lea Grečková, namiesto poslanca Mareka Maďariča nastupuje náhradník Branislav Bačík, namiesto poslanca Jána Počiatka nastupuje náhradníčka Mária Janíková, namiesto poslanca Dušana Čaploviča nastupuje náhradník Ján Kvorka, namiesto poslanca Ľubomíra Jahnátka nastupuje náhradník Ján Zvonár, namiesto poslankyne Viery Tomanovej nastupuje náhradníčka Emília Müllerová, namiesto poslanca Richarda Rašiho nastupuje náhradník Juraj Štofko, namiesto poslanca Jaroslava Bašku nastupuje náhradník Milan Mojš, namiesto poslanca Ľubomíra Vážneho nastupuje náhradník Ján Babič. Za Slovenskú národnú stranu namiesto poslanca Jána Mikolaja nastupuje náhradník Ivan Šaško; 3. Informáciu Mandátového a imunitného výboru Národnej rady Slovenskej republiky o nastúpení náhradníkov na neuplatnené mandáty poslancov Národnej rady Slovenskej republiky. Prosím, pán predseda, otvorte rozpravu k obidvom materiálom tohto bodu programu.</seg>
             </u>
             <!--orig: SK_term_5.tsv-line18 || sorted: SK_term_5.tsv:line=18-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u348" who="#PavolPaška.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=13952">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u348.p1"/>
             </u>
@@ -1944,6 +1958,7 @@
             </incident>
             <note type="comment">Po prestávke.</note>
             <!--orig: SK_term_5.tsv-line19 || sorted: SK_term_5.tsv:line=19-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u350" who="#PavolPaška.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=13953">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u350.p1"/>
             </u>
@@ -1955,6 +1970,7 @@
                <desc>Akt tajného hlasovania.</desc>
             </vocal>
             <!--orig: SK_term_5.tsv-line20 || sorted: SK_term_5.tsv:line=20-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u352" who="#PavolPaška.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=14069">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u352.p1"/>
             </u>
@@ -1963,6 +1979,7 @@
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u353.p1">Vážené pani poslankyne, páni poslanci, poprosím vás, aby ste zaujali svoje miesta, bola vyhodnotená tajná voľba predsedu Národnej rady Slovenskej republiky a chcem požiadať povereného overovateľa, aby nás oboznámil s výsledkom tejto tajnej voľby. Pán poslanec Horváth.</seg>
             </u>
             <!--orig: SK_term_5.tsv-line21 || sorted: SK_term_5.tsv:line=21-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u354" who="#PavolPaška.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=56147">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u354.p1"/>
             </u>
@@ -1978,6 +1995,7 @@
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u356.p1">Ďakujem pekne za slovo. Vážený pán predseda, vážené panie poslankyne, páni poslanci, dovoľte mi, aby som vám oboznámil výsledky tajného hlasovania o návrhu na voľbu predsedu Národnej rady Slovenskej republiky, ktoré sa konalo pred chvíľkou. Na tajné hlasovanie o návrhu na voľbu predsedu Národnej rady Slovenskej republiky bolo vydaných a poslanci si osobne prevzali 149 hlasovacích lístkov, teda na voľbe sa zúčastnilo 149 poslancov. Po vykonaní tajného hlasovania overovatelia Národnej rady Slovenskej republiky spočítali hlasy a zistili, že v tajnom hlasovaní o návrhu na voľbu predsedu Národnej rady Slovenskej republiky 1 poslanec neodovzdal hlasovací lístok a zo 148 odovzdaných hlasovacích lístkov bolo 8 neplatných. Zo 140 platných hlasovacích lístkov overovatelia zistili, že - za kandidáta Miroslava Číža hlasovalo za 58 poslancov, proti 70 poslancov, zdržalo sa 12 poslancov, - za Richarda Sulíka hlasovalo za 75 poslancov, proti 53 poslancov a zdržalo sa 12 poslancov. Podľa čl. 89 ods. 1 Ústavy Slovenskej republiky a § 14 ods. 1 zákona Národnej rady Slovenskej republiky o rokovacom poriadku Národnej rady Slovenskej republiky v znení neskorších predpisov na zvolenie predsedu Národnej rady Slovenskej republiky je potrebný súhlas nadpolovičnej väčšiny všetkých poslancov. Overovatelia konštatujú, že v tajnom hlasovaní nebol za predsedu Národnej rady Slovenskej republiky zvolený ani jeden kandidát. Pán predseda, poprosím o opakovanú voľbu s obidvoma kandidátmi.</seg>
             </u>
             <!--orig: SK_term_5.tsv-line23 || sorted: SK_term_5.tsv:line=23-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u357" who="#PavolPaška.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=14212">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u357.p1"/>
             </u>
@@ -1990,6 +2008,7 @@
             </incident>
             <note type="comment">Po prestávke.</note>
             <!--orig: SK_term_5.tsv-line24 || sorted: SK_term_5.tsv:line=24-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u359" who="#PavolPaška.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=14213">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u359.p1"/>
             </u>
@@ -2001,6 +2020,7 @@
                <desc>Akt tajného hlasovania.</desc>
             </vocal>
             <!--orig: SK_term_5.tsv-line25 || sorted: SK_term_5.tsv:line=25-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u361" who="#PavolPaška.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=14214">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u361.p1"/>
             </u>
@@ -2012,6 +2032,7 @@
                <desc>Spracúvanie výsledkov tajného hlasovania.</desc>
             </vocal>
             <!--orig: SK_term_5.tsv-line26 || sorted: SK_term_5.tsv:line=26-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u363" who="#PavolPaška.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=14320">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u363.p1"/>
             </u>
@@ -2027,6 +2048,7 @@
                <desc>Smiech rečníka, reakcie z pléna a potlesk v sále.</desc>
             </vocal>
             <!--orig: SK_term_5.tsv-line28 || sorted: SK_term_5.tsv:line=28-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u366" who="#PavolPaška.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=14321">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u366.p1"/>
             </u>
@@ -2045,6 +2067,7 @@
                <desc>Potlesk.</desc>
             </kinesic>
             <!--orig: SK_term_5.tsv-line30 || sorted: SK_term_5.tsv:line=30-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u369" who="#PavolPaška.1958" ana="#chair" source="http://tv.nrsr.sk/transcript?id=15059">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u369.p1"/>
             </u>
@@ -2056,6 +2079,7 @@
                <desc>Potlesk.</desc>
             </kinesic>
             <!--orig: SK_term_5.tsv-line31 || sorted: SK_term_5.tsv:line=31-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u371" who="#RichardSulík.1968" ana="#chair" source="http://tv.nrsr.sk/transcript?id=5097">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u371.p1"/>
             </u>
@@ -2071,6 +2095,7 @@
             </incident>
             <note type="comment">Po prestávke.</note>
             <!--orig: SK_term_5.tsv-line32 || sorted: SK_term_5.tsv:line=32-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u373" who="#RichardSulík.1968" ana="#chair" source="http://tv.nrsr.sk/transcript?id=15060">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u373.p1"/>
             </u>
@@ -2082,6 +2107,7 @@
                <desc>Akt tajného hlasovania.</desc>
             </vocal>
             <!--orig: SK_term_5.tsv-line33 || sorted: SK_term_5.tsv:line=33-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u375" who="#RichardSulík.1968" ana="#chair" source="http://tv.nrsr.sk/transcript?id=15079">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u375.p1"/>
             </u>
@@ -2112,6 +2138,7 @@
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u379.p1">Ďakujem za oboznámenie s výsledkom voľby.Vyhlasujem, že nadpolovičnú väčšinu hlasov získali, všetkých poslancov získali a za podpredsedov Národnej rady boli zvolení poslanci Béla Bugár, Milan Hort a Pavol Hrušovský. Poprosím podpredsedov Národnej rady Slovenskej republiky, aby zaujali miesta, ktoré sú pre nich určené. Nech sa páči. Páni, smelo. Nech sa páči.</seg>
             </u>
             <!--orig: SK_term_5.tsv-line37 || sorted: SK_term_5.tsv:line=37-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u380" who="#PavolHrušovský.1952" ana="#regular" source="http://tv.nrsr.sk/transcript?id=5353">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u380.p1"/>
             </u>
@@ -2123,6 +2150,7 @@
                <desc>Potlesk.</desc>
             </kinesic>
             <!--orig: SK_term_5.tsv-line38 || sorted: SK_term_5.tsv:line=38-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u382" who="#BélaBugár.1958" ana="#regular" source="http://tv.nrsr.sk/transcript?id=5354">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u382.p1"/>
             </u>
@@ -2134,6 +2162,7 @@
                <desc>Potlesk.</desc>
             </kinesic>
             <!--orig: SK_term_5.tsv-line39 || sorted: SK_term_5.tsv:line=39-->
+            <note/>
             <u xml:id="ParlaMint-SK_2010-07-08-t5m1.u384" who="#MilanHort.1953" ana="#regular" source="http://tv.nrsr.sk/transcript?id=5355">
                <seg xml:id="ParlaMint-SK_2010-07-08-t5m1.u384.p1"/>
             </u>

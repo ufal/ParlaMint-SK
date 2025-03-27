@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ParlaMint-SK_1996-06-21-t1m16s1" xml:lang="sk">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <!-- TODO -->
+            <meeting ana="#parla.term #parla.uni" n="1">1</meeting>
+            <meeting ana="#parla.meeting #parla.uni" n="16">16</meeting>
+            <!-- TODO -->
+         </titleStmt>
+         <editionStmt>
+            <edition>3.0a</edition>
+         </editionStmt>
+         <extent>
+            <!-- TODO -->
+         </extent>
+         <publicationStmt>
+            <!-- TODO -->
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <!-- TODO -->
+               <idno type="URI" subtype="parliament">https://www.nrsr.sk/dl/Browser/Document?documentId=96361</idno>
+               <date when="1996-06-21">1996-06-21</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <!-- TODO -->
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <!-- TODO -->
+               <date when="1996-06-21">1996-06-21</date>
+            </setting>
+         </settingDesc>
+         <!-- TODO -->
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <!--orig: SK_term_1.tsv-line2299 || sorted: SK_term_1.tsv:line=2299-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u1" who="#JánSlota.1953" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u1.p1">Vážený pán predseda, vážený pán minister, vážení prítomní, zo včerajšej rozpravy, i keď vystúpili viacerí, dá sa povedať, že jedine pán poslanec Kanis mal pozmeňujúce návrhy na uznesenie k tomuto materiálu, takže by som dal hlasovať, pán predseda, o jeho pozmeňujúcich návrhoch. V prvom bode pán poslanec Kanis žiadal vypustiť písmeno B a jeho obsah, celý obsah písmena B uznesenia, v ktorom sa hovorí, že 'Národná rada konštatuje, že základné ciele a zásady národnej bezpečnosti Slovenskej republiky predstavujú bezpečnostno-politický dokument strategického významu'. Toto celé chce pán poslanec Kanis vypustiť. Odporúčam, aby to zostalo.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2300 || sorted: SK_term_1.tsv:line=2300-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u2" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u2.p1">Ďakujem. Prečítam ešte raz celé uznesenie. Uznesenie znie: 'Národná rada prerokovala podľa článku 86 písm. i) Ústavy Slovenskej republiky Základné ciele a zásady národnej bezpečnosti Slovenskej republiky predložené vládou Slovenskej republiky. ' Teraz je tu: 'B. Konštatuje, že Základné ciele a zásady národnej bezpečnosti Slovenskej republiky predstavujú bezpečnostno-politický dokument strategického významu. ' Toto pán poslanec káže vynechať. A ďalej je: 'C. súhlasí'. On navrhuje slovo 'súhlasí' prečiarknuť a napísať 'berie na vedomie Základné ciele a zásady národnej bezpečnosti Slovenskej republiky'. Takto to navrhuje. Prosím, aby sme sa prezentovali a hlasovali, či sme za takúto zmenu, alebo nie. Pán spravodajca povedal, že nie je za túto zmenu. Prosím, prezentujme sa a hlasujme. <note type="narrative">Hlasovanie.</note> Prezentovalo sa 126 poslancov. Za návrh hlasovalo 63 poslancov. Proti návrhu hlasovalo 21 poslancov. Hlasovania sa zdržalo 40 poslancov. Nehlasovali 2 poslanci. Znamená to, že návrh neprešiel, chýba jeden hlas. Ďakujem, pán spoločný spravodajca. Ďalej nemusíme hlasovať, uznesenie sme schválili tak, ako som ho prečítal. Neprešiel návrh pána poslanca Kanisa.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2301 || sorted: SK_term_1.tsv:line=2301-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u3" who="#JánSlota.1953" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u3.p1">Pán predseda, ale neviem, hlasovali sme aj o bode C? Myslím si, že musíme hlasovať ešte aj o bode C.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2302 || sorted: SK_term_1.tsv:line=2302-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u4" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u4.p1">Nie, hlasovali sme en bloc o uznesení, ako som ho prečítal, s návrhom pána Kanisa, a tento návrh pána poslanca Kanisa neprešiel.</seg>
+            </u>
+            <vocal type="noise">
+               <desc>Hlasy v sále.</desc>
+            </vocal>
+            <!--orig: SK_term_1.tsv-line2303 || sorted: SK_term_1.tsv:line=2303-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u5" who="#JánSlota.1953" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u5.p1">Osobne si myslím, že by sme mali ešte hlasovať...</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2304 || sorted: SK_term_1.tsv:line=2304-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u6" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u6.p1">Hlasovali sme o pozmeňujúcom návrhu poslanca Kanisa. To znamená, že dáme hlasovať teraz o uznesení, tak ako ho predkladá Národná rada. Prosím, prezentujme sa a hlasujme o návrhu.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2305 || sorted: SK_term_1.tsv:line=2305-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u7" who="#JánSlota.1953" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u7.p1">O uznesení Národnej rady ako celku, tak ako bolo predložené. Odporúčam ho, samozrejme, prijať.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2306 || sorted: SK_term_1.tsv:line=2306-->
+            <note type="narrative">Hlasovanie.</note>
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u8" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u8.p1">Prezentovalo sa 127 poslancov. Za návrh hlasovalo 93 poslancov. Proti návrhu hlasovalo 8 poslancov. Hlasovania sa zdržalo 24 poslancov. Nehlasovali 2 poslanci. Konštatujem, že sme toto uznesenie prijali. Ďakujem, pán spoločný spravodajca, aj vám, pani poslankyne, páni poslanci. Teraz budeme rokovať o pôvodnom deviatom bode programu, ktorým je návrh na vyslanie príslušníkov Armády Slovenskej republiky na spoločné vojenské cvičenia GUARDEX 015-96, GUARDEX 016-96 a ostré bojové streľby mimo územia Slovenskej republiky. Návrh vlády ste dostali ako tlač 433 a správu o výsledku prerokovania návrhu vo výboroch ako tlač 433a, v ktorej je aj návrh uznesenia Národnej rady. Prosím pána ministra obrany Slovenskej republiky, aby návrh uviedol.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2307 || sorted: SK_term_1.tsv:line=2307-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u9" who="#JánSitek.1956" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u9.p1">Vážený pán predseda, panie poslankyne, páni poslanci, predkladám vám na posúdenie materiál Ministerstva obrany Slovenskej republiky - návrh na vyslanie príslušníkov Armády Slovenskej republiky na spoločné vojenské cvičenia GUARDEX 015-96 a GUARDEX 016-96 a ostré bojové streľby mimo územia Slovenskej republiky, ktorý vláda Slovenskej republiky schválila na svojom zasadnutí dňa 11. júna 1996 uznesením číslo 413. Národnej rade Slovenskej republiky prináleží podľa Ústavy Slovenskej republiky článku 86 písm. 1) vysloviť súhlas na vyslanie ozbrojených síl mimo územia Slovenskej republiky. Národná rada Slovenskej republiky uznesením číslo 3 23 z 27. marca 1996 súhlasila s návrhom na uskutočnenie spoločných vojenských cvičení v rámci programu Partnerstvo za mier a bilaterálnej spolupráce Armády Slovenskej republiky v roku 1996 mimo územia Slovenskej republiky. Aj napriek snahe vlády Slovenskej republiky predložiť na rokovanie Národnej rady Slovenskej republiky v marci 1996 komplexnejší materiál týkajúci sa výcvikových aktivít za ročné obdobie boli plány Armády Slovenskej republiky spresnené a rozšírené o ďalšie cvičenia na základe iniciatívy partnerských strán. K schváleným aktivitám pribudli spoločne vojenské cvičenia GUARDEX 015-96 a GUARDEX 016-96 v rámci programov Partnerstva za mier a ostré bojové streľby jednotiek protivzdušnej obrany Armády Slovenskej republiky v rámci bilaterálnej spolupráce. Cvičenia GUARDEX 015-96 a GUARDEX 016-96 organizuje Národná garda štátu Indiana v Spojených štátoch amerických a svoju účasť na cvičení ponúkla armáde koncom mája tohto roku. Cvičenie GUARDEX 015-96 sa uskutoční v termíne od 20. júla 1996 do 3. augusta 1996 a je pozvaných 20 príslušníkov Armády Slovenskej republiky. Cieľom cvičenia je precvičiť pripravenosť jednotiek na mierové operácie s dôrazom na podporu týchto operácií. Pri tomto cvičení bude po prvýkrát použitý automatizovaný systém palebnej prípravy operácií. Cvičenie GUARDEX 016-96 sa uskutoční v termíne od 1. septembra tohto roku do 30. septembra tohto roku a pozvaní sú 3 príslušníci Armády Slovenskej republiky. Témou cvičenia je plánovanie humanitných a mierových cvičení. Obidve aktivity sú konkrétnym príspevkom na rozvoj spolupráce so štátom Indiana, ktorý je pre Slovenskú republiku partnerským štátom v rámci programu Most spolupráce. Národná rada Slovenskej republiky uznesením číslo 323 z 27. marca 1996 vyslovila súhlas s ostrými bojovými streľbami útvarov protivzdušnej obrany v Poľskej republike. Poľská strana predbežne požadovala sumu 400 až 555 tisíc USD, čo by bolo v porovnaní so streľbami tohto druhu vykonanými v minulom roku v Poľskej republike podstatne viac. Z tohto dôvodu Armáda Slovenskej republiky zvážila aj ďalšie ponuky k streľbám na území Rumunskej republiky a Bulharskej republiky. Z finančného, vojenského a technického hľadiska je ponuka Bulharskej republiky pre Armádu Slovenskej republiky najvýhodnejšia. Zmluvne dohodnuté náklady predstavujú sumu 350 tisíc USD. Uvedené aktivity mimo územia Slovenskej republiky umožnia zúčastneným jednotkám Armády Slovenskej republiky oboznámiť sa s terénom a operačnými podmienkami v danom priestore. Prispejú k zvýšeniu interoperability síl pripravovaných na mierové operácie a bojovej pripravenosti jednotiek zaradených do systému protivzdušnej obrany. Vážený pán predseda, páni poslanci, pretože uvedené aktivity prispejú k posilneniu bojaschopnosti Armády Slovenskej republiky, odporúčam vám, aby ste s predkladaným návrhom súhlasili. Ďakujem.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2308 || sorted: SK_term_1.tsv:line=2308-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u10" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u10.p1">Ďakujem pekne, pán minister. Predseda výboru pre obranu a bezpečnosť pán Imrich Andrejčák bol určený ako spoločný spravodajca výborov. Prosím ho, aby nás informoval o prerokovaní tohto návrhu vo výboroch.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2309 || sorted: SK_term_1.tsv:line=2309-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u11" who="#ImrichAndrejčák.1941" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u11.p1">Vážený pán predseda, vážení páni ministri, vážená snemovňa, predkladám spoločnú správu Zahraničného výboru Národnej rady Slovenskej republiky a Výboru Národnej rady Slovenskej republiky pre obranu a bezpečnosť o výsledku prerokovania návrhu na vyslanie príslušníkov Armády Slovenskej republiky na spoločné vojenské cvičenia GUARDEX 015-96, GUARDEX 016-96 a ostré bojové streľby mimo územia Slovenskej republiky. Predseda Národnej rady Slovenskej republiky svojím rozhodnutím číslo 1032 zo 17. júna tohto roku pridelil návrh na vyslanie príslušníkov Armády Slovenskej republiky na uvádzané cvičenia a ostré bojové streľby Výboru Národnej rady Slovenskej republiky pre obranu a bezpečnosť a Zahraničnému výboru Národnej rady. Zároveň určil Výbor Národnej rady Slovenskej republiky pre obranu a bezpečnosť pripraviť na schôdzu Národnej rady Slovenskej republiky spoločnú správu o výsledku prerokovania uvedeného materiálu vo výboroch. Zahraničný výbor Národnej rady Slovenskej republiky prerokoval návrh na vyslanie príslušníkov Armády Slovenskej republiky na uvedené vojenské cvičenia a bojové streľby dňa 18. júna a odporučil Národnej rade Slovenskej republiky vysloviť s ním súhlas. Výbor Národnej rady Slovenskej republiky pre obranu a bezpečnosť prerokoval návrh na toto vyslanie dňa 20. júna a odporučil Národnej rade vysloviť s ním súhlas. Vážené poslankyne, vážení poslanci, dovoľte mi predniesť aj návrh uznesenia Národnej rady Slovenskej republiky. Citujem z návrhu na vyslanie príslušníkov Armády Slovenskej republiky na spoločné vojenské cvičenia GUARDEX 015-96, GUARDEX 016-96 a ostré bojové streľby mimo územia Slovenskej republiky, tlač 433: 'Národná rada Slovenskej republiky podľa článku 86 písm. 1) Ústavy Slovenskej republiky vyslovuje súhlas s vyslaním príslušníkov Armády Slovenskej republiky mimo územia Slovenskej republiky za účelom uskutočnenia spoločných vojenských cvičení a ostrých bojových strelieb v roku 1996 A. v rámci programu Partnerstvo za mier -cvičenie GUARDEX 015-96 na území Spojených štátov, -cvičenie GUARDEX 016-96 na území Spojených štátov, B. v rámci bilaterálnej spolupráce ostré bojové streľby v Bulharskej republike. Bratislava 19. júna 1996. ' Ďakujem.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2310 || sorted: SK_term_1.tsv:line=2310-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u12" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u12.p1">Ďakujem pánu spoločnému spravodajcovi. Otváram k tomuto bodu programu rozpravu. Do rozpravy som nedostal žiadnu písomnú prihlášku. Ak sa nikto nehlási, končím rozpravu k tomuto bodu programu. Pán minister sa zrejme nechce vyjadriť. Pán spoločný spravodajca takisto nie. Môžeme pristúpiť k hlasovaniu. Nech sa páči, pán spoločný spravodajca.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2311 || sorted: SK_term_1.tsv:line=2311-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u13" who="#ImrichAndrejčák.1941" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u13.p1">Pán predseda, odporúčam Národnej rade návrh uznesenia Národnej rady, ktoré som prečítal, prijať.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2312 || sorted: SK_term_1.tsv:line=2312-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u14" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u14.p1">Počuli sme znenie uznesenia, budeme preto hlasovať. Prosím, aby sme sa prezentovali a hneď aj hlasovali. Pán spoločný spravodajca navrhuje prijať: toto uznesenie. <note type="narrative">Hlasovanie.</note> Prezentovalo sa 128 poslancov. Za návrh hlasovalo 124 poslancov. Proti návrhu nehlasoval nikto. Hlasovania sa zdržali 4 poslanci. Konštatujem, že sme schválili uznesenie k návrhu vlády Slovenskej republiky na vyslanie príslušníkov Armády Slovenskej republiky na spoločné vojenské cvičenia GUARDEX 015-96 a GUARDEX 016-96 a ostré bojové streľby mimo územia Slovenskej republiky. Ďakujem, pán spoločný spravodajca, aj vám, panie poslankyne, páni poslanci.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2313 || sorted: SK_term_1.tsv:line=2313-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u15" who="#ImrichAndrejčák.1941" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u15.p1">Ďakujem.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2314 || sorted: SK_term_1.tsv:line=2314-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u16" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u16.p1">S faktickou poznámkou sa prihlásil pán poslanec Cabaj. Ale môže to byť len procedurálny návrh.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2315 || sorted: SK_term_1.tsv:line=2315-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u17" who="#TiborCabaj.1954" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u17.p1">Vážený pán predseda, je to procedurálna poznámka. Dovoľte mi, aby som požiadal o 30-minútovú prestávku na poradu klubu.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2316 || sorted: SK_term_1.tsv:line=2316-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u18" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u18.p1">Pán poslanec Borovský.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2317 || sorted: SK_term_1.tsv:line=2317-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u19" who="#JánBorovský.1955" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u19.p1">Poslanecký klub Združenia robotníkov Slovenska sa k tejto požiadavke pripája.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2318 || sorted: SK_term_1.tsv:line=2318-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u20" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u20.p1">Pán poslanec Hofbauer.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2319 || sorted: SK_term_1.tsv:line=2319-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u21" who="#RomanHofbauer.1940" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u21.p1">Pán predseda, včera sme dostali materiály na prerokovanie do výboru pre hospodárstvo a privatizáciu, ale dostali sme ich prakticky až v závere rokovania, takže využívam túto 30-minútovú prestávku na schôdzu výboru pre hospodárstvo, privatizáciu a podnikanie. Prosím, aby ste prišli. Bude to veľmi rýchlo, do tých 20 minút sa bezpečne zmestíme. Nakoľko zasadnutie klubov sa bude konať bezpochyby v miestnosti číslo 30, prosím, aby ste prišli do mojej pracovne hore na číslo 209. Predseda NR SR I. Gašparovič; Dobre, čiže bude prestávka do 10. 30 hodiny.</seg>
+            </u>
+            <note type="comment">Po prestávke.</note>
+            <!--orig: SK_term_1.tsv-line2320 || sorted: SK_term_1.tsv:line=2320-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u22" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u22.p1">Vážené pani poslankyne, páni poslanci, po hodine a pol prestávky budeme pokračovať v rokovaní. Pri schvaľovaní programu 16. schôdze Národnej rady Slovenskej republiky sme rozhodli, že sa na program dnešného rokovacieho dňa zaradia body 39 až 42. Všetky body sme prakticky už prerokúvali v inom poradí. Pristúpime k tridsiatemu deviatemu bodu programu, ktorým je návrh na rozšírenie členov Osobitného kontrolného orgánu na kontrolu činnosti Slovenskej informačnej služby a na voľbu ďalších členov tohto orgánu. Kým pristúpime k rokovaniu o tomto bode, s procedurálnou poznámkou vystúpi pán poslanec Fico.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2321 || sorted: SK_term_1.tsv:line=2321-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u23" who="#RobertFico.1964" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u23.p1">Pán predseda, mám procedurálny návrh. Navrhujem, aby sme po bode 39 programu, ktorým je návrh na rozšírenie členov Osobitného kontrolného orgánu na kontrolu činnosti Slovenskej informačnej služby a na voľbu ďalších členov tohto orgánu, rokovali o bode programu číslo 33. Je to návrh skupiny poslancov Národnej rady Slovenskej republiky na vydanie zákona Národnej rady, ktorým sa mení a dopĺňa zákon číslo 192/1995 Z. z. o zabezpečení záujmov štátu pri privatizácii strategicky dôležitých štátnych podnikov a akciových spoločností. Ďalej navrhujem, aby sme odložili rokovanie o bodoch programu 41 a 42 na utorok budúci týždeň. A po tomto všetkom navrhujem, ak schválime, alebo teda neschválime návrh zákona o zabezpečení záujmov štátu, aby dnešné rokovanie Národnej rady bolo prerušené. Dávam teda komplexný návrh na zmenu programu, prosím vás, aby sme o tomto procedurálnom návrhu hlasovali ako celku bez rozpravy. Ďakujem.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2322 || sorted: SK_term_1.tsv:line=2322-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u24" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u24.p1">Ďakujem. Pán poslanec Borovský.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2323 || sorted: SK_term_1.tsv:line=2323-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u25" who="#JánBorovský.1955" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u25.p1">Pán predseda, mám tiež procedurálny návrh. V zmysle rokovacieho poriadku § 13 dávam procedurálny návrh na zmenu poradia programu schôdze. Navrhujem, aby body programu číslo 33 a 31 boli prerokované teraz, v poradí: bod číslo 33 ako prvý a bod číslo 31 ako druhý. Ostatné body programu nech sa prečíslujú. O tomto návrhu navrhujem hlasovať bez rozpravy. Ďakujem.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2324 || sorted: SK_term_1.tsv:line=2324-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u26" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u26.p1">Ďakujem. Pán poslanec Moric.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2325 || sorted: SK_term_1.tsv:line=2325-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u27" who="#VíťazoslavMóric.1946" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u27.p1">Ďakujem veľmi pekne za slovo, pán predseda.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2326 || sorted: SK_term_1.tsv:line=2326-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u28" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u28.p1">Pani poslankyne, páni poslanci, prosím pokoj.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2327 || sorted: SK_term_1.tsv:line=2327-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u29" who="#VíťazoslavMóric.1946" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u29.p1">Dovoľte mi, pán predseda, aby som vyslovil vážne znepokojenie nad prácou vášho sekretariátu. Dostala sa mi do ruky tlač 438 číslo 1004/1996 sekretariát, kde na predposlednej strane je list, ktorý píše nejaký Magyár kereszténydemokrata mozgálom, ktorý navrhuje pána Bugára za člena OKO. Ja nepoznám, čo to je 'Magyár kereszténydemokrata mozgálom' a prosím, aby ste mi viacej takéto listy z vášho sekretariátu neposielali. Ja protestujem proti tomu.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2328 || sorted: SK_term_1.tsv:line=2328-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u30" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u30.p1">Ďakujem.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2329 || sorted: SK_term_1.tsv:line=2329-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u31" who="#VíťazoslavMóric.1946" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u31.p1">Predsa v tomto štáte má každá strana svoj názov, tak je zaregistrovaná. Toto, čo si niektoré strany v tomto štáte dovoľujú, nemá obdobu v nijakom štáte.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2330 || sorted: SK_term_1.tsv:line=2330-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u32" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u32.p1">Ďakujem, pán poslanec. Ešte niekto? Pán poslanec Ásványi, jedine s procesnou pripomienkou.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2331 || sorted: SK_term_1.tsv:line=2331-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u33" who="#LászlóÁsványi.1925" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u33.p1">Ďakujem za slovo. Chcel by som upozorniť pána poslanca Mórica, že keby sa pozrel o jeden riadok nižšie, tak tam má napísaný tento názov po slovensky, ďalší riadok po anglicky, po nemecky. Neviem, ktorý jazyk ovláda. Okrem maďarčiny.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2332 || sorted: SK_term_1.tsv:line=2332-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u34" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u34.p1">Pán poslanec Moric, bol by som rád, keby sme nechali prestrelku. Povedali ste svoj názor, povedal svoj názor aj on. Súhlasím, v poriadku. Ďakujem. Budeme hlasovať najprv o procedurálnom návrhu pána poslanca Fica, ktorý navrhuje, aby sme po bode 39 rokovali hneď o bode 33 a aby sme body 41 a 42, ktoré majú nasledovať podľa pôvodného schválenia programu, preložili na rokovanie v utorok, a zároveň prerušili túto schôdzu až do utorka. Prosím, aby sme sa prezentovali a hlasovali. Počuli ste návrh. <note type="narrative">Hlasovanie.</note> Prezentovalo sa 140 poslancov. Za návrh hlasovalo 102 poslancov. Proti návrhu hlasovalo 6 poslancov. Hlasovania sa zdržalo 29 poslancov. Nehlasovali 3 poslanci. To znamená, páni poslanci, pani poslankyne, že prejdeme k prvému bodu. O návrhu pána poslanca Borovského nie je potrebné hlasovať. <vocal type="noise"><desc>Hlasy v sále.</desc></vocal> Tá zmena a ten bod, ktorý ste navrhli, je prijatý, čiže to bolo týmto potvrdené. <vocal type="noise"><desc>Hlasy v sále.</desc></vocal> Prosím? Ale prijali sme tento návrh, ktorý by potom zmenil návrh pána poslanca Fica. Prosím, dám hlasovať o návrhu pána poslanca Borovského. <vocal type="noise"><desc>Dohadovanie v sále o tom, či hlasovať alebo nie.</desc></vocal> To sa bije, však hovorím, veď vy ste povedali, že chcete hlasovať. <vocal type="noise"><desc>Hlas podpredsedu Ľuptáka: To je rozdiel.</desc></vocal> Nie je rozdiel. Páni poslanci, počúvajte dobre ešte raz. Pán poslanec Fico mal návrh a ten sme už odhlasovali. Tým sa to končí. Po bode 39 ide bod 33, odložia sa body 41 a 42 a bude sa rokovať v utorok, pretože sa preruší dnešná schôdza. Pán Borovský navrhuje, aby pred bodom 33 bol zaradený bod 31. <vocal type="noise"><desc>Pokračujúce dohadovanie v sále. Hlas podpredsedu Ľuptáka: A to hneď teraz. On dal iný návrh.</desc></vocal> Ale, pán podpredseda, pán Fico dal návrh, že po prerokovaní týchto bodov sa preruší schôdza. Čiže nie je o čom rokovať. Neviem, prečo sa so mnou škriepite. Nie je o čom rokovať. <vocal type="noise"><desc>Hlas podpredsedu Ľuptáka: Je o čom rokovať.</desc></vocal> Janko, pán podpredseda, nie, pretože pán Fico dal návrh na prerušenie schôdze. Prosím, budeme hlasovať o pozmeňujúcom návrhu pána poslanca. Vlastne nie, už sme to odhlasovali. <vocal type="noise"><desc>Hlas podpredsedu Ľuptáka: Nemôže to byť. Neuprednostňujte iných. My dávame trochu iný návrh, pozmeňujúci.</desc></vocal> Dobre. Páni poslanci, dám hlasovať o návrhu pána poslanca. Hlasujeme o návrhu pána poslanca Borovského. Ja sa nebudem s vami škriepiť. Každý logicky rozmýšľajúci vie, že to tak nie je. <note>Znova argumentovanie podpredsedu Ľuptáka.</note> <note type="narrative">Hlasovanie.</note> Prezentovalo sa 129 poslancov. Za návrh hlasovalo 36 poslancov. Proti návrhu hlasovalo 11 poslancov. Hlasovania sa zdržalo 79 poslancov. Nehlasovali 3 poslanci. Tento návrh neprešiel. Pani poslankyne, páni poslanci, teraz by sme mali prerokovať bod, ktorým je návrh na rozšírenie členov Osobitného kontrolného orgánu na kontrolu činnosti Slovenskej informačnej služby a na voľbu členov tohto orgánu. Národná rada Slovenskej republiky svojím uznesením zo 4. novembra 1994 číslo 25 zriadila podľa § 5 ods. 1 a § 6 ods. 1 zákona Národnej rady Slovenskej republiky číslo 46/1993 Z. z. o Slovenskej informačnej službe Osobitný kontrolný orgán na kontrolu činnosti Slovenskej informačnej služby v zložení predseda a štyria členovia. Podľa § 6 odseku 1 uvedeného zákona Národná rada určuje počet členov tohto Osobitného kontrolného orgánu. Navrhuje sa, aby Osobitný kontrolný orgán mal 7 členov vrátane jeho predsedu, teda aby sa tento orgán rozšíril o dvoch členov. Návrh ste dostali ako tlač 438. Súčasťou je aj návrh uznesenia Národnej rady. Návrh kandidátov na členov Osobitného kontrolného orgánu vychádza z návrhov jednotlivých poslaneckých klubov. Chcem sa spýtať, či má niekto pripomienky alebo doplňujúce návrhy. <note>Nikto.</note> Konštatujem, že nikto nemá žiaden doplňujúci návrh ani pripomienky. Pristúpime k hlasovaniu. Hlasovanie nie je ako pri iných hlasovaniach tajné, nie je tajné. Prosím, pán poslanec Fogaš.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2333 || sorted: SK_term_1.tsv:line=2333-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u35" who="#ĽubomírFogaš.1950" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u35.p1">Ďakujem za slovo. Pán predseda, keďže ide o personálne otázky a vždy sme o týchto otázkach rozhodovali v tajnom hlasovaní, odporúčam aj teraz, aby sme hlasovali tajne. <vocal type="noise"><desc>Nezrozumiteľné hlasy.</desc></vocal> Nie o počte, myslím o konkrétnych osobách.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2334 || sorted: SK_term_1.tsv:line=2334-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u36" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u36.p1">Ale teraz ideme najskôr hlasovať o tom, aby sme zmenili uznesenie, aby bol počet poslancov sedem.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2335 || sorted: SK_term_1.tsv:line=2335-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u37" who="#ĽubomírFogaš.1950" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u37.p1">Áno, len ja to beriem ako jeden návrh a aby sme už neuzavreli tú možnosť, podávam už teraz procedurálny návrh.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2336 || sorted: SK_term_1.tsv:line=2336-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u38" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u38.p1">Pokoj, páni poslanci. Nechajte hovoriť jedného. Pokračujte. Čo ste chceli povedať, pán poslanec?</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2337 || sorted: SK_term_1.tsv:line=2337-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u39" who="#ĽubomírFogaš.1950" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u39.p1">Že je to jeden návrh, ktorý sa skladá z dvoch častí, a aby sme pre prípadné uzatvorenie rozpravy neznemožnili podanie návrhu na tajné hlasovanie, podávam ho teraz.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2338 || sorted: SK_term_1.tsv:line=2338-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u40" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u40.p1">Dobre. Pán poslanec Hrušovský. Nie? <vocal type="noise"><desc>Hlasy z pléna.</desc></vocal> Hlasujeme o tom, že sa počet mení z piatich na sedem. Čiže hlasujeme najskôr o časti A návrhu uznesenia, ktorý máte predložený v rozdanom materiáli. V časti A sa navrhuje počet členov Osobitného kontrolného orgánu na kontrolu činnosti Slovenskej informačnej služby a jeho rozšírenie o dvoch. Prosím, prezentujme sa a hlasujme. <note type="narrative">Hlasovanie.</note> Prezentovalo sa 144 poslancov. Za návrh hlasovalo 83 poslancov. Proti návrhu hlasovalo 36 poslancov. Hlasovania sa zdržalo 24 poslancov. Nehlasoval 1 poslanec. Konštatujem, že sme schválili rozšírenie počtu členov Osobitného kontrolného orgánu na kontrolu činnosti Slovenskej informačnej služby o dvoch členov. Teraz budeme hlasovať o voľbe, ale procedurálne musím dať hlasovať o návrhu pána poslanca Fogaša. Pán poslanec Fogaš navrhuje, aby sme hlasovali o týchto členoch v tajnom hlasovaní. Tak som tomu rozumel, pán poslanec Fogaš. Prosím, budeme sa prezentovať a budeme hlasovať o tom, či budeme hlasovať tajne alebo verejne. <note type="narrative">Hlasovanie.</note> Prezentovalo sa 142 poslancov. Za návrh hlasovalo 87 poslancov. Proti návrhu hlasovalo 12 poslancov. Hlasovania sa zdržalo 40 poslancov. Nehlasovali 3 poslanci. Odsúhlasili sme si tajné hlasovanie. Vážení páni poslanci, to znamená, že budeme musieť mať krátku prestávku, kým kancelária pripraví... Nemusíme? Je to prichystané? Kancelária bola prichystaná aj na túto alternatívu. Dovoľte mi povedať, že klub poslancov za Spoločnú voľbu navrhuje za člena Osobitného kontrolného orgánu poslanca Viliama Sopka, klub poslancov za Kresťanskodemokratické hnutie navrhuje poslanca Ladislava Pittnera a kluby poslancov za Maďarskú koalíciu, MKDH navrhujú pána poslanca Bélu Bugára. Nemám tu vzor hlasovacieho lístka, takže momentálne neviem povedať, ako vyzerá a akým spôsobom budeme hlasovať. Už mi ho dali. Budeme hlasovať zvyčajným spôsobom. Najskôr budú hlasovať overovatelia, ktorých prosím, aby rozdali hlasovacie lístky a dozreli na priebeh tajného hlasovania. Po overovateľoch budú hlasovať predsedovia výborov a predsedníctvo. Pokiaľ ide o úpravu hlasovacieho lístku, kto chce, aby bol členom Osobitného kontrolného orgánu navrhovaný kandidát, jeho meno nechá tak, ako je napísané. Koho chce, aby nebol, tak ho vyčiarkne. Jasné? <vocal type="noise"><desc>Hlasy v sále.</desc></vocal> Platný lístok je aj vtedy, keď prečiarknete všetkých. <vocal type="noise"><desc>Hlasy v sále.</desc></vocal> A neplatný je, ak zostanú všetci traja, pretože ide len o dvoch. Jeden sa musí zo zoznamu vyčiarknuť. Ešte raz hovorím, platný je ten hlasovací lístok, na ktorom budú ponechané mená najviac dvoch kandidátov. Najskôr budú hlasovať overovatelia, potom predsedovia výborov a podpredsedovia parlamentu.</seg>
+            </u>
+            <note type="narrative">Tajné hlasovanie.</note>
+            <!--orig: SK_term_1.tsv-line2339 || sorted: SK_term_1.tsv:line=2339-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u41" who="#AugustínMariánHúska.1929" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u41.p1">Pýtam sa, vážené kolegyne a kolegovia, či má ešte niekto z vás vykonať akt tajného hlasovania. Nech sa páči. Vážené kolegyne a kolegovia, vyhlasujem tajné hlasovanie za skončené. Prosím overovateľov, aby na určenom mieste spočítali hlasy. Vyhlasujem obedňajšiu prestávku do 14. 00 hodiny. Dobrú chuť.</seg>
+            </u>
+            <note type="comment">Po prestávke.</note>
+            <!--orig: SK_term_1.tsv-line2340 || sorted: SK_term_1.tsv:line=2340-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u42" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u42.p1">Pani poslankyne, páni poslanci, budeme pokračovať. Prosím teraz povereného overovateľa, aby oznámil Národnej rade výsledky volieb.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2341 || sorted: SK_term_1.tsv:line=2341-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u43" who="#MelániaKolláriková.1943" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u43.p1">Vážený pán predseda, vážené kolegyne, kolegovia, dovoľte mi, aby som vám prečítala zápisnicu o tajnom hlasovaní na voľbu ďalších členov Osobitného kontrolného orgánu Národnej rady Slovenskej republiky na kontrolu činnosti Slovenskej informačnej služby, konanom na 16. schôdzi Národnej rady Slovenskej republiky 21. júna 1996. Na voľbu ďalších členov Osobitného kontrolného orgánu Národnej rady Slovenskej republiky na kontrolu činnosti Slovenskej informačnej služby bolo poslancom vydaných 143 hlasovacích lístkov. Po spočítaní hlasov overovatelia zistili, že v tajnom hlasovaní bolo odovzdaných 141 platných hlasovacích lístkov a 2 neplatné hlasovacie lístky. Za návrh na voľbu ďalšieho člena Osobitného kontrolného orgánu Národnej rady Slovenskej republiky na kontrolu činnosti Slovenskej informačnej služby Viliama Sopka hlasovalo 87 poslancov, za Ladislava Pittnera 69 poslancov a za Bélu Bugára 51 poslancov. Overovatelia konštatujú, že Národná rada Slovenskej republiky zvolila za ďalšieho člena Osobitného kontrolného orgánu Národnej rady Slovenskej republiky na kontrolu činnosti Slovenskej informačnej služby pána poslanca Viliama Sopka, ktorý dosiahol a prekročil hranicu 79 hlasov. <kinesic type="applause"><desc>Potlesk v sále.</desc></kinesic> Ďalší dvaja členovia túto hranicu neprekročili, čiže voľba ďalšieho sa bude musieť ešte zopakovať. Gratulujem pánu poslancovi Sopkovi.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2342 || sorted: SK_term_1.tsv:line=2342-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u44" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u44.p1">Ďakujem pekne, pani poslankyňa. Budeme postupovať podľa volebného poriadku. Volebný poriadok hovorí, že pred konaním nového kola volieb predsedajúci schôdzu preruší. Počas prerušenia sa uskutočnia schôdze poslaneckých klubov, poslanci môžu navrhnúť, iného, čiže za každý poslanecký klub poslanci môžu navrhnúť nových kandidátov. To znamená, že budem čakať na návrhy kandidátov. Podľa schváleného bodu programu teraz budeme pokračovať tridsiatym tretím bodom, a to je návrh skupiny poslancov Národnej rady Slovenskej republiky na vydanie zákona Národnej rady Slovenskej republiky, ktorým sa mení s dopĺňa zákon Národnej rady Slovenskej republiky číslo 192/1995 Z. z. o zabezpečení záujmov štátu pri privatizácii strategicky dôležitých štátnych podnikov a akciových spoločností. Návrh zákona ste dostali ako tlač 3 35, správu o výsledku prerokovania návrhu vo výboroch Národnej rady ako tlač 335a. Za skupinu poslancov návrh zákona odôvodní pani poslankyňa Brigita Schmögnerová. Pán poslanec Maxon, je to procedurálny návrh? Nech sa páči.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2343 || sorted: SK_term_1.tsv:line=2343-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u45" who="#MiroslavMaxon.1951" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u45.p1">Ďakujem pekne za slovo. Vzhľadom na to, že máme k dispozícii spoločnú správu k tomuto bodu rokovania a v spoločnej správe je uvedené, že výbor pre financie, rozpočet a menu tento návrh pod tlačou číslo 355 neprerokoval, toto už nie je skutočnosťou, tak by som potom prosil spoločného spravodajcu, aby všetkých informoval o uznesení výboru pre financie, rozpočet a menu k tomuto predmetu rokovania. Ďakujem pekne.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2344 || sorted: SK_term_1.tsv:line=2344-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u46" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u46.p1">Dobre, ďakujem. Nech sa páči, pani poslankyňa Schmögnerová.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2345 || sorted: SK_term_1.tsv:line=2345-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u47" who="#BrigitaSchmögnerová.1947" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u47.p1">Vážený pán predseda, vážená poslanecká snemovňa, dovoľte, aby som vám zdôvodnila predloženie novelizácie zákona číslo 192/1995 Z. z. o zabezpečení záujmov štátu pri privatizácii strategicky dôležitých štátnych podnikov a akciových spoločností, ktorý máte pred sebou ako tlač číslo 335. Ide o veľmi krátky návrh zákona, ktorý je však svojím dosahom veľmi dôležitý. V návrhu zákona sa predkladá, aby dve finančné inštitúcie - Slovenská sporiteľňa, a. s., a Slovenská poisťovňa, a. s., boli zahrnuté do § 2 zákona číslo 192/1995 Z. z., to znamená medzi tie spoločnosti a štátne podniky, ktoré nemajú byť ďalej privatizované. Vdruhej časti návrhu sa navrhuje, aby Všeobecná úverová banka a Investičná a rozvojová banka boli zahrnuté do § 3 ods. 1 zákona číslo 192/1995 Z. z., t. j. aby boli zaradené medzi strategické podniky, na ktoré sa nevzťahuje klauzula o neprivatizovateľnosti, ale pri ktorých sa zvyšujú právomoci zakladateľského orgánu. Dovoľte, aby som stručne zdôvodnila tento návrh. Slovenská poisťovňa a Slovenská sporiteľňa sú dve významné finančné inštitúcie. Obidve majú monopolné postavenie, Slovenská sporiteľňa na trhu úspor, resp. na trhu vkladov, kde má zhruba asi medzi 80 až 84 %, a Slovenská poisťovňa na trhu poistných vkladov, kde má podiel medzi 75 až 80 %. V súčasnosti neexistujú žiadne legislatívne úpravy, ktoré by zamedzovali zneužitiu monopolného postavenia týchto dvoch inštitúcií na obidvoch trhoch. Neexistuje zákon o štátnom dozore, neexistuje Úrad štátneho dozoru, ktorý by mohol účinne vykonávať štátny dozor nad obidvoma inštitúciami. Predpokladáme, že prijatie zákona o štátnom dozore, zriadenie Úradu pre štátny dozor a podobne si vyžiada určitý čas. Diverzifikácia na obidvoch trhoch je časovo ešte náročnejšia, i keď na trhu poistných vkladov už máme niekoľko súkromných inštitúcií, ktoré, myslím si, v budúcnosti budú rozhodne znižovať vážnosť monopolného postavenia Slovenskej poisťovne. Už dnes dávajú mnohé komerčné banky na trhu vkladov možnosť zhromažďovať vklady od obyvateľstva. Druhým dôvodom, ktorý treba brat do úvahy, je fakt, že Slovenská sporiteľňa a aj dve ďalšie finančné inštitúcie -Všeobecná úverová banka a Investičná a rozvojová banka -sú poznamenané tým, že majú pomerne zlú štruktúru svojich úverov. Otázka zlého úverového portfólia týchto inštitúcií nie je nová, existuje tu už niekoľko rokov. Bohužiaľ, v tomto smere sa ešte neuskutočnili dostatočne účinné opatrenia. Ich uskutočnenie zo strany štátu predpokladá schválenie novelizácie zákona o rezervách a oprávkach a predpokladá aj vyčlenenie určitých zdrojov v štátnom rozpočte, aby sa tento ozdravný proces mohol rozbehnúť. Naša poslanecká snemovňa prijala novelizáciu zákona o bankách, kde sa prijalo aj rozhodnutie o tom, že tieto inštitúcie budú zo zákona musieť byť reštrukturalizované. Chcem teda upozorniť, že v danej situácii, ale aj na najbližšie obdobie nie sú vytvorené vhodné podmienky na to, aby tieto inštitúcie, predovšetkým Slovenská sporiteľňa a Slovenská poisťovňa, sa privatizovali. Nezabezpečilo by to dostatočnú ochranu vkladov a dostatočnú ochranu pred zneužitím ich monopolného postavenia. Vzhľadom na to, že vo Všeobecnej úverovej banke a Investičnej a rozvojovej banke bude potrebné uskutočniť proces reštrukturalizácie úverového portfólia, treba zvážiť aj to, či sa predtým uskutoční ďalšia privatizácia týchto inštitúcií. Na základe toho, vážené poslankyne, vážení poslanci, vás prosím o podporu novelizácie zákona číslo 192/1995 Z. z. o zabezpečení záujmov štátu pri privatizácii strategicky dôležitých štátnych podnikov a akciových spoločností. Ďakujem za pozornosť.</seg>
+            </u>
+            <kinesic type="applause">
+               <desc>Potlesk.</desc>
+            </kinesic>
+            <!--orig: SK_term_1.tsv-line2346 || sorted: SK_term_1.tsv:line=2346-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u48" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u48.p1">Ďakujem, pani poslankyňa, aj ja vám. Ako spoločný spravodajca výborov bol určený predseda výboru pán Hofbauer. Prosím ho, aby podal správu o výsledkoch prerokovania návrhu zákona vo výboroch Národnej rady.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2347 || sorted: SK_term_1.tsv:line=2347-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u49" who="#RomanHofbauer.1940" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u49.p1">Vážený pán predseda, vážené pani poslankyne, vážení páni poslanci, návrh skupiny poslancov Národnej rady Slovenskej republiky na vydanie zákona Národnej rady Slovenskej republiky, ktorým sa mení a dopĺňa zákon Národnej rady Slovenskej republiky číslo 192/1995 Z. z. o zabezpečení záujmov štátu pri privatizácii strategicky dôležitých štátnych podnikov a akciových spoločností, tlač číslo 335, pridelil predseda Národnej rady Slovenskej republiky rozhodnutím číslo 769 z 5. februára 1996 na prerokovanie Ústavnoprávnemu výboru Národnej rady Slovenskej republiky, Výboru Národnej rady Slovenskej republiky pre financie, rozpočet a menu a Výboru Národnej rady Slovenskej republiky pre hospodárstvo, privatizáciu a podnikanie v lehote po prijatí stanoviska vlády Slovenskej republiky a súčasne určil ako príslušný Výbor Národnej rady Slovenskej republiky pre hospodárstvo, privatizáciu a podnikanie na skoordinovanie stanovísk výborov Národnej rady Slovenskej republiky s tým, že sa skoordinované stanoviská výborov Národnej rady Slovenskej republiky premietnu v spoločnej správe výborov Národnej rady Slovenskej republiky. Predseda Národnej rady Slovenskej republiky rozhodnutím číslo 1041 z 20. júna 1996 pozmenil svoje rozhodnutie číslo 769 z 5. februára 1996 tak, že určil lehotu na prerokovanie návrhu skupiny poslancov Národnej rady Slovenskej republiky na vydanie zákona Národnej rady Slovenskej republiky ihneď. Stanovisko vlády Slovenskej republiky k návrhu skupiny poslancov na vydanie zákona Národnej rady Slovenskej republiky v čase spracovania spoločnej správy nebolo známe. Výbor Národnej rady Slovenskej republiky pre financie, rozpočet a menu a Výbor Národnej rady Slovenskej republiky pre hospodárstvo, privatizáciu a podnikanie v čase spracovania spoločnej správy neprerokovali návrh skupiny poslancov Národnej rady Slovenskej republiky na vydanie zákona. Tieto výbory prerokovali návrh zákona osobitne, a to dnes, a ich uznesenia sú preto osobitnou prílohou spoločnej správy. Ústavnoprávny výbor Národnej rady Slovenskej republiky dňa 21. júna 1996 prerokoval návrh skupiny poslancov na vydanie zákona Národnej rady Slovenskej republiky a neprijal uznesenie k návrhu skupiny poslancov Národnej rady Slovenskej republiky na vydanie zákona Národnej rady Slovenskej republiky, ktorým sa mení a dopĺňa zákon Národnej rady Slovenskej republiky číslo 192/1995 Z. z. o zabezpečení záujmov štátu pri privatizácii strategicky dôležitých štátnych podnikov a akciových spoločností, lebo podľa § 48 ods. 1 zákona Slovenskej národnej rady číslo 44/1989 Zb. o rokovacom poriadku Slovenskej národnej rady v znení neskorších predpisov nevyslovila s ním súhlas nadpolovičná väčšina všetkých členov výboru. Vážení kolegovia, súčasťou spoločnej správy sú teda tieto dve uznesenia, ktoré som dostal osobitne, a v týchto uzneseniach boli prijaté odporúčania na pozmeňujúce návrhy, ktoré tu prečítam a treba ich chápať ako stanovisko k spoločnej správe. Výbor Národnej rady Slovenskej republiky pre hospodárstvo, privatizáciu a podnikanie prijal tento pozmeňujúci návrh: V bode 1 textu návrhu skupiny poslancov v tretom riadku za slovami 'štátne podniky' vypustiť slovo 'alebo' a nahradiť ho čiarkou a vo štvrtom riadku za slová 's účasťou štátu' vypustiť slovo 'alebo' a nahradiť ho slovami 'a akcie' a ďalej pokračovať pôvodným textom. Tento pozmeňujúci návrh bol prerokovaný s predkladateľmi a precizuje pôvodný text návrhu. Ďalej ako súčasť spoločnej správy treba chápať aj pozmeňujúci návrh Výboru Národnej rady Slovenskej republiky pre financie, rozpočet a menu k bodu 2, a to v bode 2 písm. f) slovo 'alebo' nahradiť slovom 'a'. Toto sú všetky pozmeňujúce návrhy, ktoré treba chápať ako stanoviská k spoločnej správe. Odporúčam ich prijatie, vážený pán predseda.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2348 || sorted: SK_term_1.tsv:line=2348-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u50" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u50.p1">Ďakujem pekne pánu spoločnému spravodajcovi. Do rozpravy sa prihlásil predseda ústavnoprávneho výboru pán Brňák.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2349 || sorted: SK_term_1.tsv:line=2349-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u51" who="#PeterBrňák.1959" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u51.p1">Vážený pán predseda, panie poslankyne, páni poslanci, na základe nie nevýznamného tlaku relevantných medzinárodných inštitúcií, či už Medzinárodného menového fondu, Svetovej banky alebo OECD, ktoré navrhujú privatizáciu aj peňažných inštitúcií, resp. žiadajú oznámiť termín, kedy sa pristúpi k tejto privatizácii, navrhujem obmedziť účinnosť tejto novely do dátumu 31. 3. 1997. Môj pozmeňujúci, resp. doplňujúci návrh teda znie: v texte článku II návrhu novely tohto zákona vypustiť bodku a pokračovať v texte 'a stráca účinnosť 31. 3. 1997'. Ďakujem.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2350 || sorted: SK_term_1.tsv:line=2350-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u52" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u52.p1">Ďakujem. Do rozpravy sa hlási pán poslanec Slota. Nech sa páči.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2351 || sorted: SK_term_1.tsv:line=2351-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u53" who="#JánSlota.1953" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u53.p1">Vážený pán predseda, vážení prítomní, som skutočne veľmi rád, že Slovenská národná strana podporou tohto návrhu bude môcť preukázať tie dehonestujúce reči o tom, že Slovenská národná strana je proste nejakým spôsobom zainteresovaná v privatizácii poisťovní, až natoľko, že by spochybňovala nejaké koaličné vzťahy. Sme skutočne veľmi radi a myslím si, že sa vyjadrí aj môj kolega Ľupták, že dôjde k zahrnutiu týchto peňažných ústavov do strategických podnikov tohto štátu. A naveky vekov amen tak, aby nikdy nikým neboli privatizované. Nie v roku 1997, nech sú aj v roku 2097 tieto peňažné ústavy stále ako peňažné ústavy štátu. Ďakujem pekne za pozornosť.</seg>
+            </u>
+            <kinesic type="applause">
+               <desc>Potlesk.</desc>
+            </kinesic>
+            <!--orig: SK_term_1.tsv-line2352 || sorted: SK_term_1.tsv:line=2352-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u54" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u54.p1">Pán poslanec Palacka.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2353 || sorted: SK_term_1.tsv:line=2353-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u55" who="#GabrielPalacka.1960" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u55.p1">Vážený pán predseda, vážené kolegyne, kolegovia, pri tomto návrhu zákona sa vlastne žiada opýtať, aký je účel tejto novely zákona o strategických podnikoch. Je účelom zabrániť, privatizácii Slovenskej sporiteľne a Slovenskej poisťovne? Pravdepodobne áno, z vystúpenia pani predkladateľky to vyplýva. Môžeme mať rôzne názory na potrebu privatizácie týchto inštitúcií, ale za existujúcich okolností na Slovensku akceptujem, že dnes je dôvod na neprivatizáciu poisťovne a sporiteľne. V tomto prípade však musím upozorniť, že návrh, tak ako ho formulovali predkladatelia, tento účel vôbec nespĺňa. Kolegovia totiž nepostrehli, čo je pri privatizácii podľa zákona 92/1991 Zb. o veľkej privatizácii predmetom privatizácie. Nikdy to nebol a nie je majetok akciových spoločností. Tu, pravda, nemám na mysli, keď nejaká spoločnosť predá napríklad Ford Escort svojmu riaditeľovi ako fyzickej osobe. Aj to je určitý druh privatizácie, ale nie je to privatizácia podľa zákona číslo 92/1991 Zb. Musíme totiž rozlíšiť majetok akciovej spoločnosti a majetok štátu, resp. Fondu národného majetku. V privatizácii je pri akciových spoločnostiach bežný postup, že Fond národného majetku predá akcie, ktoré zhmotňujú jeho majetkovú účasť v danej akciovej spoločnosti. Fond národného majetku nikdy nemôže predať, teda privatizovať, majetok akciovej spoločnosti - budovy, pozemky, stroje a iný hmotný alebo nehmotný majetok akciovej spoločnosti. To je vo výlučnej kompetencii orgánov danej akciovej spoločnosti. Predložený návrh zákona tomuto nezabráni. Túto problematiku som konzultoval aj s pracovníkmi legislatívneho odboru Kancelárie Národnej rady Slovenskej republiky, ktorí toto potvrdili a vlastne potom predložili pozmeňujúci návrh, ktorý bol predložený do výborov. Bohužiaľ, ani jeden výbor si tento návrh neosvojil. Samozrejme, je možné aj iné vysvetlenie. Predkladatelia mohli chcieť, len budiť, dojem starostlivosti o osud monopolných finančných inštitúcií a predložiť, zákon, ktorým budú predstierať celej verejnosti, že zachránili majetok pred rozkrádaním. V skutočnosti sa však týmto zákonom nezachráni vôbec nič. Ja verím, že takýto úmysel predkladatelia nemali. Potom však návrh svedčí o ich nekompetentnosti alebo neznalosti základných ekonomických právnych pojmov, rozdielu medzi akciami a majetkom akciových spoločností. Aby som túto nezrovnalostí odstránil, navrhujem tento pozmeňujúci návrh: Po prvé: bod 1 sa vypúšťa. Po druhé: bod 2 sa označí ako bod 1 a znie: V § 2 ods. 3 sa za slová 'Slovenských elektrární, a. s., Bratislava' vkladajú slová 'Slovenskej sporiteľne, a. s., Bratislava a Slovenskej poisťovne, a. s., Bratislava' a text za bodkočiarkou v tomto odseku sa vypúšťa. A bod 3 sa označí ako bod 2. Myslím, že týmto návrhom sa podarí dosiahnuť pôvodný účel, ktorý predkladatelia mali na mysli. Ďakujem.</seg>
+            </u>
+            <kinesic type="applause">
+               <desc>Potlesk.</desc>
+            </kinesic>
+            <!--orig: SK_term_1.tsv-line2354 || sorted: SK_term_1.tsv:line=2354-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u56" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u56.p1">Ďakujem pánu poslancovi Palackovi. Ďalej sa do rozpravy hlási pán poslanec Černák.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2355 || sorted: SK_term_1.tsv:line=2355-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u57" who="#ĽudovítČernák.1951" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u57.p1">Vážený pán predseda, kolegyne a kolegovia, otázka privatizácie finančnej inštitúcie je nesmierne dôležitá a nie je to otázka prístupu jednotlivých politických strán, lobbistických skupín, ale je to otázka prístupu k celej ekonomike ako celku. Aj to bol dôvod, keď sa začalo diskutovať o privatizácii, prečo som aj ja, podobne ako kolegyňa Schmögnerová, navrhol novelizáciu príslušného zákona, dokonca som ju podal asi o dva dni skôr. Ja som pôvodne navrhoval všetky štyri finančné inštitúcie zaradiť do prvej skupiny, kolegyňa Schmögnerová s kolegom Ficom to prepracovali lepšie a navrhli len Slovenskú sporiteľňu a Slovenskú poisťovňu zaradiť do prvej skupiny a do druhej skupiny Všeobecnú úverovú banku a Investičnú a rozvojovú banku. Preto som svoj návrh stiahol a budem podporovať jej návrh, ale dopredu som s nimi konzultoval, že pri reštrukturalizácii našej ekonomiky pri vyslaní signálov, o ktorých hovoril pán kolega Brňák, by bolo vhodné platnosť tohto zákona časovo obmedziť. Zásadne však nie do marca roka 1997. Tí, ktorí troška robia v tejto oblasti, vedia, že reštrukturalizácia úverového portfólia, ozdravenie vstupu kapitálu, eventuálne navŕšenie, pripravenie privatizačných projektov je proces, ktorý sa dá optimisticky odhadnúť na niekoľko rokov a nie na niekoľko mesiacov. Ono, viete, vôbec diskutovať o tom, či ho časovo obmedziť, či nie, je nie veľmi logické, pretože zákon sa dá novelizovať, kedy chceme, a dátumy sa tam dajú zmeniť tak, ako sa prejaví väčšinová politická vôľa. Ale aby sme vyslali signál tým finančným inštitúciám, o ktorých hovoril kolega Brňák, mali by sme jasne povedať - áno, zatiaľ ich nebudeme privatizovať, chceme urobiť tie kroky v poradí, ako som ich menoval, t. j. reštrukturalizácia úverového portfólia, ozdravenie, kapitálové posilnenie, vybudovanie rezerv finančných a privatizačných projektov, a potom privatizovať. Tento proces som po konzultáciách s čelnými predstaviteľmi všetkých finančných inštitúcií odhadoval na 4 až 5 rokov, a preto dávam nasledujúci pozmeňujúci návrh, aby v tej časti, ktorá hovorí o nadobudnutí účinnosti, bola bodka zrušená a doplnený text 'a platí do 31. 12. 2000'. Nielen tým, že sa prvýkrát v našich zákonoch zjavuje dátum 2000, ale predovšetkým tým, že sú to 4 roky aj čosi, vás prosím o podporu tohto časového obmedzenia. Ďakujem za pochopenie, návrh odovzdávam písomne. Znovu by som chcel apelovať na tých, ktorí rozumejú situácii vo finančných inštitúciách, aby nesiahli k politickému riešeniu a dali tam obmedzenie na niekoľko mesiacov, ktoré zjavne zvádza k tomu, že zatiaľ sme sa nedohodli, ale za rok sa asi dohodneme, ale aby volili z ekonomického hľadiska a tam je potrebný časový interval 4 až 5 rokov. Ďakujem.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2356 || sorted: SK_term_1.tsv:line=2356-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u58" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u58.p1">Ďakujem. Pán poslanec Filkus, nech sa páči.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2357 || sorted: SK_term_1.tsv:line=2357-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u59" who="#RudolfFilkus.1927" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u59.p1">Vážený pán predseda, kolegyne, kolegovia, celkom jednoznačne poviem hneď na začiatku, že nie som proti privatizácii aj takýchto veľkých peňažných ústavov. Ale v tejto etape transformačného procesu by sme určite urobili chybu, keby sme prikročili k tejto privatizácii. Odhliadam od všetkých politických aspektov, ktoré tu sú a o ktorých sme už x-krát hovorili. Chcem vás vyslovene presvedčiť o tom, že vecne by sme urobili ohromnú chybu. V tejto etape transformačného procesu slovenskej ekonomiky sme niekoľko ráz deklarovali, že musíme našim občanom, a to nie je fráza, vytvoriť určitú garanciu na poistnom a vkladovom trhu tých inštitúcii, ktoré prevažujú na danom trhu. To je jedna vec - garancia. Garancia štátu. My sme o tom vo výbore diskutovali. Druhá vec, že musíme vytvoriť bariéry, aby monopolné postavenie týchto inštitúcií, znovu najmä na poistnom a vkladovom trhu, boli také veľké, aby toto svoje monopolné postavenie nemohli zneužívať. A prečo hovorím v tejto etape transformačného procesu? Pretože sme si povedali, že musíme reštrukturalizovať, zmeniť bankovú sféru, musíme reštrukturalizovať podnikovú sféru <note>viete o problémoch so stratovými podnikmi a všetkým ostatným, čo sme už tiež mnoho ráz opakovali</note>, a keby sme to v tejto etape urobili, tak by sme vlastne oslabili ďalšie kroky v transformačnom procese. Samozrejme, to však súčasne znamená, že nemôžem teraz tu deklarovať a povedať, že po 7 mesiacoch 31. 3., či po 9 mesiacoch bude ukončený transformačný proces a už tento zákon nebude pôsobiť. No to je strašne slabá argumentácia, dymová clona a nechcem ju dostať do politickej roviny, i keď možno hľadať. určité zázemie politického charakteru. Predsa nie je možné teraz povedať, že po deviatich mesiacoch dostaneme túto ekonomiku do takého stavu, že všetko bude v poriadku, to, čo máme pred sebou, a to, čo sa nám doteraz nepodarilo v transformačnom procese urobiť. Som zásadne proti tomu, aby sa tu prichádzalo s hocijakým obdobím, do ktorého by mal tento zákon platiť. Potom radšej k novelizácii zákona nepristupujme. A potom sa treba znovu k tomu vrátiť a hľadať v tom nejaké iné motívy a nie motívy ekonomického charakteru. Pozmeňujúce návrhy tak, ako ich interpretoval pán poslanec Palacka, sme mali vo výbore, rokovali sme o nich. Samozrejme, možno prijať buď alternatívu pozmeňujúcich návrhov, ale alternatívu tých pozmeňujúcich návrhov, ktoré do určitej miery zodpovedajú poňatiu aj v interpretácii pána predsedu Hofbauera. Ono v podstate doplnením akcií alebo zmenou bodu, ktorú navrhoval pán Palacka, dosiahneme to isté. Treba si to povedať, v čom nie. Jednoznačne sme hovorili o akciách, tak si zdokumentujme tie dva prístupy vedia seba. Poprosil by som pána spravodajcu, keď bude dávať tieto alternatívy, aby dopodrobna povedal ich interpretáciu, lebo je to mimoriadne vážna vec. Ďakujem.</seg>
+            </u>
+            <kinesic type="applause">
+               <desc>Potlesk.</desc>
+            </kinesic>
+            <!--orig: SK_term_1.tsv-line2358 || sorted: SK_term_1.tsv:line=2358-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u60" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u60.p1">Ďakujem, pán poslanec. Pán poslanec Vaškovič - faktická poznámka. Nech sa páči.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2359 || sorted: SK_term_1.tsv:line=2359-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u61" who="#ViliamVaškovič.1945" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u61.p1">Vážený pán predseda, vážené kolegyne, kolegovia, zastávam tiež ten názor, ktorý tu prezentoval pán profesor Filkus. Chcem však upozorniť na jednu vec, ktorú som povedal aj vo výbore, keď sme to prerokúvali, že len tento krok vôbec nepostačuje. Totiž ak nedôjde k ďalšiemu kroku, a to k dôslednej kontrole štátu a k dôslednému výkonu práv akcionára v týchto inštitúciách, tak je to o ničom. Prosím vás pekne, už aj vrabce na streche čvirikajú o tom, čo sa v týchto inštitúciách deje, ako sa tam dávajú úvery. Pokiaľ v dozorných radách budú sedieť ľudia, ktorí o financiách ani neslýchali, pokiaľ budú tieto inštitúcie viest ľudia, ktorí o poisťovníctve alebo o peňažníctve vedia iba z rýchlika, v tom prípade je to krok úplne slabulinký. Čiže za týmto krokom musia nasledovať konzekventne personálne zmeny v orgánoch týchto spoločností. A na to musí byť politická vôľa, ale musia tam byť odborníci a nie politickými stranami delegovaní šaškovia. Ďakujem.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2360 || sorted: SK_term_1.tsv:line=2360-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u62" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u62.p1">Pani poslankyne, páni poslanci, hlási sa ešte niekto do rozpravy?</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2361 || sorted: SK_term_1.tsv:line=2361-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u63" who="#MiroslavMaxon.1951" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u63.p1">Ak dovolíte, len z miesta poviem jednu poznámku alebo dve poznámky. Tie pozmeňujúce návrhy, jednak pána poslanca Palacku i pána poslanca Černáka, i keď, samozrejme, každý sa vecne týka niečoho iného, majú nepochybne istý stupeň opodstatnenosti. Možno v tejto chvíli nie je celkom vhodné, ale podľa mňa je dôležité pripomenúť jednu vec, že na druhej strane by som predkladateľom týchto návrhov chcel pripomenúť dosť jednoznačné stanoviská súvisiace s privatizáciou finančných ústavov Slovenskej republiky napríklad z OECD, kde sa veľmi jasne deklaruje odporúčanie tieto peňažné ústavy privatizovať a, samozrejme, požadujú dve veci - stanoviť spôsob a metódy privatizácie a druhú vec - stanoviť jej časovú postupnosť. Nepochybne tie termíny, ktoré sú z hľadiska účinnosti zákona navrhnuté, môžu byť predmetom diskusie o tom, či je možné ten proces zvládnuť, za 9 mesiacov alebo 7 mesiacov, alebo či tento proces taxatívne stanoviť do 31. 12. roku 2000, ako navrhoval kolega pán poslanec Černák. Túto svoju faktickú poznámku som považoval za potrebné uviesť, lebo je to požiadavka alebo odporúčanie nielen OECD, ale napríklad aj Svetovej banky. A mnohokrát sa o nej diskutovalo aj na pôde parlamentu, nie v súvislosti s privatizáciou peňažných ústavov, ale v súvislosti s transformáciou slovenskej ekonomiky a vtedy požiadavky týchto inštitúcií boli interpretované voči nám ako požiadavky, ktoré je potrebné špiniť. Ďakujem pekne za pozornosť.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2362 || sorted: SK_term_1.tsv:line=2362-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u64" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u64.p1">Ďakujem. Páni poslanci, pani poslankyne, keďže sa nikto nehlási do rozpravy, končím rozpravu k tomuto bodu programu. Pýtam sa pani predkladateľky, či sa chce vyjadriť. Pani poslankyňa Schmögnerová, ale pri pulte.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2363 || sorted: SK_term_1.tsv:line=2363-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u65" who="#BrigitaSchmögnerová.1947" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u65.p1">Ak dovolíte, chcela by som sa vyjadriť k niektorým návrhom, ktoré treba brat do úvahy. V uznesení, ktoré prijal výbor pre financie a menu, je jeden pozmeňujúci návrh. Upozorňujem, že sa doň vkradla chyba. Legislatívny odbor uviedol zlé číslo odseku. Nemá to byť dvojka, ich návrh sa vzťahuje nie na odsek, ale na bod číslo 1. To je prvá poznámka. Druhá poznámka: Prijatie pozmeňujúceho návrhu, ktorý prijal výbor pre hospodárstvo a privatizáciu, rieši zároveň aj návrh, ktorý prijal výbor pre financie a menu. Pripomínam to, aby nedošlo k chybným hlasovaniam. Tretia poznámka: Riešenie, ktoré predložil pán poslanec Palacka, v porovnaní s riešením, ktoré navrhujeme my a ktoré je súčasťou uznesenia gesčného výboru, je odlišné v jednom bode. Návrh gesčného výboru okrem akcií zahŕňa návrh neprivatizovať ani majetok akciových spoločností. Je otázkou, či chceme zabrániť tomu, aby tieto finančné inštitúcie - Slovenská sporitelňa a Slovenská poisťovňa - nakladali s majetkom, do ktorého patria budovy, pozemky atď., alebo im chceme v tom zabrániť. V tom je odlišnosť tých dvoch návrhov. Nechávam na vaše zváženie, ktorý návrh podporíte. Prirodzene, pri druhom návrhu môžu vzniknúť, určité komplikácie pri nakladaní s nepotrebným majetkom, resp. napríklad pri vyraďovaní niektorých základných prostriedkov s určitou zostatkovou cenou. Dovoľte, aby som sa vyjadrila k časovej náročnosti procesov, ktoré je nevyhnutné uskutočniť, aby sa vytvorili základné predpoklady pre niektoré ďalšie kroky. Prirodzene, návrhy, ktoré odzneli zo strán určitých inštitúcií, ako je OECD, Európska únia, Svetová banka, sú návrhy veľmi všeobecné a nevzťahujú sa konkrétne na tie inštitúcie, ktoré tu riešime, t. j. na Slovenskú sporiteľňu a Slovenskú poisťovňu. Rozhodujúcejšie ako rýchla privatizácia je to, aby sa privatizáciou neurobili základné chyby, ktoré sa nedajú už napraviť. Preto tomuto kroku musí predchádzať určitý proces, ktorý by mal zahrnúť obmedzenie, resp. limitovanie nebezpečenstva zneužitia monopolného postavenia a ozdravenie prvej skupiny finančných inštitúcií. Prirodzene, veľa bude závisieť od toho, či sa bude pokračovať takým tempom, ako sa pokračovalo dosial, keď zatiaľ sme v priebehu 3 rokov neboli schopní prijať ani legislatívu, ktorá upravuje nevyhnutné podmienky na reštrukturalizáciu úverového portfólia a zavedenie štátneho dozoru. Osobne sa nazdávam, že nadmerné urýchľovanie tohto procesu je asi dosť ťažko schodné. Preto dávam na vaše zváženie, aby ste aj toto brali do úvahy. Ďakujem za pozornosť.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2364 || sorted: SK_term_1.tsv:line=2364-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u66" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u66.p1">Ďakujem pani predkladateľke. Pýtam sa pána spoločného spravodajcu, či sa chce vyjadriť k rozprave.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2365 || sorted: SK_term_1.tsv:line=2365-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u67" who="#RomanHofbauer.1940" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u67.p1">Nie.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2366 || sorted: SK_term_1.tsv:line=2366-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u68" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u68.p1">Ak nie, môžeme pristúpiť k hlasovaniu. Nech sa páči, pán spoločný spravodajca.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2367 || sorted: SK_term_1.tsv:line=2367-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u69" who="#RomanHofbauer.1940" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u69.p1">Vážený pán predseda, pani poslankyne, páni poslanci, spolu existuje päť pozmeňujúcich návrhov k tomuto textu návrhu zákona skupiny poslancov Národnej rady Slovenskej republiky. Budem zaradom uvádzať jednotlivé pozmeňujúce návrhy vrátane tých, ktoré boli prijaté výbormi, alebo ktoré prešli výbormi.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2368 || sorted: SK_term_1.tsv:line=2368-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u70" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u70.p1">Najskôr musíte uvádzať návrhy zo spoločnej správy.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2369 || sorted: SK_term_1.tsv:line=2369-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u71" who="#RomanHofbauer.1940" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u71.p1">Áno, začneme tými, ktoré sú zo spoločnej správy. Prvý je návrh výboru pre hospodárstvo, privatizáciu a podnikanie, ktorý sa týka bodu 1 v tretom riadku a s tými úpravami, ktoré som uviedol. Odporúčam ho neprijať.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2370 || sorted: SK_term_1.tsv:line=2370-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u72" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u72.p1">Prosím, prezentujme sa a hlasujme o prvom pozmeňujúcom návrhu zo spoločnej správy s odporúčaním neprijať ho. <note type="narrative">Hlasovanie.</note> Prezentovalo sa 128 poslancov. Za návrh hlasovalo 40 poslancov. Proti návrhu hlasovalo 62 poslancov. Hlasovania sa zdržalo 24 poslancov. Nehlasovali 2 poslanci. Neprijali sme tento pozmeňujúci návrh.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2371 || sorted: SK_term_1.tsv:line=2371-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u73" who="#RomanHofbauer.1940" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u73.p1">Ďalší je pozmeňujúci návrh výboru pre rozpočet, financie a menu, týka sa bodu 2. Odporúčam ho prijať.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2372 || sorted: SK_term_1.tsv:line=2372-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u74" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u74.p1">Prosím, prezentujme sa a hlasujme. Pán spoločný spravodajca odporúča prijať druhý pozmeňujúci návrh. <note type="narrative">Hlasovanie.</note> Prezentovalo sa 133 poslancov. Za návrh hlasovalo 127 poslancov. Proti návrhu nehlasoval nikto. Hlasovania sa zdržalo 6 poslancov. Tento návrh prešiel.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2373 || sorted: SK_term_1.tsv:line=2373-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u75" who="#RomanHofbauer.1940" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u75.p1">Ďalšie tri pozmeňujúce návrhy vyplynuli z rozpravy poslancov. Prvý odznel návrh pána poslanca Brňáka, týka sa účinnosti zákona do 31. 3. 1997. Návrh odporúčam prijať.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2374 || sorted: SK_term_1.tsv:line=2374-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u76" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u76.p1">Prosím, prezentujme sa a hlasujme o pozmeňujúcom návrhu pána poslanca Brňáka s odporúčaním prijať ho. <note type="narrative">Hlasovanie.</note> Prezentovalo sa 134 poslancov. Za návrh hlasovalo 70 poslancov. <kinesic type="applause"><desc>Potlesk.</desc></kinesic> Proti návrhu hlasovalo 50 poslancov. Hlasovania sa zdržalo 14 poslancov. Tento pozmeňujúci návrh sme prijali. Pokračujte, pán spoločný spravodajca.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2375 || sorted: SK_term_1.tsv:line=2375-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u77" who="#RomanHofbauer.1940" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u77.p1">Ďakujem, pán predseda. Ďalší vystúpil v rozprave pán poslanec Palacka, ktorý predložil 3 návrhy, ktoré spolu súvisia. Po prvé - bod 1 sa vypúšťa, po druhé - bod 2 sa označí ako bod 1 a znie tak, ako uviedol, a po tretie - bod 3 sa označí ako bod 2. Dávam o týchto troch hlasovať naraz, pretože vecne spolu súvisia a odporúčam ich neprijať. <vocal type="noise"><desc>Ruch v sále.</desc></vocal> Áno, dobre. Prvý je k bodu 1 - bod 1 sa vypúšťa. Po druhé - bod 2 sa označí ako bod 1 a znie: V § 2 ods. 3 za slová 'Slovenských elektrární, a. s., Bratislava' sa vkladajú slová 'Slovenskej sporiteľne, a. s., Bratislava, Slovenskej poisťovne, a. s., Bratislava' a text za bodkočiarkou sa vypúšťa. A bod 3 sa označí ako 2. Odporúčam návrh neprijať.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2376 || sorted: SK_term_1.tsv:line=2376-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u78" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u78.p1">Prosím, prezentujme sa a hlasujme. Pán spoločný spravodajca odporúča návrh neprijať. <note type="narrative">Hlasovanie.</note> Prezentovalo sa 134 poslancov. Za návrh hlasovalo 61 poslancov. Proti návrhu hlasovalo 62 poslancov. Hlasovania sa zdržalo 11 poslancov. Neprijali sme tento pozmeňujúci návrh.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2377 || sorted: SK_term_1.tsv:line=2377-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u79" who="#RomanHofbauer.1940" ana="#regular">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u79.p1">Ďakujem, pán predsedajúci. Ako posledný bol návrh pána Černáka, ale ten v podstate bol vyriešený prijatím pozmeňujúceho návrhu pána poslanca Brňáka, takže hlasovať o ňom je bezpredmetné. Tým sme vyčerpali všetky pozmeňujúce návrhy k tomuto textu zákona a odporúčam hlasovať o zákone ako celku.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2378 || sorted: SK_term_1.tsv:line=2378-->
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u80" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u80.p1">V súlade s ustanovením § 26 ods. 1 zákona o rokovacom poriadku budeme hlasovať o návrhu zákona ako celku v znení schválených zmien a doplnkov. Prosím, prezentujme sa a hneď hlasujme. Poslanec R. Hofbauer; Odporúčam ho prijať.</seg>
+            </u>
+            <!--orig: SK_term_1.tsv-line2379 || sorted: SK_term_1.tsv:line=2379-->
+            <note type="narrative">Hlasovanie.</note>
+            <u xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u81" who="#IvanGašparovič.1941" ana="#chair">
+               <seg xml:id="ParlaMint-SK_1996-06-21-t1m16s1.u81.p1">Prezentovalo sa 96 poslancov. Za návrh hlasovalo 91 poslancov. Proti návrhu nehlasoval nikto. Hlasovania sa zdržalo 5 poslancov. Konštatujem, že uvedený zákon sme prijali. <kinesic type="applause"><desc>Potlesk.</desc></kinesic> Vážené pani poslankyne, vážení páni poslanci, tak ako sme sa dohodli v priebehu dnešného rokovania, prerušujem schôdzu do utorka do 14. 00 hodiny. Oznamujem, že letecká preprava pre poslancov Národnej rady po prerušení 16. schôdze je zabezpečená tak, že lietadlo odlieta hodinu po skončení schôdze. Autobus 30 minút po skončení. Taký rýchly sled je preto, lebo lietadlo sa musí vrátiť, ide mimo republiky. Prílet lietadla bude v utorok 25. júna približne o 12. 00 hodine s tým, že z Košíc odletí o 10. 00 hodine, z Popradu o 10. 40 hodine.</seg>
+            </u>
+         </div>
+      </body>
+   </text>
+</TEI>

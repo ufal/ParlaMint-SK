@@ -62,10 +62,8 @@ while(my $speech = $data->next_row()){
     $date = $strp->parse_datetime("$date");
     my $new_date = $date->strftime('%Y%m%d');
     print STDERR "$new_date)\n";
-    # save current day
-    save_day($day, $out_dir) if $day;
     # patch date in $data
-    $data->set_date_patcher($data->{date}, $new_date);
+    $data->set_date_patcher($speech->{raw}->{date}, $new_date);
     # init day with correct day
     $data->self_update($speech->{raw});
     $data->{speeches} -= 1;
@@ -73,11 +71,12 @@ while(my $speech = $data->next_row()){
     $speech->{parlamint}->{date} = $data->{date_formated};
     $day = init_day($speech);
     # insert notes
-    log_source($day->{div},$speech);
-    while(@move_to_next_day) {
-      my $note = note_element(shift @move_to_next_day);
-      $day->{div}->appendChild($note) if $note;
-    }
+    $speech->{parlamint}->{content} = [@move_to_next_day];
+    @move_to_next_day = (add_speech($day, $speech));
+    #while(@move_to_next_day) {
+    #  my $note = note_element(shift @move_to_next_day);
+    #  $day->{div}->appendChild($note) if $note;
+    #}
   }
 }
 
@@ -99,7 +98,15 @@ sub add_speech {
 
 
   ## print STDERR "TODO: move this to reader!!!\n";
-  my @content = @{$speech->{parlamint}->{content}//[]};
+  my @content_next_day = @{$speech->{parlamint}->{content}//[]};
+  my @content = (shift @content_next_day); # insert first data
+  while(@content_next_day){
+    if( not($content_next_day[0]->{is_text}) 
+        && $content_next_day[0]->{content} =~ m/deň rokovania.*schôdze Národnej rady Slovenskej/) {
+      last;
+    }
+    push @content, (shift @content_next_day);
+  }
   # print notes and skip whitespaces before utterance
   while(@content && (not($content[0]->{is_text}) || $content[0]->{content} =~ /^\s+$/)) {
     my $note = note_element(shift @content);
@@ -124,14 +131,11 @@ sub add_speech {
   }  
   while(@context_after){
     my $content = shift @context_after;
-    if( $content->{content} =~ m/deň rokovania.*schôdze Národnej rady Slovenskej/){ # text if new day starts
-      unshift @context_after, $content;
-      return @context_after;
-    }
     my $note = note_element($content);
     $day->{div}->appendChild($note) if $note;
   }
-  return ();
+  
+  return @content_next_day;
 }
 
 

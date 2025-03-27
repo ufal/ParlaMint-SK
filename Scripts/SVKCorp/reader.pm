@@ -16,8 +16,10 @@ sub new {
     tsv_record => undef,
     fh => undef,
     date => undef,
+    date_formated => undef,
     tei_id => undef,
     tei_id_seen => {},
+    tei_id_seen_n => {},
     current_row => undef,
     parse_speech => !!$args{parse_speech},
     split_speech => !!$args{split_speech},
@@ -100,13 +102,15 @@ sub next_row {
   $self->self_update($row);
   my $src = $self->{files}->[$self->{file_idx}].":line=".($self->{tsv_record}+1);
   $src =~ s#^.*/##;
+  my $tei_id = $self->{tei_id};
+  $tei_id .= "s".$self->{tei_id_seen_n}->{$tei_id} if $self->{tei_id_seen_n}->{$tei_id};
   return {
     raw => $row,
     first_speech => ($self->{speeches} == 1),
     source => $src,
     parlamint => {
-      tei_id => $self->{tei_id},
-      u_id => $self->{tei_id}.".u".$self->{speeches},
+      tei_id => $tei_id,
+      u_id => $tei_id.".u".$self->{speeches},
       speaker_id => get_speaker_id($row),
       date => $self->{date_formated} ,
       content => [split_content($row->{speech})],
@@ -119,18 +123,25 @@ sub next_row {
 sub self_update {
   my $self = shift;
   my $row = shift;
-  $row->{date} = $self->patch_date($row->{date});
-  my $date = join('-', unpack "A4A2A2", $row->{date});
-  my $tei_id = "ParlaMint-SK_$date-t".$row->{term}."m".($row->{meeting}//'--');
+  my $date = $self->patch_date($row->{date});
+  my $date_formated = join('-', unpack "A4A2A2", $date);
+  my $tei_id = "ParlaMint-SK_$date_formated-t".$row->{term}."m".($row->{meeting}//'--');
   
+  my $date_change = ($date != $self->{date});
+  if($date_change){
+    $self->info("date change ".$self->{date}." => ".$date);
+    $self->error("date change (wrong date order)".$self->{date}." => ".$date) if $date < $self->{date};
+  }
   my $first_speech = not(defined $self->{tei_id}) || $self->{tei_id} ne $tei_id;
   $self->{speeches} = 0 if $first_speech;
   $self->{speeches} += 1;
   if(defined $self->{tei_id_seen}->{$tei_id} && $first_speech){
     $self->error("Duplicit document ID $tei_id (previous on row ".$self->{tei_id_seen}->{$tei_id}.")");
+    $self->{tei_id_seen_n}->{$tei_id} //= 0;
+    $self->{tei_id_seen_n}->{$tei_id} += 1;
   }
-  $self->{date} = $row->{date};
-  $self->{date_formated} = $date;
+  $self->{date} = $date;
+  $self->{date_formated} = $date_formated;
   $self->{tei_id} = $tei_id;
   $self->{tei_id_seen}->{$tei_id} = $self->{tsv_record};
   return $self;
@@ -140,13 +151,14 @@ sub set_date_patcher {
   my $self = shift;
   my $in = shift;
   my $out = shift;
-  $self->{patch_date} = {$in => $out};
+  $self->{patch_date} = { $in => $out};
+  print STDERR "INFO: setting date patcher $in => $out\n";
   return $self;  
 }
 sub patch_date {
   my $self = shift;
   my $in = shift;
-  if (exists $self->{patch_date}->{$in}) {
+  if ($self->{patch_date}->{$in}) {
     return $self->{patch_date}->{$in}
   }
   $self->{patch_date} = {};
@@ -252,6 +264,11 @@ sub log {
   my $text = shift;
   my $status = shift // 'INFO';
   print STDERR "$status: ".$self->{files}->[$self->{file_idx}].":".($self->{tsv_record}+1)." $text\n";
+}
+sub info {
+  my $self = shift;
+  my $text = shift;
+  $self->log($text, 'INFO');
 }
 sub warn {
   my $self = shift;
